@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Moodl#1742",
         "name": "Stains 2",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/Stains%202.json"
     },
     "background": {
         "overlay_alpha": 0,
