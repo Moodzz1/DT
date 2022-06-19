@@ -47,15 +47,15 @@
         "primary_dark_700": -3616552,
         "primary_dark_660": -3616552,
         "primary_dark_300": -10983272,
-        "primary_dark_360": -7237221,
-        "uikit_btn_bg_color_selector_red": -5532260,
+        "primary_dark_360": -1065646166,
+        "uikit_btn_bg_color_selector_red": -4346416,
         "link": -5347328,
         "primary_630": -3351836,
         "ripple_material_light": -238109482,
         "transparent": -5139012,
         "status_grey_200": -10983272,
-        "uikit_settings_item_text_color_light": -6247756,
-        "uikit_settings_item_text_color_dark": -11908534
+        "uikit_settings_item_text_color_light": -1250184005,
+        "uikit_settings_item_text_color_dark": -11313283
     },
     "drawable_tints": {
         "ic_channel_lock_16dp": -7237221,
