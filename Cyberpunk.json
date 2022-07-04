@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Moodl#0999",
         "name": "CyberWorld",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/Cyberpunk.json?token=GHSAT0AAAAAABSPPOIW53KAV2YOTMGFXSXOYWDATVQ"
     },
     "background": {},
     "fonts": {
@@ -23,7 +24,7 @@
         "primary_dark_630": -13220008,
         "primary_dark_800": -13483695,
         "primary_dark_360": -8670787,
-        "primary_dark_700": -13483695,
+        "primary_dark_700": -12693148,
         "white": -8667502,
         "white_500": -3816569,
         "primary_dark_300": -4351874,
