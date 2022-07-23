@@ -19,15 +19,15 @@
     "simple_colors": {
         "statusbar": -5191464,
         "active_channel": -1251431500,
-        "accent": -8695950,
-        "mention_highlight": 1387307236,
+        "accent": -5996636,
+        "mention_highlight": -2135908124,
         "blocked_bg": -3034920
     },
     "colors": {
         "primary_dark_200": -15856114,
         "primary_dark_630": -5191464,
-        "primary_dark_800": -5191464,
-        "white_500": -12047742,
+        "primary_dark_800": -6768692,
+        "white_500": -15649938,
         "primary_dark_600": -3614488,
         "brand_new_230": -3228458,
         "brand_new_260": -4829826,
