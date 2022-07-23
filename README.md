@@ -4,4 +4,4 @@ just stuff for discord ig, mostly my sucky Aliuwucord themes collection
 
 
 ### Cyberworld
-A cyberpunk-esque color heme based of (https://metalloriff.github.io/city-fog/)
+A cyberpunk-esque color theme based of (https://metalloriff.github.io/city-fog/)
