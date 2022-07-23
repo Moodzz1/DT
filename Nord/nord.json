@@ -3,7 +3,7 @@
         "name": "norde",
         "author": "Moodl",
         "version": "1.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/nord.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/Nord\/nord.json"
     },
     "background": {
         "overlay_alpha": 0,
