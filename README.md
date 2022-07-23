@@ -9,7 +9,4 @@ A cyberpunk-esque color palette/theme designed to give a cold but lively feel. B
 [Download](https://github.com/Quinxxxx/Disc-stuff/blob/main/Cyberworld.json)
 
 
-### Nord
-Based off the well known [Nord colour palette](https://www.nordtheme.com/)
 
-[Download](https://github.com/Quinxxxx/Disc-stuff/blob/main/nord.json)
