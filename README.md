@@ -10,6 +10,6 @@ A cyberpunk-esque color theme based of (https://metalloriff.github.io/city-fog/)
 
 
 ### Nord
-Based off the well known [nord](https://www.nordtheme.com/) colour palette 
+Based off the well known [nord colour palette](https://www.nordtheme.com/)
 
 [download](https://github.com/Quinxxxx/Disc-stuff/blob/main/nord.json)
