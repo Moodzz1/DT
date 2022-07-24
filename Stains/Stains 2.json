@@ -1,0 +1,67 @@
+{
+    "manifest": {
+        "author": "Moodl#1742",
+        "name": "Stains 2",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/Stains%202.json"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/987333315591815198\/Snapchat-363631265.jpg"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524451874074664\/verdana-bold.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524451534311474\/verdana-bold-italic.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524452079566868\/verdana.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/\/attachments\/\/784158474761273374\/\/963211030509522954\/\/GoogleSans-Medium.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/990406573023166474\/Storopia.ttf"
+    },
+    "simple_colors": {
+        "statusbar": -5191464,
+        "active_channel": -1251431500,
+        "accent": -5996636,
+        "mention_highlight": -2135908124,
+        "blocked_bg": -3034920
+    },
+    "colors": {
+        "primary_dark_200": -15856114,
+        "primary_dark_630": -5191464,
+        "primary_dark_800": -6768692,
+        "white_500": -15649938,
+        "primary_dark_600": -3614488,
+        "brand_new_230": -3228458,
+        "brand_new_260": -4829826,
+        "brand_new_300": -3228458,
+        "brand_new_330": -3228458,
+        "brand_new_345": -3228458,
+        "brand_new_360": -3228458,
+        "brand_new_400": -3228458,
+        "brand_new_430": -3228458,
+        "brand_new_460": -3228458,
+        "brand_new_500": -3228458,
+        "brand_new_530": -3228458,
+        "brand_new_560": -3228458,
+        "brand_new_600": -3228458,
+        "brand_new_630": -3228458,
+        "primary_dark_400": -10983272,
+        "primary_dark_700": -4140315,
+        "primary_dark_660": -4601899,
+        "primary_dark_300": -10983272,
+        "primary_dark_360": -850301799,
+        "uikit_btn_bg_color_selector_red": -4346416,
+        "link": -5347328,
+        "primary_630": -3351836,
+        "ripple_material_light": -238109482,
+        "transparent": -5139012,
+        "status_grey_200": -10983272,
+        "uikit_settings_item_text_color_light": -1250184005,
+        "uikit_settings_item_text_color_dark": -11313283
+    },
+    "drawable_tints": {
+        "ic_channel_lock_16dp": -7237221,
+        "drawable_overlay_category_pressed_dark": -5191464,
+        "drawable_overlay_channel_pressed_dark": -5191464,
+        "drawable_overlay_channel_pressed_light": -5191464
+    },
+    "raws": {}
+}
