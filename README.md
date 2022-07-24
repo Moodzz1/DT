@@ -3,7 +3,7 @@
  
 
 <details>
-<summary>### My Aliuwucord themes collection</summary>
+###<summary> My Aliuwucord themes collection</summary>
 <br>
 - #### [Cyberworld](https://github.com/Quinxxxx/Disc-stuff/blob/main/Cyberworld/README.md)
 - #### [Nord](https://github.com/Quinxxxx/Disc-stuff/blob/main/Nord/README.md)
