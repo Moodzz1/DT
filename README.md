@@ -15,9 +15,10 @@
 <div align="center">
     <h1>Wallpapers</h1>
     <p>
-        Random Walls Frenzy totally did not steal. It includes:<br />
-        <b>Nord</b>, <b>Catpuccin</b,>
-    </p>
+        Random wallpapers, based of colour schemes.(totally haven't stolen any of these)<br />
+        <b>Nord</b>, <b>Catpuccin</b>
+    
+</p>
 
 </div>
 
