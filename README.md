@@ -18,7 +18,7 @@
         Random wallpapers, based of colour schemes.(totally haven't stolen any of these)<br />
         <b>Nord</b>, <b>Catpuccin</b>
     
-</p>
+    </p>
 
 </div>
 
