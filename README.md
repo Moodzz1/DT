@@ -1,7 +1,3 @@
-# Disc-stuff
-
- 
-
 <details>
 <summary>My Aliuwucord themes collection </summary>
 <br>
