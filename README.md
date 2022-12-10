@@ -1,5 +1,5 @@
 <details>
-<summary>My Aliuwucord themes collection </summary>
+<summary>Themes collection </summary>
 <br>
 
   - #### [Cyberworld](https://github.com/Quinxxxx/Disc-stuff/blob/main/Cyberworld/README.md)
