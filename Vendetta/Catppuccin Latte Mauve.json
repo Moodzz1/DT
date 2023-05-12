@@ -10,7 +10,8 @@
     "semanticColors": {
       "BACKGROUND_ACCENT": [
       "#f25858",
-      "#8c8fa1",   "#f25858"
+      "#8c8fa1",   
+      "#f25858"
       ],
       "BACKGROUND_FLOATING": [
       "#141111",
@@ -224,7 +225,7 @@
       ]
   },
     "rawColors": {
-      "BRAND_260": "#6c6f85",
+      "BRAND_260": "#1e66f5",
       "BRAND_360": "#8839ef",
       "BRAND_500": "#8839ef",
       "GREEN_360": "#40a02b",
@@ -236,7 +237,7 @@
       "PRIMARY_500": "#4c4f69",
       "PRIMARY_600": "#eff1f5",
       "PRIMARY_630": "#acb0be",
-      "PRIMARY_660": "#dce0e8",
+      "PRIMARY_660": "#bcc0cc",
       "PRIMARY_700": "#e6e9ef",
       "PRIMARY_800": "#e6e9ef",
       "RED_400": "#e64553",
