@@ -3,8 +3,8 @@
     "description": "😸 Soothing pastel theme for the high-spirited!",
     "authors": [
       {
-        "name": "Quinx",
-        "id": "696446023815397456"
+        "name": "Moodl",
+        "id": "716941151386599464"
       }
     ],
     "semanticColors": {
@@ -69,7 +69,7 @@
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
       "#584e4e7a",
-      "#ccd0da",
+      "#e6e9ef",
       "#4038387a"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
@@ -79,7 +79,7 @@
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#584e4e99",
-      "#bcc0cc",
+      "#ccd0da",
       "#40383899"
       ],
       "BACKGROUND_NESTED_FLOATING": [
@@ -159,7 +159,7 @@
       ],
       "INTERACTIVE_MUTED": [
       "#584e4e",
-      "#6c6f85",
+      "#acb0be",
       "#584e4e"
       ],
       "INTERACTIVE_NORMAL": [
@@ -234,7 +234,7 @@
       "PRIMARY_360": "#8839ef",
       "PRIMARY_400": "#8c8fa1",
       "PRIMARY_500": "#4c4f69",
-      "PRIMARY_600": "#4c4f69",
+      "PRIMARY_600": "#eff1f5",
       "PRIMARY_630": "#acb0be",
       "PRIMARY_660": "#dce0e8",
       "PRIMARY_700": "#e6e9ef",
