@@ -15,7 +15,7 @@
       ],
       "BACKGROUND_FLOATING": [
       "#141111",
-      "#ffffff",
+      "#e6e9ef",
       "#0d0c0c"
       ],
       "BACKGROUND_MENTIONED": [
@@ -55,7 +55,7 @@
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#383131",
-      "#e6e9ef",
+      "#eff1f5",
       "#000000"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
