@@ -45,12 +45,12 @@
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
       "#f794940f",
-      "#f7949433",
+      "#7c7f93",
       "#f794940f"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#0202020f",
-      "#8c8fa1",
+      "#7c7f93",
       "#0202020f"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
@@ -200,7 +200,7 @@
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#221e1e",
-      "#bcc0cc",
+      "#7c7f93",
       "#221e1e"
       ],
       "TEXT_DANGER": [
@@ -238,7 +238,7 @@
       "PRIMARY_600": "#eff1f5",
       "PRIMARY_630": "#acb0be",
       "PRIMARY_660": "#bcc0cc",
-      "PRIMARY_700": "#e6e9ef",
+      "PRIMARY_700": "#eff1f5",
       "PRIMARY_800": "#e6e9ef",
       "RED_400": "#e64553",
       "WHITE_500": "#e6e9ef",
