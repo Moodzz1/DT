@@ -65,12 +65,12 @@
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#584e4e7a",
-      "#e6e9ef",
+      "#7c7f93",
       "#4038387a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
       "#584e4e7a",
-      "#eff1f5",
+      "#e6e9ef",
       "#4038387a"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
@@ -127,11 +127,6 @@
       "#383131",
       "#eff1f5",
       "#000000"
-      ],
-      "FORUM_POST_TAG_BACKGROUND": [
-      "#282323e6",
-      "#efebebe6",
-      "#282323e6"
       ],
       "HEADER_PRIMARY": [
       "#f5f2f2",
@@ -239,7 +234,7 @@
       "PRIMARY_630": "#acb0be",
       "PRIMARY_660": "#bcc0cc",
       "PRIMARY_700": "#dce0e8",
-      "PRIMARY_800": "#e6e9ef",
+      "PRIMARY_800": "#eff1f5",
       "RED_400": "#e64553",
       "WHITE_500": "#e6e9ef",
       "YELLOW_300": "#df8e1d"
