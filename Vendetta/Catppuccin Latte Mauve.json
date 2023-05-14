@@ -15,7 +15,7 @@
       ],
       "BACKGROUND_FLOATING": [
       "#141111",
-      "#eff1f5",
+      "#e6e9ef",
       "#0d0c0c"
       ],
       "BACKGROUND_MENTIONED": [
@@ -238,7 +238,7 @@
       "PRIMARY_600": "#eff1f5",
       "PRIMARY_630": "#acb0be",
       "PRIMARY_660": "#bcc0cc",
-      "PRIMARY_700": "#e6e9ef",
+      "PRIMARY_700": "#dce0e8",
       "PRIMARY_800": "#e6e9ef",
       "RED_400": "#e64553",
       "WHITE_500": "#e6e9ef",
