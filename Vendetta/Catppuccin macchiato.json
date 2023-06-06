@@ -71,9 +71,6 @@
       "CHANNELS_DEFAULT": [
       "#a49494"
       ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-      "#24273a"
-      ],
       "CHAT_BACKGROUND": [
       "#24273a"
       ],
@@ -148,7 +145,7 @@
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#1e2030",
       "RED_400": "#ee99a0",
-      "WHITE_500": "#24273a",
+      "WHITE_500": "#8bd5ca",
       "YELLOW_300": "#eed49f"
     },
     "spec": 2
