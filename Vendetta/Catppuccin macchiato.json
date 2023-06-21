@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#eed49f"
+      "#8aadf4"
       ],
       "BACKGROUND_FLOATING": [
       "#1e2030"
@@ -130,7 +130,7 @@
       ]
   },
     "rawColors": {
-      "BRAND_260": "#8aadf4",
+      "BRAND_260": "#eed49f",
       "BRAND_360": "#c6a0f6",
       "BRAND_500": "#c6a0f6",
       "GREEN_360": "#a6da95",
