@@ -1,5 +1,5 @@
 {
-    "name": "Catppuccin macchiato sky",
+    "name": "Catppuccin macchiato",
     "description": "😸 Soothing pastel theme for the high-spirited!",
     "authors": [
       {
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#91d7e3"
+      "#8aadf4"
       ],
       "BACKGROUND_FLOATING": [
       "#1e2030"
@@ -66,7 +66,7 @@
       "#181926"
       ],
       "CHANNEL_ICON": [
-      "#91d7e3"
+      "#a6da95"
       ],
       "CHANNELS_DEFAULT": [
       "#939ab7"
@@ -102,16 +102,16 @@
       "#fbc9c9"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-      "#91d7e3"
+      "#f5a97f"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-      "#91d7e3"
+      "#f5a97f"
       ],
       "SCROLLBAR_THIN_THUMB": [
-      "#91d7e3"
+      "#f5a97f"
       ],
       "SCROLLBAR_THIN_TRACK": [
-      "#91d7e3"
+      "#f5a97f"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#939ab7"
@@ -130,14 +130,14 @@
       ]
   },
     "rawColors": {
-      "BRAND_260": "#91d7e3",
-      "BRAND_360": "#91d7e3",
-      "BRAND_500": "#91d7e3",
+      "BRAND_260": "#eed49f",
+      "BRAND_360": "#c6a0f6",
+      "BRAND_500": "#c6a0f6",
       "GREEN_360": "#a6da95",
       "PRIMARY_100": "#cad3f5",
       "PRIMARY_300": "#24273a",
-      "PRIMARY_360": "#91d7e3",
-      "PRIMARY_400": "#91d7e3",
+      "PRIMARY_360": "#c6a0f6",
+      "PRIMARY_400": "#c6a0f6",
       "PRIMARY_500": "#cad3f5",
       "PRIMARY_600": "#24273a",
       "PRIMARY_630": "#24273a",
