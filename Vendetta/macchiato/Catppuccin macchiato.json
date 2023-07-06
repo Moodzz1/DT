@@ -1,5 +1,5 @@
 {
-    "name": "Catppuccin macchiato",
+    "name": "Catppuccin macchiato(beta)",
     "description": "😸 Soothing pastel theme for the high-spirited!",
     "authors": [
       {
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#8aadf4"
+      "#eed49f"
       ],
       "BACKGROUND_FLOATING": [
       "#1e2030"
@@ -69,6 +69,9 @@
       "#a6da95"
       ],
       "CHANNELS_DEFAULT": [
+      "#72778F"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
       "#939ab7"
       ],
       "CHAT_BACKGROUND": [
@@ -90,7 +93,7 @@
       "#939ab7"
       ],
       "INTERACTIVE_MUTED": [
-      "#5b6078"
+      "#939ab7"
       ],
       "INTERACTIVE_NORMAL": [
       "#939ab7"
@@ -138,6 +141,7 @@
       "PRIMARY_300": "#24273a",
       "PRIMARY_360": "#c6a0f6",
       "PRIMARY_400": "#c6a0f6",
+      "PRIMARY_460": "#1e2030",
       "PRIMARY_500": "#cad3f5",
       "PRIMARY_600": "#24273a",
       "PRIMARY_630": "#24273a",
