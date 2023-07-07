@@ -1,5 +1,5 @@
 {
-    "name": "Catppuccin macchiato(beta)",
+    "name": "Catppuccin macchiato",
     "description": "😸 Soothing pastel theme for the high-spirited!",
     "authors": [
       {
@@ -103,6 +103,9 @@
       ],
       "MENTION_FOREGROUND": [
       "#fbc9c9"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+       "#2B2E41"
       ],
       "SCROLLBAR_AUTO_THUMB": [
       "#f5a97f"
