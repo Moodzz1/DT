@@ -194,7 +194,13 @@
       "YELLOW_800": "#eed49f",
       "YELLOW_830": "#eed49f",
       "YELLOW_860": "#eed49f",
-      "YELLOW_900": "#eed49f"
+      "YELLOW_900": "#eed49f",
+      "REDDIT": "#ed8796",
+      "TWITCH": "#c6a0f6",
+      "TWITTER": "#8aadf4",
+      "SPOTIFY": "#a6da95",
+      "STEAM": "#b7bdf8",
+      "XBOX": "#a6da95"
     },
     "spec": 2
 }
