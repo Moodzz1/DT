@@ -69,6 +69,9 @@
       "#c6a0f6"
       ],
       "CHANNELS_DEFAULT": [
+      "#72778F"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
       "#939ab7"
       ],
       "CHAT_BACKGROUND": [
@@ -90,7 +93,7 @@
       "#939ab7"
       ],
       "INTERACTIVE_MUTED": [
-      "#5b6078"
+      "#939ab7"
       ],
       "INTERACTIVE_NORMAL": [
       "#939ab7"
@@ -125,6 +128,9 @@
       "TEXT_LINK": [
       "#b7bdf8"
       ],
+      "TEXT_LINK_LOW_SATURATION": [
+      "#b7bdf8"
+      ],
       "TEXT_MUTED": [
       "#a5adcb"
       ],
@@ -146,6 +152,7 @@
       "PRIMARY_300": "#24273a",
       "PRIMARY_360": "#c6a0f6",    
       "PRIMARY_400": "#c6a0f6",
+      "PRIMARY_460": "#1e2030",
       "PRIMARY_500": "#cad3f5",
       "PRIMARY_600": "#24273a",
       "PRIMARY_630": "#24273a",
