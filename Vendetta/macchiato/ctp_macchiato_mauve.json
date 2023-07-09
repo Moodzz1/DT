@@ -71,6 +71,9 @@
       "CHANNELS_DEFAULT": [
       "#a5adcb"
       ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER" : [
+      "#a5adcb"
+      ],
       "CHAT_BACKGROUND": [
       "#24273a"
       ],
