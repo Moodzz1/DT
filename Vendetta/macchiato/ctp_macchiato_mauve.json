@@ -98,6 +98,9 @@
       "MENTION_BACKGROUND": [
       "#f258584d"
       ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#1e2030"
+      ],
       "MENTION_FOREGROUND": [
       "#fbc9c9"
       ],
@@ -132,8 +135,10 @@
     "rawColors": {
       "BRAND_260": "#c6a0f6",
       "BRAND_360": "#c6a0f6",
+      "BRAND_430": "#a6da95",
       "BRAND_500": "#c6a0f6",
       "GREEN_360": "#a6da95",
+      "GREEN_430": "#a6da95",
       "PRIMARY_100": "#cad3f5",
       "PRIMARY_300": "#24273a",
       "PRIMARY_360": "#c6a0f6",
@@ -145,6 +150,21 @@
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#1e2030",
       "RED_400": "#ee99a0",
+      "RED_260": "#ee99a0",
+      "RED_300": "#ee99a0",
+      "RED_330": "#ee99a0",
+      "RED_345": "#ee99a0",
+      "RED_360": "#ee99a0",
+      "RED_400": "#ee99a0",
+      "RED_430": "#ee99a0",
+      "RED_460": "#ee99a0",
+      "RED_500": "#ee99a0",
+      "RED_530": "#ee99a0",
+      "RED_560": "#ee99a0",
+      "RED_600": "#ee99a0",
+      "RED_630": "#ee99a0",
+      "RED_660": "#ee99a0",
+      "RED_700": "#ee99a0",
       "WHITE_500": "#5b6078",
       "YELLOW_300": "#eed49f"
     },
