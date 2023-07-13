@@ -63,10 +63,10 @@
       "#e6e9ef"
       ],
       "BACKGROUND_TERTIARY": [
-      "#181926"
+      "#dce0e8"
       ],
       "CHANNEL_ICON": [
-      "#8aadf4"
+      "#1e66f5"
       ],
       "CHANNELS_DEFAULT": [
       "#7c7f93"
@@ -193,7 +193,7 @@
       "RED_630": "#d20f39",
       "RED_660": "#d20f39",
       "RED_700": "#d20f39",
-      "WHITE_500": "#acb0be",
+      "WHITE_500": "#4c4f69",
       "YELLOW_100": "#df8e1d",
       "YELLOW_130": "#df8e1d",
       "YELLOW_160": "#df8e1d",
