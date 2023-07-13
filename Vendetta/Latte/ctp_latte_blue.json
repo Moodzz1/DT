@@ -68,9 +68,6 @@
       "CHANNEL_ICON": [
       "#1e66f5","#1e66f5"
       ],
-      "CHANNELS_DEFAULT": [
-      "#7c7f93","#7c7f93"
-      ],
       "CHAT_BACKGROUND": [
       "#eff1f5","#eff1f5"
       ],
@@ -97,9 +94,6 @@
       ],
       "MENTION_BACKGROUND": [
       "#bcc0cc","#bcc0cc"
-      ],
-      "MENTION_FOREGROUND": [
-      "#e78284","#e78284"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#e6e9ef","#e6e9ef"
