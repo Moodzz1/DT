@@ -68,6 +68,9 @@
       "CHANNEL_ICON": [
       "#1e66f5","#1e66f5"
       ],
+      "CHANNELS_DEFAULT": [
+      "#7c7f93","#7c7f93"
+      ],
       "CHAT_BACKGROUND": [
       "#eff1f5","#eff1f5"
       ],
