@@ -128,7 +128,7 @@
       "TEXT_NORMAL": [
       "#4c4f69","#4c4f69"
       ]
-  },
+    },
     "rawColors": {
       "BRAND_260": "#1e66f5",
       "BRAND_360": "#1e66f5",
@@ -170,11 +170,10 @@
       "PRIMARY_460": "#e6e9ef",
       "PRIMARY_500": "#4c4f69",
       "PRIMARY_600": "#eff1f5",
-      "PRIMARY_630": "#eff1f5",
+      "PRIMARY_630": "#1e66f5",
       "PRIMARY_660": "#dce0e8",
       "PRIMARY_700": "#e6e9ef",
       "PRIMARY_800": "#e6e9ef",
-      "RED_400": "#d20f39",
       "RED_260": "#d20f39",
       "RED_300": "#d20f39",
       "RED_330": "#d20f39",
@@ -217,13 +216,7 @@
       "YELLOW_860": "#df8e1d",
       "YELLOW_900": "#df8e1d",
       "BLACK_500": "#ccd0da",
-      "WHITE_500": "#eff1f5",
-      "REDDIT": "#d20f39",
-      "TWITCH": "#1e66f5",
-      "TWITTER": "#8aadf4",
-      "SPOTIFY": "#40a02b",
-      "STEAM": "#b7bdf8",
-      "XBOX": "#40a02b"
+      "WHITE_500": "#eff1f5"
     },
     "spec": 2
 }
