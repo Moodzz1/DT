@@ -229,11 +229,11 @@
       "TWITCH": "#c6a0f6",
       "TWITTER": "#8aadf4"
     },
-"plus": {
+theme.plus: {
 	"version": 1,
 	"icons": {
 		"ic_notification_settings": ["#939ab7"],
-	}
-}
+	},
+};
     "spec": 2
 }
