@@ -183,7 +183,6 @@
       "PRIMARY_660": "#181926",
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#1e2030",
-      "RED_400": "#ed8796",
       "RED_260": "#ed8796",
       "RED_300": "#ed8796",
       "RED_330": "#ed8796",
@@ -228,10 +227,13 @@
       "YELLOW_900": "#eed49f",
       "REDDIT": "#ed8796",
       "TWITCH": "#c6a0f6",
-      "TWITTER": "#8aadf4",
-      "SPOTIFY": "#a6da95",
-      "STEAM": "#b7bdf8",
-      "XBOX": "#a6da95"
+      "TWITTER": "#8aadf4"
     },
+"plus": {
+	"version": 1,
+	"icons": {
+		"ic_notification_settings": ["#939ab7"],
+	}
+}
     "spec": 2
 }
