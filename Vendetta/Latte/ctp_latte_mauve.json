@@ -219,5 +219,9 @@
       "BLACK_500": "#ccd0da",
       "WHITE_500": "#eff1f5"
     },
+    "plus": {
+     	"version": 0,
+     	"iconPack": "rosiecord-plumpy"
+},
     "spec": 2
 }
