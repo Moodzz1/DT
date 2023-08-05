@@ -223,8 +223,8 @@
      	"version": 0,
        "icons": {
 		     "ic_new_pins": [
-			"#e64553"
-		],
+			   "#e64553"
+		  ],
      	"iconPack": "rosiecord-plumpy"
 },
     "spec": 2
