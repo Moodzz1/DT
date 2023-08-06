@@ -219,13 +219,12 @@
       "BLACK_500": "#ccd0da",
       "WHITE_500": "#eff1f5"
     },
-    "plus": {
-     	"version": 0,
-       "icons": {
-		     "ic_new_pins": [
-			   "#e64553"
-		  ],
-     	"iconPack": "rosiecord-plumpy"
+    "plus":{
+       "version":"0",
+       "iconpack":"rosiecord-plumpy",
+       "icons":{
+          "ic_new_pins":["#e64553"]
+ }
 },
     "spec": 2
 }
