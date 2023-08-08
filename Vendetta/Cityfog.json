@@ -33,7 +33,7 @@
        "#324151", "#324151"
        ],
        "BACKGROUND_MENTIONED": [
-       "#BE7D7D", "#BE7D7D"
+       #bd987e66", "#bd987e66"
        ],
        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
        "#364758", "#364758"
@@ -42,7 +42,7 @@
        "#324151", "#324151"
        ],
        "BACKGROUND_MOBILE_SECONDARY": [
-       "#42566A", "#42566A"
+       "#364758", "#364758"
        ],
        "BACKGROUND_MODIFIER_HOVER": [
        "#2C3946", "#2C3946"
@@ -187,7 +187,7 @@
           "StatusMobileOnline": "#7bbe92",
           "StatusIdle": "#bd987e",
           "StatusDND": "#be7d7d",
-          "StatusOffline": "#015bd5",
+          "StatusOffline": "#2c3946",
           "StatusOnline": "#7bbe92"
  }
 },
