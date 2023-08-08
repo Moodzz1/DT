@@ -1,5 +1,5 @@
 {
-    "name": "Cityfog",
+    "name": "CityFog",
     "description": "A cyberpunk-esque color palette/theme, designed to give a cold but lively feel.",
     "authors": [
       {
@@ -10,6 +10,12 @@
     "semanticColors": {
        "BACKGROUND_PRIMARY": [
        "#42566A", "#42566A"
+       ],
+       "CHAT_BACKGROUND": [
+       "#324151", "#324151"
+       ],
+       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+       "#c3ccd4", "#c3ccd4"
        ],
        "BACKGROUND_SECONDARY": [
        "#232E38", "#232E38"
@@ -42,7 +48,7 @@
        "#2C3946", "#2C3946"
        ],
        "BACKGROUND_MODIFIER_ACTIVE": [
-       "#9A88BF", "#9A88BF"
+       "#364758", "#364758"
        ],
        "BACKGROUND_MODIFIER_SELECTED": [
        "#2C3946", "#2C3946"
@@ -88,6 +94,10 @@
        ]
    },
    "rawColors": {
+     "BRAND_260": "#be7aa1",
+     "BRAND_360": "#BD7BA2",
+     "BRAND_500": "#9a88bf",
+     "BRAND_560": "#9a88bf",
      "GREEN_100": "#7bbe92",
      "GREEN_130": "#7bbe92",
      "GREEN_160": "#7bbe92",
@@ -114,17 +124,17 @@
      "GREEN_830": "#7bbe92",
      "GREEN_860": "#7bbe92",
      "GREEN_900": "#7bbe92",
-     "PRIMARY_DARK_100": "#C5C387",
-     "PRIMARY_DARK_200": "#C5C387",
-     "PRIMARY_DARK_300": "#7BBE92",
-     "PRIMARY_DARK_360": "#7BBE92",
-     "PRIMARY_DARK_400": "#9A88BF",
-     "PRIMARY_DARK_500": "#324151",
-     "PRIMARY_DARK_600": "#42566A",
-     "PRIMARY_DARK_630": "#42566A",
-     "PRIMARY_DARK_700": "#42566A",
-     "PRIMARY_DARK_800": "#324151",
-     "PRIMARY_DARK_900": "#7BBE92",
+     "PRIMARY_100": "#d8e1e9",
+     "PRIMARY_200": "#C5C387",
+     "PRIMARY_300": "#9a88bf",
+     "PRIMARY_360": "#BD7BA2",
+     "PRIMARY_400": "#9a88bf",
+     "PRIMARY_500": "#d8e1e9",
+     "PRIMARY_600": "#324151",
+     "PRIMARY_630": "#364758",
+     "PRIMARY_700": "#2c3946",
+     "PRIMARY_800": "#364758",
+     "PRIMARY_900": "#7BBE92",
      "RED_260": "#be7d7d",
      "RED_300": "#be7d7d",
      "RED_330": "#be7d7d",
