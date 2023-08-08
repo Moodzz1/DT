@@ -86,9 +86,9 @@
        "HEADER_SECONDARY": [
        "#7CB2BD", "#7CB2BD"
        ]
-		},
-		"rawColors": {
-			"GREEN_100": "#7bbe92",
+   },
+   "rawColors": {
+     "GREEN_100": "#7bbe92",
      "GREEN_130": "#7bbe92",
      "GREEN_160": "#7bbe92",
      "GREEN_200": "#7bbe92",
@@ -115,17 +115,17 @@
      "GREEN_860": "#7bbe92",
      "GREEN_900": "#7bbe92",
 			"PRIMARY_DARK": "#324151",
-			"PRIMARY_DARK_100": "#C5C387",
-			"PRIMARY_DARK_200": "#C5C387",
-			"PRIMARY_DARK_300": "#7BBE92",
-			"PRIMARY_DARK_360": "#7BBE92",
-			"PRIMARY_DARK_400": "#9A88BF",
-			"PRIMARY_DARK_500": "#324151",
-			"PRIMARY_DARK_600": "#42566A",
-			"PRIMARY_DARK_630": "#42566A",
-			"PRIMARY_DARK_700": "#42566A",
-			"PRIMARY_DARK_800": "#324151",
-			"PRIMARY_DARK_900": "#7BBE92",
+     "PRIMARY_DARK_100": "#C5C387",
+     "PRIMARY_DARK_200": "#C5C387",
+     "PRIMARY_DARK_300": "#7BBE92",
+     "PRIMARY_DARK_360": "#7BBE92",
+     "PRIMARY_DARK_400": "#9A88BF",
+     "PRIMARY_DARK_500": "#324151",
+     "PRIMARY_DARK_600": "#42566A",
+     "PRIMARY_DARK_630": "#42566A",
+     "PRIMARY_DARK_700": "#42566A",
+     "PRIMARY_DARK_800": "#324151",
+     "PRIMARY_DARK_900": "#7BBE92",
      "RED_260": "#be7d7d",
      "RED_300": "#be7d7d",
      "RED_330": "#be7d7d",
@@ -167,8 +167,8 @@
      "YELLOW_830": "#c5c387",
      "YELLOW_860": "#c5c387",
      "YELLOW_900": "#c5c387",
-			"WHITE": "#D8E1E9"
-		},
+     "WHITE": "#D8E1E9"
+   },
    "plus":{
        "version":"0",
        "iconpack":"rosiecord-plumpy",
