@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
        "BACKGROUND_PRIMARY": [
-       "#364758", "#364758"
+       "#324151", "#324151"
        ],
        "CHAT_BACKGROUND": [
        "#324151", "#324151"
@@ -33,7 +33,7 @@
        "#324151", "#324151"
        ],
        "BACKGROUND_MENTIONED": [
-       "#bd987e66", "#bd987e66"
+       "#bd987e80", "#bd987e80"
        ],
        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
        "#364758", "#364758"
@@ -133,7 +133,7 @@
      "PRIMARY_600": "#324151",
      "PRIMARY_630": "#364758",
      "PRIMARY_700": "#2c3946",
-     "PRIMARY_800": "#364758",
+     "PRIMARY_800": "#42566a",
      "PRIMARY_900": "#7BBE92",
      "RED_260": "#be7d7d",
      "RED_300": "#be7d7d",
