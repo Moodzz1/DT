@@ -54,7 +54,7 @@
       "#181926"
       ],
       "CHANNEL_ICON": [
-      "#939ab7"
+      "#c6a0f6"
       ],
       "CHANNELS_DEFAULT": [
       "#72778F"
@@ -114,7 +114,7 @@
       "#ed8796"
       ],
       "TEXT_LINK": [
-      "#b7bdf8"
+      "#f0c6c6"
       ],
       "TEXT_MUTED": [
       "#a5adcb"
@@ -125,7 +125,7 @@
   },
     "rawColors": {
       "BRAND_260": "#8aadf4",
-      "BRAND_360": "#c6a0f6",
+      "BRAND_360": "#7dc4e4",
       "BRAND_500": "#8aadf4",
       "PRIMARY_100": "#cad3f5",
       "PRIMARY_300": "#24273a",
@@ -172,7 +172,7 @@
       "RED_330": "#ed8796",
       "RED_345": "#ed8796",
       "RED_360": "#ed8796",
-      "RED_400": "#ee99a0",
+      "RED_400": "#ed8796",
       "RED_430": "#ed8796",
       "RED_460": "#ed8796",
       "RED_500": "#ed8796",
