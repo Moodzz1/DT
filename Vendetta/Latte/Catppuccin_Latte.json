@@ -14,9 +14,6 @@
       "BACKGROUND_FLOATING": [
       "#e6e9ef","#e6e9ef"
       ],
-      "BACKGROUND_MENTIONED": [
-      "#df8e1d4d", "#df8e1d4d"
-      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#7c7f93","#7c7f93"
       ],
@@ -79,9 +76,6 @@
       ],
       "INTERACTIVE_NORMAL": [
       "#7c7f93","#7c7f93"
-      ],
-      "MENTION_BACKGROUND": [
-      "#df8e1d4d","#df8e1d4d"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#e6e9ef","#e6e9ef"
@@ -180,7 +174,7 @@
       "YELLOW_200": "#df8e1d",
       "YELLOW_230": "#df8e1d",
       "YELLOW_260": "#df8e1d",
-      "YELLOW_300": "#df8e1d",
+      "YELLOW_300": "#df8e1d4d",
       "YELLOW_330": "#df8e1d",
       "YELLOW_345": "#df8e1d",
       "YELLOW_360": "#df8e1d",
