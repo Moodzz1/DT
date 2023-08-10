@@ -69,7 +69,7 @@
       "#e6e9ef","#e6e9ef"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#8839ef","#8839ef"
+      "#4c4f69","#4c4f69"
       ],
       "INTERACTIVE_HOVER": [
       "#7c7f93","#7c7f93"
@@ -81,7 +81,7 @@
       "#7c7f93","#7c7f93"
       ],
       "MENTION_BACKGROUND": [
-      "#df8e1d99","#df8e1d99"
+      "#df8e1d4d","#df8e1d4d"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#e6e9ef","#e6e9ef"
