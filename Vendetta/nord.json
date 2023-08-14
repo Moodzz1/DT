@@ -1,0 +1,123 @@
+{
+    "name": "Nord Light",
+    "description": "A theme based on Nord color palette, with a few additional shades, tints & tones",
+    "authors": [
+        {
+            "name": "@moodlnini",
+            "id": "716941151386599464"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#2E3440"
+      ],
+      "HEADER_SECONDARY": [
+          "#2E3440"
+      ],
+      "TEXT_NORMAL": [
+          "#2E3440"
+      ],
+      "TEXT_MUTED": [
+          "#4C566A"
+      ],
+      "TEXT_LINK": [
+          "#5E81AC"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#81A1C1"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#434C5E"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#C0D0E0"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#617991" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#E5E9F0"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#5E81AC"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#ECEFF4"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#2E34404d"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#E5E9F0"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#D8DEE9"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#434C5E"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#4C566A"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#81A1C1"
+      ],
+      "TEXT_DANGER": [
+          "#BF616A"
+      ],
+      "CHANNEL_ICON": [
+          "#81A1C1"
+      ],
+      "CHAT_BACKGROUND": [
+          "#ECEFF4"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+          "#D8DEE9"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+          "#5B6272"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#2E3440",
+      "PRIMARY_200": "#2E3440",
+      "PRIMARY_300": "#D08770",
+      "PRIMARY_360": "#8FBCBB",
+      "PRIMARY_400": "#B48EAD",
+      "PRIMARY_500": "#2E3440",
+      "PRIMARY_600": "#ECEFF4",
+      "PRIMARY_630": "#D8DEE9",
+      "PRIMARY_660": "#D8DEE9",
+      "PRIMARY_700": "#E5E9F0",
+      "PRIMARY_800": "#D8DEE9",
+      "BRAND_260": "#B48EAD",
+      "BRAND_360": "#5E81AC",
+      "BRAND_500": "#B48EAD",
+      "BRAND_560": "#3B4252",
+      "WHITE_500": "#ECEFF4",
+      "BLACK_500": "#E5E9F0
+      "YELLOW_300": "#EBCB8B",
+      "GREEN_360": "#A3BE8C",
+      "RED_400": "#BF616A"
+  },
+    "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
+}
