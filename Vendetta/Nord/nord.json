@@ -24,7 +24,7 @@
           "#5E81AC", "#5E81AC"
       ],
       "INTERACTIVE_NORMAL": [
-          "#81A1C1", "#81A1C1"
+          "#5E81AC", "#5E81AC"
       ],
       "INTERACTIVE_HOVER": [
           "#434C5E", "#434C5E"
@@ -69,7 +69,7 @@
           "#E5E9F0", "#E5E9F0"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#81A1C1", "#81A1C1"
+          "#8FBCBB", "#8FBCBB"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#D8DEE9", "#D8DEE9"
@@ -95,7 +95,6 @@
   },
   "rawColors": {
       "PRIMARY_100": "#E5E9F0",
-      "PRIMARY_200": "#2E3440",
       "PRIMARY_300": "#D08770",
       "PRIMARY_360": "#8FBCBB",
       "PRIMARY_400": "#B48EAD",
