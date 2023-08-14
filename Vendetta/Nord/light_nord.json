@@ -91,7 +91,12 @@
       ],
       "SPOILER_REVEALED_BACKGROUND": [
           "#5B6272", "#5B6272"
-      ]
+      ],
+      "BORDER_STRONG": [
+          "D8DEE9", "#D8DEE9"
+      ],
+      "BORDER_SUBTLE": [
+          "D8DEE9", "D8DEE9"
   },
   "rawColors": {
       "PRIMARY_100": "#E5E9F0",
