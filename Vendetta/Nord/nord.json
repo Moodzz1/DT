@@ -1,6 +1,6 @@
 {
     "name": "Nord Light",
-    "description": "A theme based on Nord color palette, with a few additional shades, tints & tones",
+    "description": "An arctic, north-bluish color palette.",
     "authors": [
         {
             "name": "Moodl",
@@ -69,7 +69,7 @@
           "#E5E9F0", "#E5E9F0"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#8FBCBB", "#8FBCBB"
+          "#88C0D0", "#88C0D0"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#D8DEE9", "#D8DEE9"
