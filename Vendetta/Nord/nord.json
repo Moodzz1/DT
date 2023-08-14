@@ -15,10 +15,10 @@
           "#2E3440", "#2E3440"
       ],
       "TEXT_NORMAL": [
-          "#2E3440", "#2E3440"
+          "#4C566A", "#4C566A"
       ],
       "TEXT_MUTED": [
-          "#4C566A", "#4C566A"
+          "#81A1C1", "#81A1C1"
       ],
       "TEXT_LINK": [
           "#5E81AC", "#5E81AC"
@@ -36,7 +36,7 @@
           "#88C0D0", "#88C0D0" 
       ],
       "BACKGROUND_PRIMARY": [
-          "#E5E9F0", "#E5E9F0"
+          "#ECEFF4", "#ECEFF4"
       ],
       "BACKGROUND_SECONDARY": [
           "#E5E9F0", "#E5E9F0"
@@ -158,7 +158,7 @@
       "YELLOW_200": "#EBCB8B",
       "YELLOW_230": "#EBCB8B",
       "YELLOW_260": "#EBCB8B",
-      "YELLOW_300": "#EBCB8B4d",
+      "YELLOW_300": "#EBCB8B66",
       "YELLOW_330": "#EBCB8B",
       "YELLOW_345": "#EBCB8B",
       "YELLOW_360": "#EBCB8B",
