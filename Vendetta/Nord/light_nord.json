@@ -193,7 +193,7 @@
    },
    "plus":{
        "version":"0",
-       "iconpack":"m3-materialyou",
+       "iconpack":"md3",
        "icons":{
           "ic_new_pins":"#BF616A",
           "StatusStreaming": "#B48EAD",
