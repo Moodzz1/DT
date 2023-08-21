@@ -1,5 +1,5 @@
 {
-    "name": "RosÃ© Pine",
+    "name": "Rosé Pine",
     "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
     "authors": [
       {
@@ -33,7 +33,7 @@
       "#1f1d2e"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#21202e"
+      "#403d52"
       ],
       "BACKGROUND_PRIMARY": [
       "#191724"
@@ -99,7 +99,7 @@
     "rawColors": {
       "BRAND_260": "#c4a7e7",
       "BRAND_360": "#ebbcba",
-      "BRAND_500": "#26233a",
+      "BRAND_500": "#524f67",
       "GREEN_100": "#9ccfd8",
       "GREEN_130": "#9ccfd8",
       "GREEN_160": "#9ccfd8",
