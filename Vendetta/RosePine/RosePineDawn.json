@@ -8,9 +8,6 @@
       }
     ],
     "semanticColors": {
-      "ANDROID_NAVIGATION_BAR_BACKGROUND": [
-      "#f2e9e1", "#f2e9e1"
-      ],
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
       ],
@@ -104,7 +101,7 @@
       "BG_BASE_TERTIARY": [
       "#f2e9e1", "#f2e9e1"
       ],
-      "BG_SURFACE_OVERLAY_TMP": [
+      "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
       ]
     },
