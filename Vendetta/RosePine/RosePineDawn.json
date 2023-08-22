@@ -97,6 +97,9 @@
       ],
       "BG_BASE_SECONDARY": [
       "#faf4ed", "#faf4ed"
+      ],
+      "BG_BASE_TERTIARY": [
+      "#f2e9e1", "#f2e9e1"
       ]
     },
     "rawColors": {
@@ -133,7 +136,7 @@
       "GUILD_BOOSTING_PURPLE": "#907aa9",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#907aa9",
       "PRIMARY_100": "#575279",
-      "PRIMARY_160": "#000000",
+      "PRIMARY_160": "#f2e9e1",
       "PRIMARY_300": "#faf4ed",
       "PRIMARY_360": "#d7827e",    
       "PRIMARY_400": "#d7827e",
