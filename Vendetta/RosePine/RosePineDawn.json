@@ -103,6 +103,9 @@
       ],
       "BG_BASE_TERTIARY": [
       "#f2e9e1", "#f2e9e1"
+      ],
+      "BG_SURFACE_RAISED": [
+      "#f2e9e1", "#f2e9e1"
       ]
     },
     "rawColors": {
