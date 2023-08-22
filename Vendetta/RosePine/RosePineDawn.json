@@ -104,7 +104,7 @@
       "BG_BASE_TERTIARY": [
       "#f2e9e1", "#f2e9e1"
       ],
-      "BG_SURFACE_RAISED": [
+      "BG_SURFACE_OVERLAY_TMP": [
       "#f2e9e1", "#f2e9e1"
       ]
     },
