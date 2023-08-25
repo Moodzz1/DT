@@ -103,6 +103,18 @@
       ],
       "BG_BASE_PRIMARY": [
           "#ECEFF4", "ECEFF4"
+      ],
+      "BG_BASE_PRIMARY": [
+      "#faf4ed", "#ECEFF4"
+      ],
+      "BG_BASE_SECONDARY": [
+      "#faf4ed", "#ECEFF4"
+      ],
+      "BG_BASE_TERTIARY": [
+      "#E5E9F0", "#E5E9F0"
+      ],
+      "MODAL_FOOTER_BACKGROUND": [
+      "#E5E9F0", "#E5E9F0"
       ]
   },
   "rawColors": {
