@@ -45,7 +45,7 @@
       "#26233a"
       ],
       "CHANNEL_ICON": [
-      "#908caa"
+      "#c4a7e7"
       ],
       "CHANNELS_DEFAULT": [
       "#908caa"
@@ -72,7 +72,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#908caa"
+      "#c4a7e7"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#26233a"
@@ -102,7 +102,7 @@
     "rawColors": {
       "BRAND_260": "#c4a7e7",
       "BRAND_360": "#ebbcba",
-      "BRAND_500": "#524f67",
+      "BRAND_500": "#31748f",
       "GREEN_100": "#9ccfd8",
       "GREEN_130": "#9ccfd8",
       "GREEN_160": "#9ccfd8",
@@ -138,8 +138,8 @@
       "PRIMARY_360": "#ebbcba",    
       "PRIMARY_400": "#ebbcba",
       "PRIMARY_460": "#26233a",
-      "PRIMARY_500": "#908caa",
-      "PRIMARY_600": "#191724",
+      "PRIMARY_500": "#c4a7e7",
+      "PRIMARY_600": "#c4a7e7",
       "PRIMARY_630": "#26233a",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
