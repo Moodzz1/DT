@@ -133,7 +133,7 @@
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
       "PRIMARY_100": "#e0def4",
-      "PRIMARY_230": "#908caa",
+      "PRIMARY_230": "#c4a7e7",
       "PRIMARY_300": "#191724",
       "PRIMARY_360": "#ebbcba",    
       "PRIMARY_400": "#ebbcba",
@@ -192,6 +192,7 @@
        "iconpack":"rosiecord-plumpy",
        "icons":{
           "ic_new_pins":"#eb6f92",
+          "ic_notification_settings":"c4a7e7",
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#9ccfd8",
           "StatusIdle": "#ebbcba",
