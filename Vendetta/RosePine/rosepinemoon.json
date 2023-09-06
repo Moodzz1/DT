@@ -1,5 +1,7 @@
 {
     "name": "Rose Pine Moon",
+    "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the{
+    "name": "Rose Pine Moon",
     "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
     "authors": [
       {
@@ -10,6 +12,9 @@
     "semanticColors": {
       "BACKGROUND_ACCENT": [
       "#3e8fb0"
+      ],
+      "BACKGROUND_FLOATING": [
+      "#2a273fbf"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#44415a"
@@ -45,7 +50,7 @@
       "#393552"
       ],
       "CHANNEL_ICON": [
-      "#c4a7e7"
+      "#908caa"
       ],
       "CHANNELS_DEFAULT": [
       "#908caa"
@@ -72,7 +77,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#c4a7e7"
+      "#908caa"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#393552"
@@ -102,7 +107,7 @@
     "rawColors": {
       "BRAND_260": "#c4a7e7",
       "BRAND_360": "#ea9a97",
-      "BRAND_500": "#3e8fb0",
+      "BRAND_500": "#56526e",
       "GREEN_100": "#9ccfd8",
       "GREEN_130": "#9ccfd8",
       "GREEN_160": "#9ccfd8",
@@ -133,13 +138,13 @@
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
       "PRIMARY_100": "#e0def4",
-      "PRIMARY_230": "#c4a7e7",
+      "PRIMARY_230": "#908caa",
       "PRIMARY_300": "#232136",
       "PRIMARY_360": "#ea9a97",    
       "PRIMARY_400": "#ea9a97",
       "PRIMARY_460": "#393552",
-      "PRIMARY_500": "#c4a7e7",
-      "PRIMARY_600": "#c4a7e7",
+      "PRIMARY_500": "#908caa",
+      "PRIMARY_600": "#232136",
       "PRIMARY_630": "#393552",
       "PRIMARY_660": "#393552",
       "PRIMARY_700": "#393552",
@@ -193,9 +198,6 @@
        "iconpack":"rosiecord-plumpy",
        "icons":{
           "ic_new_pins":"#eb6f92",
-          "ic_notification_settings":"c4a7e7",
-          "ic_radio_square_checked_24px":"393552",
-          "ic_radio_square_checked_24px__overlay":"c4a7e7",
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#9ccfd8",
           "StatusIdle": "#ebbcba",
