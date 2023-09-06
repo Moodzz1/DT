@@ -11,6 +11,9 @@
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
       ],
+      "BACKGROUND_FLOATING": [
+      "#fffaf3bf", "#fffaf3bf"
+      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#dfdad9", "#dfdad9"
       ],
@@ -147,7 +150,7 @@
       "PRIMARY_400": "#d7827e",
       "PRIMARY_460": "#f2e9e1",
       "PRIMARY_500": "#797593",
-      "PRIMARY_600": "#faf4ed",
+      "PRIMARY_600": "#797593",
       "PRIMARY_630": "#f4ede8",
       "PRIMARY_660": "#f2e9e1",
       "PRIMARY_700": "#f4ede8",
