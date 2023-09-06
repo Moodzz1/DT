@@ -45,7 +45,7 @@
       "#f2e9e1", "#f2e9e1"
       ],
       "CHANNEL_ICON": [
-      "#797593", "#797593"
+      "#907aa9", "#907aa9"
       ],
       "CHANNELS_DEFAULT": [
       "#797593", "#797593"
@@ -72,7 +72,7 @@
       "#9893a5", "#9893a5"
       ],
       "INTERACTIVE_NORMAL": [
-      "#797593", "#797593"
+      "#907aa9", "#907aa9"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#fffaf3", "#fffaf3"
@@ -147,7 +147,7 @@
       "PRIMARY_400": "#d7827e",
       "PRIMARY_460": "#f2e9e1",
       "PRIMARY_500": "#907aa9",
-      "PRIMARY_600": "#56949f",
+      "PRIMARY_600": "#907aa9",
       "PRIMARY_630": "#dfdad9",
       "PRIMARY_660": "#f2e9e1",
       "PRIMARY_700": "#f4ede8",
