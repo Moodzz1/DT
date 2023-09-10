@@ -103,6 +103,9 @@
       ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
+      ],
+      "INPUT_BACKROUND": [
+      "f2e9e1", "f2e9e1"
       ]
     },
     "rawColors": {
