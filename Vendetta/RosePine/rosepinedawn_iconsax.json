@@ -200,6 +200,7 @@
    },
    "background": {
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1151647278122147932/RIWO.png"
+        "alpha": 0.40
    },
    "plus":{
        "version":"0",
