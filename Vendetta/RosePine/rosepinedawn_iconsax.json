@@ -199,8 +199,7 @@
       "WHITE_500": "#fffaf3"
    },
    "background": {
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1151657956853682276/7qY2.png",
-        "blur": 0.02
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1151657956853682276/7qY2.png"
    },
    "plus":{
        "version":"0",
