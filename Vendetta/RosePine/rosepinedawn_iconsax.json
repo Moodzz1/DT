@@ -51,7 +51,7 @@
       "#797593", "#797593"
       ],
       "CHAT_BACKGROUND": [
-      "#faf4ed00", "#faf4ed00"
+      "#faf4ed", "#faf4ed"
       ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
@@ -93,7 +93,7 @@
       "#575279", "#575279"
       ],
       "BG_BASE_PRIMARY": [
-      "#faf4ed", "#faf4ed"
+      "#faf4ed00", "#faf4ed00"
       ],
       "BG_BASE_SECONDARY": [
       "#faf4ed", "#faf4ed"
