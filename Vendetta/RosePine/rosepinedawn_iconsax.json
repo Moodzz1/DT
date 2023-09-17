@@ -80,6 +80,9 @@
       "SPOILER_HIDDEN_BACKGROUND": [
       "#f4ede8", "#f4ede8"
       ],
+      "MENTION_FOREGROUND": [
+      "#b4637a", "#b4637a"
+      ],
       "TEXT_DANGER": [
       "#b4637a", "#b4637a"
       ],
