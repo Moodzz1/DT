@@ -78,7 +78,7 @@
       "#fffaf3", "#fffaf3"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#f4ede8", "#f4ede8"
+      "#797593", "#797593"
       ],
       "TEXT_DANGER": [
       "#b4637a", "#b4637a"
@@ -138,7 +138,7 @@
       "GUILD_BOOSTING_PINK": "#b4637a",   
       "GUILD_BOOSTING_PURPLE": "#907aa9",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#907aa9",
-      "PRIMARY_100": "#575279",
+      "PRIMARY_100": "#f2e9e1",
       "PRIMARY_130": "#f2e9e1",
       "PRIMARY_160": "#f2e9e1",
       "PRIMARY_230": "#f2e9e1",
@@ -203,7 +203,7 @@
           "ic_new_pins":"#b4637a",
           "StatusStreaming": "#907aa9",
           "StatusMobileOnline": "#56949f",
-          "StatusIdle": "#d7827e",
+          "StatusIdle": "#ea9d34",
           "StatusDND": "#b4637a",
           "StatusOffline": "#9893a5",
           "StatusOnline": "#56949f"
