@@ -205,15 +205,7 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "ic_new_pins":"#b4637a",
-          "ic_notification_settings":"907aa9",
-          "ic_notification_settings_light":"b4637a",
-          "StatusStreaming": "#907aa9",
-          "StatusMobileOnline": "#56949f",
-          "StatusIdle": "#ea9d34",
-          "StatusDND": "#b4637a",
-          "StatusOffline": "#9893a5",
-          "StatusOnline": "#56949f"
+          "ic_new_pins":"#b4637a"
  }
 },
     "spec": 2
