@@ -203,7 +203,7 @@
    },
    "plus":{
        "version":"0",
-       "customOverlays": true
+       "iconPack": "rosiecord-iconsax"
  }
 },
     "spec": 2
