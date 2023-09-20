@@ -1,11 +1,13 @@
 {
     "name": "Default",
-    "description": "Default discord theme with rosieiconsax.",
+    "description": "Default discord theme with rosieiconsax",
     "authors": [
       {
         "name": "Moodl",
         "id": "716941151386599464"
-      },
+      }
+    ],
+   },
    "plus":{
        "version": "0",
        "iconPack": "rosiecord-iconsax"
