@@ -203,7 +203,7 @@
    },
    "plus":{
        "version":"0",
-       "customOverlays": true,
+       "customOverlays": true
  }
 },
     "spec": 2
