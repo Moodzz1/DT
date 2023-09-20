@@ -1,6 +1,6 @@
 {
-    "name": "Default",
-    "description": "Defaul discord theme to use with themes+.",
+    "name": "Rose Pine Dawn",
+    "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
     "authors": [
       {
         "name": "Moodl",
@@ -201,7 +201,23 @@
       "YELLOW_900": "#ea9d34",
       "WHITE_500": "#fffaf3"
    },
+   "background": {
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1151657956853682276/7qY2.png"
+   },
    "plus":{
        "version":"0",
-       "customOverlays": true
+       "customOverlays": true,
+       "icons":{
+          "ic_new_pins":"#b4637a",
+          "ic_notification_settings":"907aa9",
+          "ic_notification_settings_light":"b4637a",
+          "StatusStreaming": "#907aa9",
+          "StatusMobileOnline": "#56949f",
+          "StatusIdle": "#ea9d34",
+          "StatusDND": "#b4637a",
+          "StatusOffline": "#9893a5",
+          "StatusOnline": "#56949f"
  }
+},
+    "spec": 2
+}
