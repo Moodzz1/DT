@@ -1,0 +1,15 @@
+{
+    "name": "Default",
+    "description": "Default discord theme to enable themes+ iconpacks with",
+    "authors": [
+      {
+        "name": "Moodl",
+        "id": "716941151386599464"
+      }
+   "plus":{
+       "version":"0",
+       "customOverlays": true
+ }
+},
+    "spec": 2
+}
