@@ -50,6 +50,9 @@
       "CHANNELS_DEFAULT": [
       "#907aa9", "#907aa9"
       ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+      "#faf4ed", "#faf4ed"
+      ],
       "CHAT_BACKGROUND": [
       "#faf4ed", "#faf4ed"
       ],
