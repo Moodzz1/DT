@@ -74,8 +74,14 @@
       "INTERACTIVE_NORMAL": [
       "#907aa9", "#907aa9"
       ],
+      "INPUT_BACKGROUND": [
+      "#f2e9e1", "#f2e9e1"
+      ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#fffaf3", "#fffaf3"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#797593, "#797593"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#797593", "#797593"
@@ -105,9 +111,6 @@
       "#f2e9e1", "#f2e9e1"
       ],
       "MODAL_FOOTER_BACKGROUND": [
-      "#f2e9e1", "#f2e9e1"
-      ],
-      "INPUT_BACKROUND": [
       "#f2e9e1", "#f2e9e1"
       ]
     },
@@ -202,8 +205,6 @@
       "WHITE_500": "#fffaf3"
    },
    "background": {
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1151657956853682276/7qY2.png"
-   },
    "plus":{
        "version":"0",
        "customOverlays": true,
