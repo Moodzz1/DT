@@ -81,7 +81,7 @@
       "#fffaf3", "#fffaf3"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#907aa9", "#907aa9"
+      "#575279", "#575279"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
@@ -153,6 +153,7 @@
       "PRIMARY_100": "#f2e9e1",
       "PRIMARY_130": "#f2e9e1",
       "PRIMARY_160": "#f2e9e1",
+      "PRIMARY_200": "#f2e9e1",
       "PRIMARY_230": "#f2e9e1",
       "PRIMARY_300": "#faf4ed",
       "PRIMARY_360": "#d7827e",    
