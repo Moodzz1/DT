@@ -131,8 +131,8 @@
       "BORDER_SUBTLE": [
       "#ea9d34", "#ea9d34"
       ],
-      "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#ea9d34", "#ea9d34"
+      "ICON_PRIMARY": [
+      "#907aa9", "#907aa9"
       ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
