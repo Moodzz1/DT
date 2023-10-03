@@ -53,6 +53,9 @@
       "CHANNELTEXTAREA_BACKGROUND": [
       "#ea9d34", "#ea9d34"
       ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#907aa9", "#907aa9"
+      ],
       "CHAT_BACKGROUND": [
       "#faf4ed", "#faf4ed"
       ],
@@ -126,6 +129,9 @@
       "#ea9d34", "#ea9d34"
       ],      
       "BORDER_SUBTLE": [
+      "#ea9d34", "#ea9d34"
+      ],
+      "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
