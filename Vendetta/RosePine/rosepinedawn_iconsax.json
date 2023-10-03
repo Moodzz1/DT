@@ -51,10 +51,10 @@
       "#907aa9", "#907aa9"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-      "#faf4ed", "#faf4ed"
+      "#ea9d34", "#ea9d34"
       ],
       "CHAT_BACKGROUND": [
-      "#ea9d34", "#ea9d34"
+      "#faf4ed", "#faf4ed"
       ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
@@ -109,6 +109,9 @@
       ],
       "TEXT_NORMAL": [
       "#575279", "#575279"
+      ],
+      "BG_BACKDROP": [
+      "#ea9d34", "#ea9d34"
       ],
       "BG_BASE_PRIMARY": [
       "#faf4ed", "#faf4ed"
