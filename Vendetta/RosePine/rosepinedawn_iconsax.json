@@ -110,9 +110,6 @@
       "TEXT_NORMAL": [
       "#575279", "#575279"
       ],
-      "BG_BACKDROP": [
-      "#ea9d34", "#ea9d34"
-      ],
       "BG_BASE_PRIMARY": [
       "#faf4ed", "#faf4ed"
       ],
@@ -121,6 +118,15 @@
       ],
       "BG_BASE_TERTIARY": [
       "#f2e9e1", "#f2e9e1"
+      ],
+      "BORDER_FAINT": [
+      "#ea9d34", "#ea9d34"
+      ],
+      "BORDER_STRONG": [
+      "#ea9d34", "#ea9d34"
+      ],      
+      "BORDER_SUBTLE": [
+      "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
