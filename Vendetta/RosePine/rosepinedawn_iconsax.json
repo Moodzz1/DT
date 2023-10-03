@@ -134,6 +134,9 @@
       "ICON_PRIMARY": [
       "#907aa9", "#907aa9"
       ],
+      "ICON_SECONDARY": [
+      "#907aa9", "#907aa9"
+      ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
       ]
