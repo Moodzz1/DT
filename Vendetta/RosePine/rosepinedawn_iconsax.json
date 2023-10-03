@@ -111,13 +111,13 @@
       "#575279", "#575279"
       ],
       "BG_BASE_PRIMARY": [
-      "#ea9d34", "#ea9d34"
+      "#faf4ed", "#faf4ed"
       ],
       "BG_BASE_SECONDARY": [
       "#faf4ed", "#faf4ed"
       ],
       "BG_BASE_TERTIARY": [
-      "#f2e9e1", "#f2e9e1"
+      "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
