@@ -89,6 +89,9 @@
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#fffaf3", "#fffaf3"
       ],
+      "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#f2e9e1", "#f2e9e1"
+      ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#907aa9", "#907aa9"
       ],
