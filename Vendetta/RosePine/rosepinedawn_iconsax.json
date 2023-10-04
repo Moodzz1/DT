@@ -162,7 +162,7 @@
       "PRIMARY_160": "#f2e9e1",
       "PRIMARY_200": "#f2e9e1",
       "PRIMARY_230": "#f2e9e1",
-      "PRIMARY_300": "#faf4ed",
+      "PRIMARY_300": "#ea9d34",
       "PRIMARY_360": "#d7827e",    
       "PRIMARY_400": "#d7827e",
       "PRIMARY_430": "#907aa9",
@@ -243,7 +243,7 @@
       "YELLOW_830": "#ea9d34",
       "YELLOW_860": "#ea9d34",
       "YELLOW_900": "#ea9d34",
-      "WHITE_500": "#ea9d34",
+      "WHITE_500": "#fffaf3",
       "RC_WHITE_500": "#797593"
    },
    "plus":{
