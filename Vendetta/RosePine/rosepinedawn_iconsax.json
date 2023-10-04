@@ -42,7 +42,7 @@
       "#fffaf3", "#fffaf3"
       ],
       "BACKGROUND_TERTIARY": [
-      "#ea9d34", "#ea9d34"
+      "#f2e9e1", "#f2e9e1"
       ],
       "CHANNEL_ICON": [
       "#907aa9", "#907aa9"
@@ -50,14 +50,11 @@
       "CHANNELS_DEFAULT": [
       "#907aa9", "#907aa9"
       ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-      "#ea9d34", "#ea9d34"
-      ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#907aa9", "#907aa9"
       ],
       "CHAT_BACKGROUND": [
-      "#faf4ed", "#faf4ed"
+      "#fffaf3", "#fffaf3"
       ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
@@ -160,6 +157,22 @@
       "BRAND_260": "#907aa9",
       "BRAND_360": "#d7827e",
       "BRAND_500": "#286983",
+      "PRIMARY_100": "#f2e9e1",
+      "PRIMARY_130": "#f2e9e1",
+      "PRIMARY_160": "#f2e9e1",
+      "PRIMARY_200": "#f2e9e1",
+      "PRIMARY_230": "#f2e9e1",
+      "PRIMARY_300": "#faf4ed",
+      "PRIMARY_360": "#d7827e",    
+      "PRIMARY_400": "#d7827e",
+      "PRIMARY_430": "#907aa9",
+      "PRIMARY_460": "#797593",
+      "PRIMARY_500": "#907aa9",
+      "PRIMARY_600": "#907aa9",
+      "PRIMARY_630": "#f2e9e1",
+      "PRIMARY_660": "#f2e9e1",
+      "PRIMARY_700": "#f2e9e1",
+      "PRIMARY_800": "#f2e9e1",
       "GREEN_100": "#56949f",
       "GREEN_130": "#56949f",
       "GREEN_160": "#56949f",
@@ -189,22 +202,6 @@
       "GUILD_BOOSTING_PINK": "#b4637a",   
       "GUILD_BOOSTING_PURPLE": "#907aa9",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#907aa9",
-      "PRIMARY_100": "#f2e9e1",
-      "PRIMARY_130": "#f2e9e1",
-      "PRIMARY_160": "#f2e9e1",
-      "PRIMARY_200": "#f2e9e1",
-      "PRIMARY_230": "#f2e9e1",
-      "PRIMARY_300": "#faf4ed",
-      "PRIMARY_360": "#d7827e",    
-      "PRIMARY_400": "#d7827e",
-      "PRIMARY_430": "#907aa9",
-      "PRIMARY_460": "#797593",
-      "PRIMARY_500": "#907aa9",
-      "PRIMARY_600": "#907aa9",
-      "PRIMARY_630": "#f2e9e1",
-      "PRIMARY_660": "#f2e9e1",
-      "PRIMARY_700": "#f2e9e1",
-      "PRIMARY_800": "#f2e9e1",
       "RED_260": "#b4637a",
       "RED_300": "#b4637a",
       "RED_330": "#b4637a",
@@ -246,7 +243,7 @@
       "YELLOW_830": "#ea9d34",
       "YELLOW_860": "#ea9d34",
       "YELLOW_900": "#ea9d34",
-      "WHITE_500": "#fffaf3",
+      "WHITE_500": "#ea9d34",
       "RC_WHITE_500": "#797593"
    },
    "plus":{
