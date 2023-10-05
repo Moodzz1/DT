@@ -23,6 +23,9 @@
       "BACKGROUND_MODIFIER_ACCENT": [
       "#f2e9e1", "#f2e9e1"
       ],
+      "BACKGROUND_MODIFIER_ACCENT_2": [
+      "#f2e9e1", "#f2e9e1"
+      ],
       "BACKGROUND_MODIFIER_ACTIVE": [
       "#fffaf3", "#fffaf3"
       ],
@@ -146,7 +149,7 @@
       "ICON_SECONDARY": [
       "#907aa9", "#907aa9"
       ],
-      "BACKGROUND_FLOATING": [
+      "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
