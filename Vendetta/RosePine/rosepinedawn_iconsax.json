@@ -161,7 +161,7 @@
       "ICON_MUTED": [
       "#907aa9", "#907aa9"
       ],
-      "REDESIGN_ONLY_BACKGROUND_OVERLAY": [
+      "BLACK": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
@@ -175,6 +175,18 @@
       "BRAND_345": "#d7827e",
       "BRAND_360": "#d7827e",
       "BRAND_500": "#286983",
+      "BRAND_530": "#d7827e",
+      "BRAND_560": "#d7827e",
+      "BRAND_600": "#d7827e",
+      "BRAND_630": "#d7827e",
+      "BRAND_660": "#d7827e",
+      "BRAND_700": "#d7827e",
+      "BRAND_730": "#d7827e",
+      "BRAND_760": "#d7827e",
+      "BRAND_800": "#d7827e",
+      "BRAND_830": "#d7827e",
+      "BRAND_860": "#d7827e",
+      "BRAND_900": "#d7827e",
       "PRIMARY_100": "#f2e9e1",
       "PRIMARY_130": "#f2e9e1",
       "PRIMARY_160": "#f2e9e1",
@@ -274,18 +286,6 @@
       "YELLOW_860": "#ea9d34",
       "YELLOW_900": "#ea9d34",
       "WHITE_500": "#fffaf3",
-      "WHITE_530": "#ea9d34",
-      "WHITE_560": "#ea9d34",
-      "WHITE_600": "#ea9d34",
-      "WHITE_630": "#ea9d34",
-      "WHITE_660": "#ea9d34",
-      "WHITE_700": "#ea9d34",
-      "WHITE_730": "#ea9d34",
-      "WHITE_760": "#ea9d34",
-      "WHITE_800": "#ea9d34",
-      "WHITE_830": "#ea9d34",
-      "WHITE_860": "#ea9d34",
-      "WHITE_900": "#ea9d34",
       "RC_WHITE_500": "#797593"
    },
    "plus":{
