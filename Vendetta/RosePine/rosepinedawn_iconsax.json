@@ -149,7 +149,7 @@
       "ICON_SECONDARY": [
       "#907aa9", "#907aa9"
       ],
-      "BG_SURFACE_OVERLAY_TMP": [
+      "BUTTON_OUTLINE_BRAND_BACKGROUND": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
