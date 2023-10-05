@@ -59,6 +59,12 @@
       "CHAT_BACKGROUND": [
       "#fffaf3", "#fffaf3"
       ],
+      "DIVIDER_STRONG": [
+      "#797593", "#797593"
+      ],
+      "DIVIDER_SUBTLE": [
+      "#797593", "#797593"
+      ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
       ],
@@ -113,6 +119,9 @@
       "MENTION_FOREGROUND": [
       "#b4637a", "#b4637a"
       ],
+      "MENTION_BACKGROUND": [
+      "#ea9d3480", "#ea9d3480"
+      ],
       "TEXT_DANGER": [
       "#b4637a", "#b4637a"
       ],
@@ -149,7 +158,10 @@
       "ICON_SECONDARY": [
       "#907aa9", "#907aa9"
       ],
-      "BUTTON_SECONDARY_BACKGROUND_ACTIVE": [
+     "ICON_MUTED": [
+      "#907aa9", "#907aa9"
+      ],
+      "REDESIGN_BUTTON_OVERLAY_ALPHA_BACKGROUND": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
