@@ -149,7 +149,7 @@
       "ICON_SECONDARY": [
       "#907aa9", "#907aa9"
       ],
-      "BACKGROUND_NESTED_FLOATING": [
+      "BG_SURFACE_OVERLAY_TMP": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
