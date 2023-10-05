@@ -189,9 +189,6 @@
       "PRIMARY_660": "#f2e9e1",
       "PRIMARY_700": "#f2e9e1",
       "PRIMARY_800": "#f2e9e1",
-      "PRIMARY_830": "#ea9d34",
-      "PRIMARY_860": "#ea9d34",
-      "PRIMARY_900": "#ea9d34",
       "GREEN_100": "#56949f",
       "GREEN_130": "#56949f",
       "GREEN_160": "#56949f",
@@ -262,6 +259,7 @@
       "YELLOW_830": "#ea9d34",
       "YELLOW_860": "#ea9d34",
       "YELLOW_900": "#ea9d34",
+      "INPUT_PLACEHOLDER_TEXT_DARK": "#ea9d34",
       "WHITE_500": "#fffaf3",
       "RC_WHITE_500": "#797593"
    },
