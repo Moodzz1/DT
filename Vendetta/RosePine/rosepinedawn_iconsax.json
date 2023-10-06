@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#907aa940", "#907aa940"
+      "#907aa9", "#907aa9"
       ],
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
@@ -122,9 +122,6 @@
       "MENTION_FOREGROUND": [
       "#b4637a", "#b4637a"
       ],
-      "MENTION_BACKGROUND": [
-      "#ea9d3480", "#ea9d3480"
-      ],
       "TEXT_DANGER": [
       "#b4637a", "#b4637a"
       ],
@@ -164,7 +161,7 @@
       "ICON_MUTED": [
       "#907aa9", "#907aa9"
       ],
-      "FOCUS_PRIMARY": [
+      "REDESIGN_ACTIVITY_CARD_OVERFLOW_BACKGROUND": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
