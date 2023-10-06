@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#907aa9", "#907aa9"
+      "#907aa9e6", "#907aa9e6"
       ],
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
@@ -265,7 +265,7 @@
       "YELLOW_200": "#ea9d34",
       "YELLOW_230": "#ea9d34",
       "YELLOW_260": "#ea9d34",
-      "YELLOW_300": "#ea9d344d",
+      "YELLOW_300": "#ea9d345c",
       "YELLOW_330": "#ea9d34",
       "YELLOW_345": "#ea9d34",
       "YELLOW_360": "#ea9d34",
