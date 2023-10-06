@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#ea9d3440", "#ea9d3440"
+      "#907aa940", "#907aa940"
       ],
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
@@ -164,7 +164,7 @@
       "ICON_MUTED": [
       "#907aa9", "#907aa9"
       ],
-      "BG_MOD_SUBTLE": [
+      "FOCUS_PRIMARY": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
