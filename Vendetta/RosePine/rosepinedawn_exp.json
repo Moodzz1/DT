@@ -292,6 +292,9 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
+          "ic_mic_neutral": "#907aa9",
+          "ic_mic_muted_neutral": "#907aa9",
+          "ic_mic_muted_neutral__overlay": "#b4637a",
           "ic_new_pins": "#b4637a",
           "ic_notification_settings": "#907aa9",
           "ic_notification_settings_light": "#907aa9",
