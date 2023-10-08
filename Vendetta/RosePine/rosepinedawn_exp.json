@@ -299,6 +299,7 @@
           "ic_radio_square_checked_24px": "286983",
           "ic_radio_square_checked_24px__overlay": "faf4ed",
           "ic_text_channel_16px": "#907aa9",
+          "channel_icon": "#907aa9",
           "StatusStreaming": "#907aa9",
           "StatusMobileOnline": "#56949f",
           "StatusIdle": "#ea9d34",
