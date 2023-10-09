@@ -287,6 +287,7 @@
        "customOverlays": true,
        "icons":{
           "ArrowLargeLeftIcon": "#907aa9",
+          "back-icon": "#907aa9",
           "ic_close_16px": "#907aa9",
           "ic_mic_neutral": "#907aa9",
           "ic_mic_muted_neutral": "#b4637a",
