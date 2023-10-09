@@ -286,6 +286,7 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
+          "ic_arrow_back_24px": "#907aa9",
           "ArrowLargeLeftIcon": "#907aa9",
           "back-icon": "#907aa9",
           "ic_close_16px": "#907aa9",
