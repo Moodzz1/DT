@@ -304,12 +304,17 @@
           "ic_radio_circle_checked__overlay": "#faf4ed",
           "member_list_badge_16px": "#907aa9",
           "ic_search": "#907aa9",
+          "ic_rich_presence_dark_12px": "#797593",
+          "stack-nav-back": "#907aa9",
+          "star": "#907aa9",
           "StatusStreaming": "#907aa9",
           "StatusMobileOnline": "#56949f",
           "StatusIdle": "#ea9d34",
           "StatusDND": "#b4637a",
           "StatusOffline": "#9893a5",
-          "StatusOnline": "#56949f"
+          "StatusOnline": "#56949f",
+          "StatusStreaming": "#56949f",
+          "toast_image_saved": "#56949f"
  }
 },
     "spec": 2
