@@ -62,12 +62,6 @@
       "CHAT_BACKGROUND": [
       "#fffaf3", "#fffaf3"
       ],
-      "DIVIDER_STRONG": [
-      "#907aa9", "#907aa9"
-      ],
-      "DIVIDER_SUBTLE": [
-      "#907aa9", "#907aa9"
-      ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
       ],
@@ -309,7 +303,7 @@
           "ic_radio_circle_checked": "#286983",
           "ic_radio_circle_checked__overlay": "#faf4ed",
           "member_list_badge_16px": "#907aa9",
-          "search": "#907aa9",
+          "ic_search": "#907aa9",
           "StatusStreaming": "#907aa9",
           "StatusMobileOnline": "#56949f",
           "StatusIdle": "#ea9d34",
