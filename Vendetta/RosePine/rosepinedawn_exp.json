@@ -333,7 +333,7 @@
           "StatusOnline": "#56949f",
           "StatusStreaming": "#907aa9",
           "toast_copy_link": "#56949f",
-          "toast_copy_message": "#56949f"
+          "toast_copy_message": "#56949f",
           "toast_image_saved": "#56949f"
  }
 },
