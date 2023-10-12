@@ -161,9 +161,6 @@
       "ICON_MUTED": [
       "#907aa9", "#907aa9"
       ],
-      "BUTTON_OUTLINE_PRIMARY_BORDER": [
-      "#ea9d34", "#ea9d34"
-      ],
       "MODAL_FOOTER_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
       ]
@@ -189,7 +186,7 @@
       "BRAND_900": "#d7827e",
       "PRIMARY_100": "#f2e9e1",
       "PRIMARY_130": "#f2e9e1",
-      "PRIMARY_160": "#f2e9e1",
+      "PRIMARY_160": "#ea9d34",
       "PRIMARY_200": "#f2e9e1",
       "PRIMARY_230": "#f2e9e1",
       "PRIMARY_300": "#ea9d34",
