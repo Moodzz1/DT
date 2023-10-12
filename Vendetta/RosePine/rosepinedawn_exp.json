@@ -101,6 +101,9 @@
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#f2e9e1", "#f2e9e1"
       ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#ea9d34", "#ea9d34"
+      ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#907aa9", "#907aa9"
       ],
@@ -158,7 +161,7 @@
       "ICON_MUTED": [
       "#907aa9", "#907aa9"
       ],
-      "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "BUTTON_OUTLINE_BRAND_BORDER": [
       "#ea9d34", "#ea9d34"
       ],
       "MODAL_FOOTER_BACKGROUND": [
