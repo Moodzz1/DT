@@ -139,7 +139,7 @@
       "PRIMARY_400": "#ebbcba",
       "PRIMARY_460": "#26233a",
       "PRIMARY_500": "#c4a7e7",
-      "PRIMARY_600": "#c4a7e7",
+      "PRIMARY_600": "#f6c177",
       "PRIMARY_630": "#26233a",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
@@ -196,7 +196,7 @@
           "ic_notification_settings":"c4a7e7",
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#9ccfd8",
-          "StatusIdle": "#ebbcba",
+          "StatusIdle": "#f6c177",
           "StatusDND": "#eb6f92",
           "StatusOffline": "#6e6a86",
           "StatusOnline": "#9ccfd8"
