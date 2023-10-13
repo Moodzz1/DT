@@ -323,6 +323,7 @@
           "ic_sync_24px": "#286983",
           "ic_launch": "#907aa9",
           "ic_logout_24px": "#b4637a",
+          "ic_mark_unread": "#907aa9",
           "ic_mark_unread__overlay": "#b4637a",
           "ic_message_copy": "#56949f",
           "ic_message_delete": "#b4637a",
