@@ -62,6 +62,9 @@
       "CHAT_BACKGROUND": [
       "#fffaf3", "#fffaf3"
       ],
+      "FOCUS_PRIMARY": [
+      "#ea9d34", "#ea9d34"
+      ],
       "HEADER_PRIMARY": [
       "#575279", "#575279"
       ],
