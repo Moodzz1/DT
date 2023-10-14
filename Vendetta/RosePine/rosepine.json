@@ -95,7 +95,7 @@
       "CARD_PRIMARY_BG": [
       "#191724"
       ],
-      "STATUS_POSITIVE_TEXT": [
+      "STATUS_DANGER_TEXT": [
       "#f6c177"
       ],
       "CARD_SECONDARY_BG": [
