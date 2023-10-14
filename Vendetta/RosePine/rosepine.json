@@ -63,7 +63,7 @@
       "#1f1d2e"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#f6c177"
+      "#e0def4"
       ],
       "INTERACTIVE_HOVER": [
       "#403d52"
@@ -95,7 +95,7 @@
       "CARD_PRIMARY_BG": [
       "#191724"
       ],
-      "INFO_POSITIVE_TEXT": [
+      "NAVIGATOR_HEADER_TINT": [
       "#f6c177"
       ],
       "CARD_SECONDARY_BG": [
