@@ -95,6 +95,9 @@
       "CARD_PRIMARY_BG": [
       "#191724"
       ],
+      "BUTTON_OUTLINE_BRAND_TEXT": [
+      "#f6c177"
+      ],
       "CARD_SECONDARY_BG": [
       "#26233a"
       ]
@@ -185,7 +188,7 @@
       "YELLOW_830": "#f6c177",
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
-      "WHITE_500": "#f6c177"
+      "WHITE_500": "#e0def4"
    },
    "plus":{
        "version":"0",
