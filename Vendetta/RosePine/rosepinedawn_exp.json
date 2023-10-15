@@ -326,6 +326,8 @@
           "ic_sync_24px": "#286983",
           "ic_launch": "#907aa9",
           "ic_logout_24px": "#b4637a",
+          "ic_mention_24px": "#b4637a",
+          "ic_mention_user": "#b4637a",
           "ic_mark_unread": "#b4637a",
           "ic_message_copy": "#56949f",
           "ic_message_delete": "#b4637a",
