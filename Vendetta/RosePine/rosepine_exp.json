@@ -44,9 +44,6 @@
       "BACKGROUND_TERTIARY": [
       "#26233a"
       ],
-      "BG_BASE_TERTIARY": [
-      "#26233a"
-      ],
       "BORDER_FAINT": [
       "#f6c177"
       ],
@@ -88,6 +85,9 @@
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#26233a"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
+      "#b4637a",
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
       "#31748f"
