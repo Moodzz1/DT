@@ -86,6 +86,9 @@
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#26233a"
       ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#c4a7e7"
+      ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#21202e"
       ],
@@ -197,7 +200,7 @@
       "YELLOW_830": "#f6c177",
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
-      "WHITE_500": "#f6c177"
+      "WHITE_500": "#e0def4"
    },
    "plus":{
        "version":"0",
