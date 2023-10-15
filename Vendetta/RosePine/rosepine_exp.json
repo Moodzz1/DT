@@ -44,6 +44,15 @@
       "BACKGROUND_TERTIARY": [
       "#26233a"
       ],
+      "BG_BASE_PRIMARY": [
+      "#191724"
+      ],
+      "BG_BASE_SECONDARY": [
+      "#191724"
+      ],
+      "BG_BASE_TERTIARY": [
+      "#26233a"
+      ],
       "BORDER_FAINT": [
       "#f6c177"
       ],
@@ -87,7 +96,7 @@
       "#26233a"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#c4a7e7"
+      "#31748f"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#21202e"
