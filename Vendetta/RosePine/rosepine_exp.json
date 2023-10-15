@@ -15,10 +15,10 @@
       "#403d52"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#26233a"
+      "#1f1d2e"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#f6c177"
+      "#191724"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#26233a"
@@ -108,7 +108,7 @@
       "#ebbcba"
       ],
       "CARD_PRIMARY_BG": [
-      "#191724"
+      "#f6c177"
       ],
       "CARD_SECONDARY_BG": [
       "#26233a"
