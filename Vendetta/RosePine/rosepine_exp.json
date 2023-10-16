@@ -8,6 +8,9 @@
       }
     ],
     "semanticColors": {
+      "ANDROID_RIPPLE": [
+      "#eb6f9250"
+      ],
       "BACKGROUND_ACCENT": [
       "#31748f"
       ],
@@ -21,6 +24,9 @@
       "#191724"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
+      "#26233a"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT_2": [
       "#26233a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
@@ -58,6 +64,9 @@
       ],
       "CHANNELS_DEFAULT": [
       "#908caa"
+      ],
+      "CHAT_BACKGROUND": [
+      "#f6c177"
       ],
       "HEADER_PRIMARY": [
       "#e0def4"
