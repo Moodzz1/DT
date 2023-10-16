@@ -42,7 +42,7 @@
       "#191724"
       ],
       "BACKGROUND_SECONDARY": [
-      "#191724"
+      "#21202e"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -205,7 +205,7 @@
       "YELLOW_560": "#f6c177",
       "YELLOW_600": "#f6c177",
       "YELLOW_630": "#f6c177",
-      "YELLOW_660": "#f6c177",
+      "YELLOW_660": "#21202e",
       "YELLOW_700": "#f6c177",
       "YELLOW_730": "#f6c177",
       "YELLOW_760": "#f6c177",
