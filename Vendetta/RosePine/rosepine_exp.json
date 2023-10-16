@@ -65,7 +65,7 @@
       "CHANNELS_DEFAULT": [
       "#908caa"
       ],
-      "CHANNELTEXTAREA_BACKGROUND": [
+      "HOME_BACKGROUND": [
       "#f6c177"
       ],
       "HEADER_PRIMARY": [
@@ -73,9 +73,6 @@
       ],
       "HEADER_SECONDARY": [
       "#e0def4"
-      ],
-      "HOME_BACKGROUND": [
-      "#1f1d2e"
       ],
       "INTERACTIVE_ACTIVE": [
       "#e0def4"
