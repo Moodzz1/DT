@@ -50,6 +50,9 @@
       "BACKGROUND_TERTIARY": [
       "#26233a"
       ],
+      "BG_BASE_SECONDARY": [
+      "#191724"
+      ],
       "BORDER_FAINT": [
       "#f6c177"
       ],
@@ -65,7 +68,7 @@
       "CHANNELS_DEFAULT": [
       "#908caa"
       ],
-      "BG_BASE_SECONDARY": [
+      "BG_BASE_PRIMARY": [
       "#f6c177"
       ],
       "HEADER_PRIMARY": [
