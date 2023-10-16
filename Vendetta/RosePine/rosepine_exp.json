@@ -71,9 +71,6 @@
       "CHANNELS_DEFAULT": [
       "#908caa"
       ],
-      "BG_BASE_PRIMARY": [
-      "#1f1d2e"
-      ],
       "HEADER_PRIMARY": [
       "#e0def4"
       ],
@@ -124,6 +121,9 @@
       ],
       "CARD_PRIMARY_BG": [
       "#1f1d2e"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#f6c177"
       ],
       "CARD_SECONDARY_BG": [
       "#6e6a86"
