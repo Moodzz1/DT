@@ -42,7 +42,7 @@
       "#191724"
       ],
       "BACKGROUND_SECONDARY": [
-      "#21202e"
+      "#191724"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -91,6 +91,9 @@
       ],
       "INTERACTIVE_NORMAL": [
       "#c4a7e7"
+      ],
+      "MENTION_FOREGROUND": [
+      "#eb6f92"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#26233a"
