@@ -21,7 +21,7 @@
       "#1f1d2e"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#191724"
+      "#f6c177"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#26233a"
@@ -42,7 +42,7 @@
       "#191724"
       ],
       "BACKGROUND_SECONDARY": [
-      "#f6c177"
+      "#191724"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -64,6 +64,9 @@
       ],      
       "BORDER_SUBTLE": [
       "#f6c177"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#1f1d2e"
       ],
       "CHANNEL_ICON": [
       "#c4a7e7"
@@ -118,9 +121,6 @@
       ],
       "TEXT_SECONDARY": [
       "#ebbcba"
-      ],
-      "CARD_PRIMARY_BG": [
-      "#1f1d2e"
       ],
       "BACKGROUND_NESTED_FLOATING": [
       "#f6c177"
