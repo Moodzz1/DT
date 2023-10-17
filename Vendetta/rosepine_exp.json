@@ -39,7 +39,7 @@
       "#403d52"
       ],
       "BACKGROUND_PRIMARY": [
-      "#191724"
+      "#f6c177"
       ],
       "BACKGROUND_SECONDARY": [
       "#191724"
@@ -64,6 +64,9 @@
       ],      
       "BORDER_SUBTLE": [
       "#f6c177"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#1f1d2e"
       ],
       "CHANNEL_ICON": [
       "#c4a7e7"
@@ -119,10 +122,7 @@
       "TEXT_SECONDARY": [
       "#ebbcba"
       ],
-      "CARD_PRIMARY_BG": [
-      "#1f1d2e"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "BACKGROUND_NESTED_FLOATING": [
       "#f6c177"
       ],
       "CARD_SECONDARY_BG": [
@@ -145,7 +145,7 @@
       "PRIMARY_630": "#26233a",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
-      "PRIMARY_800": "#191724",
+      "PRIMARY_800": "#1f1d2e",
       "GREEN_100": "#3e8fb0",
       "GREEN_130": "#31748f",
       "GREEN_160": "#31748f",
