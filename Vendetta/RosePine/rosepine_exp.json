@@ -39,7 +39,7 @@
       "#403d52"
       ],
       "BACKGROUND_PRIMARY": [
-      "#1f1d2e"
+      "#f6c177"
       ],
       "BACKGROUND_SECONDARY": [
       "#191724"
@@ -51,7 +51,7 @@
       "#26233a"
       ],
       "BG_BASE_PRIMARY": [
-      "#f6c177"
+      "#1f1d2e"
       ],
       "BG_BASE_SECONDARY": [
       "#191724"
@@ -145,6 +145,7 @@
       "PRIMARY_630": "#26233a",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
+      "PRIMARY_800": "#1f1d2e",
       "GREEN_100": "#3e8fb0",
       "GREEN_130": "#31748f",
       "GREEN_160": "#31748f",
