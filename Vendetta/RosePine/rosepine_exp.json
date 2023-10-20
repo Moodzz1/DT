@@ -65,8 +65,11 @@
       "BORDER_SUBTLE": [
       "#f6c177"
       ],
+      "CARD_SECONDARY_BG": [
+      "#6e6a86"
+      ]
       "CARD_PRIMARY_BG": [
-      "#1f1d2e"
+      "#eb6f92"
       ],
       "CHANNEL_ICON": [
       "#c4a7e7"
@@ -121,9 +124,6 @@
       ],
       "TEXT_SECONDARY": [
       "#ebbcba"
-      ],
-      "CARD_SECONDARY_BG": [
-      "#6e6a86"
       ]
     },
     "rawColors": {
