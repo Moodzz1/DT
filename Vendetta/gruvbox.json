@@ -72,7 +72,7 @@
       "#3c3836"
       ],
       "CHANNEL_ICON": [
-      "#cc241d"
+      "#ebdbb2"
       ],
       "CHANNELS_DEFAULT": [
       "#504945"
@@ -130,21 +130,21 @@
       ]
     },
     "rawColors": {
-      "BRAND_260": "#cc241d",
-      "BRAND_360": "#ebbcba",
+      "BRAND_260": "#fbf1c7",
+      "BRAND_360": "#fe8019",
       "BRAND_500": "#98971a",
-      "BRAND_560": "#ebbcba",
+      "BRAND_560": "#fe8019",
       "PRIMARY_100": "#1d2021",
-      "PRIMARY_230": "#cc241d",
-      "PRIMARY_300": "#ebbcba",
+      "PRIMARY_230": "#ebdbb2",
+      "PRIMARY_300": "#689d6a",
       "PRIMARY_360": "#d5c4a1",    
-      "PRIMARY_400": "#ebbcba",
+      "PRIMARY_400": "#FFFFFF",
       "PRIMARY_460": "#928374",
       "PRIMARY_500": "#cc241d",
       "PRIMARY_560": "#1d2021",
       "PRIMARY_600": "#282828",
       "PRIMARY_630": "#928374",
-      "PRIMARY_645": "#689d6a50",
+      "PRIMARY_645": "#689d6a",
       "PRIMARY_660": "#928374",
       "PRIMARY_700": "#928374",
       "PRIMARY_800": "#1d2021",
