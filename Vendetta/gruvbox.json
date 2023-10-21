@@ -101,6 +101,9 @@
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#928374"
       ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#504945"
+      ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#D79921"
       ],
