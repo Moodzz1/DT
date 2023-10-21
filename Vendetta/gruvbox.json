@@ -90,7 +90,7 @@
       "#cc241d50"
       ],
       "INTERACTIVE_MUTED": [
-      "#a89984"
+      "#7c6f64"
       ],
       "INTERACTIVE_NORMAL": [
       "#ebdbb2"
@@ -145,7 +145,7 @@
       "PRIMARY_600": "#282828",
       "PRIMARY_630": "#3c3836",
       "PRIMARY_645": "#689d6a",
-      "PRIMARY_660": "#928374",
+      "PRIMARY_660": "#504945",
       "PRIMARY_700": "#928374",
       "PRIMARY_800": "#1d2021",
       "GREEN_100": "#98971a",
