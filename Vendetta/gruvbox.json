@@ -54,7 +54,7 @@
       "#282828"
       ],
       "BG_BASE_SECONDARY": [
-      "#32302F"
+      "#FFFFFF"
       ],
       "BORDER_FAINT": [
       "#D79921"
@@ -75,7 +75,7 @@
       "#B16286"
       ],
       "CHANNELS_DEFAULT": [
-      "#928374"
+      "#504945"
       ],
       "HEADER_PRIMARY": [
       "#fbf1c7"
@@ -90,16 +90,16 @@
       "#cc241d50"
       ],
       "INTERACTIVE_MUTED": [
-      "#928374"
+      "#a89984"
       ],
       "INTERACTIVE_NORMAL": [
-      "#B16286"
+      "#ebdbb2"
       ],
       "MENTION_FOREGROUND": [
       "#cc241d"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#928374"
+      "#3c3836"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#504945"
@@ -108,25 +108,25 @@
       "#D79921"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#B16286"
+      "#fbf1c7"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#21202e"
+      "#665c54"
       ],
       "TEXT_DANGER": [
       "#cc241d"
       ],
       "TEXT_LINK": [
-      "#D79921"
+      "#d79921"
       ],
       "TEXT_MUTED": [
-      "#6e6a86"
+      "#a89984"
       ],
       "TEXT_NORMAL": [
       "#fbf1c7"
       ],
       "TEXT_SECONDARY": [
-      "#ebbcba"
+      "#ebdbb2"
       ]
     },
     "rawColors": {
