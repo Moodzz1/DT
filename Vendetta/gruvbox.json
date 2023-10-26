@@ -84,7 +84,7 @@
       "#fbf1c7"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#98971a"
+      "#fbf1c7"
       ],
       "INTERACTIVE_HOVER": [
       "#cc241d50"
@@ -111,7 +111,7 @@
       "#ebdbb2"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#98971a"
+      "#fbf1c7"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#665c54"
@@ -142,7 +142,7 @@
       "PRIMARY_300": "#689d6a",
       "PRIMARY_360": "#d5c4a1",    
       "PRIMARY_400": "#504945",
-      "PRIMARY_460": "#928374",
+      "PRIMARY_460": "#d5c4a1",
       "PRIMARY_500": "#8ec07c",
       "PRIMARY_560": "#1d2021",
       "PRIMARY_600": "#282828",
