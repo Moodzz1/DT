@@ -75,7 +75,7 @@
       "#ebdbb2"
       ],
       "CHANNELS_DEFAULT": [
-      "#928374"
+      "#bdae93"
       ],
       "HEADER_PRIMARY": [
       "#fbf1c7"
@@ -84,7 +84,7 @@
       "#fbf1c7"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#fbf1c7"
+      "#83a598"
       ],
       "INTERACTIVE_HOVER": [
       "#cc241d50"
@@ -142,7 +142,7 @@
       "PRIMARY_300": "#689d6a",
       "PRIMARY_360": "#d5c4a1",    
       "PRIMARY_400": "#504945",
-      "PRIMARY_460": "#928374",
+      "PRIMARY_460": "#bdae93",
       "PRIMARY_500": "#8ec07c",
       "PRIMARY_560": "#1d2021",
       "PRIMARY_600": "#282828",
