@@ -104,6 +104,9 @@
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#f6c177"
       ],
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#908caa"
+      ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
       "#c4a7e7"
       ],
@@ -138,7 +141,7 @@
       "PRIMARY_400": "#ebbcba",
       "PRIMARY_460": "#26233a",
       "PRIMARY_500": "#c4a7e7",
-      "PRIMARY_600": "#26233a",
+      "PRIMARY_600": "#26233a00",
       "PRIMARY_630": "#26233a",
       "PRIMARY_645": "#31748f50",
       "PRIMARY_660": "#26233a",
