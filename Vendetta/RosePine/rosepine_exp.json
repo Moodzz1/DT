@@ -30,7 +30,7 @@
       "#26233a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#f6c177"
+      "#1f1d2e"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#eb6f9250"
@@ -42,7 +42,7 @@
       "#1f1d2e"
       ],
       "BACKGROUND_SECONDARY": [
-      "#f6c177"
+      "#1f1d2e"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -51,7 +51,7 @@
       "#26233a"
       ],
       "BG_BASE_PRIMARY": [
-      "#1f1d2e"
+      "#f6c177"
       ],
       "BG_BASE_SECONDARY": [
       "#191724"
