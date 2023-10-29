@@ -223,7 +223,7 @@
       "WHITE_500": "#e0def4"
    },
     "background": {
-        "alpha": 0.7,
+        "alpha": 0.9,
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1167594878587383848/V06yN.png?ex=654eb277&is=653c3d77&hm=0d4274cdee74b9e6e34db9188aabf8904867707f29067777c04da67d97e9679a&"
     },
    "plus":{
@@ -270,7 +270,8 @@
           "ic_gif_24px": "#9ccfd8",
           "ic_group_edit_18px": "#9ccfd8",
           "ic_header_members_add_24px": "#9ccfd8",
-          "ic_home_event": "#ebbcba",
+          "ic_home_event": "#ebbcba"
+          "ic_invite": "#9ccfd8",,
           "ic_launch": "#c4a7e7",
           "ic_link": "#9ccfd8",
           "ic_link_24px": "#9ccfd8",
@@ -298,9 +299,9 @@
           "ic_radio_square_checked_24px": "#9ccfd8",
           "ic_radio_square_checked_24px__overlay": "#191724",
           "ic_reply_24px": "#f6c177",
-          "ic_rich_presence_dark_12px": "#797593",
+          "ic_rich_presence_dark_12px": "#908caa",
           "ic_report_message": "#eb6f92",
-          "ic_robot_24px": "#575279",
+          "ic_robot_24px": "#e0def4",
           "ic_selection_checked_24px": "#9ccfd8",
           "ic_selection_checked_24px__overlay": "#191724",
           "ic_selection_none_24px": "#9ccfd8",
@@ -318,7 +319,7 @@
           "ic_text_channel_16px": "#c4a7e7",
           "ic_text_channel_nsfw_16px": "#eb6f92",
           "icon-call": "#eb6f92",
-          "icon-invite": "#31748f",
+          "icon-invite": "#9ccfd8",
           "icon-qs-links": "#9ccfd8",
           "img_account_sync_spotify_white": "#1ed760",
           "LinkIcon": "#9ccfd8",
