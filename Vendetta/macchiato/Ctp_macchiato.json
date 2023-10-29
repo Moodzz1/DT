@@ -51,7 +51,7 @@
       "#181926"
       ],
       "BG_BASE_PRIMARY": [
-      "#24273a"
+      "#1e2030"
       ],
       "BG_BASE_SECONDARY": [
       "#1e2030"
@@ -222,6 +222,10 @@
       "YELLOW_900": "#eed49f",
       "WHITE_500": "#cad3f5"
    },
+    "background": {
+        "alpha": 5,
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1168311784306905178/GlwzC.png?ex=65514e23&is=653ed923&hm=d304c030ed20f05c1adace0c686c73a4734de2c46498f93b105ca8d84bbefe1c&"
+    },
    "plus":{
        "version":"0",
        "customOverlays": true,
