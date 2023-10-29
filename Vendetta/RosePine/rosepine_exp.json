@@ -30,7 +30,7 @@
       "#26233a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#1f1d2e"
+      "#f6c177"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#eb6f9250"
@@ -42,7 +42,7 @@
       "#1f1d2e"
       ],
       "BACKGROUND_SECONDARY": [
-      "#1f1d2e"
+      "#f6c177"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -69,7 +69,7 @@
       "#6e6a86"
       ],
       "CARD_PRIMARY_BG": [
-      "#1f1d2e00"
+      "#1f1d2e"
       ],
       "CHANNEL_ICON": [
       "#c4a7e7"
