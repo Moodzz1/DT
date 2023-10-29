@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#494d64"
+      "#8aadf450"
       ],
       "BACKGROUND_ACCENT": [
       "#8aadf4"
@@ -33,7 +33,7 @@
       "#181926"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#494d64"
+      "#8aadf450"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#5b6078"
@@ -90,7 +90,7 @@
       "#8aadf4"
       ],
       "INTERACTIVE_HOVER": [
-      "#494d64"
+      "#8aadf450"
       ],
       "INTERACTIVE_MUTED": [
       "#5b6078"
@@ -224,7 +224,7 @@
    },
     "background": {
         "alpha": 30,
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1168318444903596124/gj4jJ.png?ex=65515457&is=653edf57&hm=7d345307cc179ccad8833f88539bac57b88986ca28e0e6779e81a63aec21d4bc&"
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1168322897685782649/Y1yi4.jpg?ex=6551587d&is=653ee37d&hm=c42699f91dba9faa6a094a240a5a15f8c6d812ae2ca80c55a3892e738a995861&"
     },
    "plus":{
        "version":"0",
