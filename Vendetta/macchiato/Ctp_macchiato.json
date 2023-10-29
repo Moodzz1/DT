@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#939ab7"
+      "#494d64"
       ],
       "BACKGROUND_ACCENT": [
       "#8aadf4"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#939ab7"
+      "#494d64"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#1e2030"
@@ -33,7 +33,7 @@
       "#181926"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#6e738d"
+      "#494d64"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#5b6078"
@@ -87,10 +87,10 @@
       "#cad3f5"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#cad3f5"
+      "#8aadf4"
       ],
       "INTERACTIVE_HOVER": [
-      "#ed879650"
+      "#494d64"
       ],
       "INTERACTIVE_MUTED": [
       "#5b6078"
@@ -111,7 +111,7 @@
       "#cad3f5"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#c6a0f6"
+      "#8aadf4"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#5b6078"
@@ -223,8 +223,8 @@
       "WHITE_500": "#cad3f5"
    },
     "background": {
-        "alpha": 5,
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1168311784306905178/GlwzC.png?ex=65514e23&is=653ed923&hm=d304c030ed20f05c1adace0c686c73a4734de2c46498f93b105ca8d84bbefe1c&"
+        "alpha": 30,
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1168318444903596124/gj4jJ.png?ex=65515457&is=653edf57&hm=7d345307cc179ccad8833f88539bac57b88986ca28e0e6779e81a63aec21d4bc&"
     },
    "plus":{
        "version":"0",
