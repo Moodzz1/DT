@@ -125,43 +125,28 @@
       "TEXT_MUTED": [
       "#5b6078"
       ],
-      "INFO_DANGER_TEXT": [ 
+      "REDESIGN_BUTTON_PRIMARY_ALT_ON_BLURPLE_BORDER": [ 
       "#f5a97f"
       ],
-      "INFO_HELP_TEXT": [ 
+      "REDESIGN_BUTTON_PRIMARY_ALT_ON_BLURPLE_TEXT": [ 
       "#f5a97f"
       ],
-      "INFO_POSITIVE_TEXT": [ 
+      "REDESIGN_BUTTON_PRIMARY_ON_BLURPLE_BACKGROUND": [ 
       "#f5a97f"
       ],
-      "INFO_WARNING_TEXT": [ 
+      "REDESIGN_BUTTON_PRIMARY_TEXT": [ 
       "#f5a97f"
       ],
-      "LOGO_PRIMARY": [ 
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#f5a97f"
       ],
-      "NAVIGATOR_HEADER_TINT": [ 
+      "STATUS_DANGER_TEXT": [ 
       "#f5a97f"
       ],
-      "PROFILE_GRADIENT_PROFILE_BODY_BACKGROUND_HOVER": [ 
+      "STATUS_POSITIVE_TEXT": [ 
       "#f5a97f"
       ],
-      "PROFILE_GRADIENT_ROLE_PILL_BORDER": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_ACTIVITY_CARD_BORDER": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_BUTTON_DANGER_TEXT": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_BUTTON_OVERLAY_ALPHA_TEXT": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_BUTTON_OVERLAY_BACKGROUND": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_BUTTON_POSITIVE_TEXT": [ 
+      "WHITE": [ 
       "#f5a97f"
       ],
       "TEXT_NORMAL": [
