@@ -8,6 +8,12 @@
       }
     ],
     "semanticColors": {
+      "ACTIVITY_CARD_BACKGROUND": [
+      "#363a4f"
+      ],
+      "ANDROID_NAVIGATION_BAR_BACKGROUND": [
+      "#181926"
+      ],
       "ANDROID_RIPPLE": [
       "#8aadf450"
       ],
@@ -53,6 +59,9 @@
       "BG_BASE_PRIMARY": [
       "#1e2030"
       ],
+      "BG_BASE_TERTIARY": [
+      "#f5a97f"
+      ],
       "BG_BASE_SECONDARY": [
       "#1e2030"
       ],
@@ -89,6 +98,12 @@
       "HEADER_SECONDARY": [
       "#cad3f5"
       ],
+      "ICON_PRIMARY": [
+      "#f5a97f"
+      ],
+      "ICON_SECONDARY": [
+      "#f5a97f"
+      ],
       "INTERACTIVE_ACTIVE": [
       "#cad3f5"
       ],
@@ -121,12 +136,6 @@
       ],
       "TEXT_DANGER": [
       "#ed8796"
-      ],
-      "TEXT_BRAND": [
-      "#f5a97f"
-      ],
-      "TEXT_LOW_CONTRAST": [
-      "#f5a97f"
       ],
       "TEXT_LINK": [
       "#b7bdf8"
@@ -165,6 +174,7 @@
       "PRIMARY_660": "#181926",
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#181926",
+      "PRIMARY_830": "#eed49f",
       "INPUT_PLACEHOLDER_TEXT_DARK": "#a5adcb",
       "GREEN_100": "#a6da95",
       "GREEN_130": "#a6da95",
