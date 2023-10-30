@@ -107,6 +107,12 @@
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#363a4f"
       ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#181926"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#181926"
+      ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#f5a97f"
       ],
@@ -117,7 +123,7 @@
       "#cad3f5"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#f5a97f"
+      "#181926"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#5b6078"
@@ -144,7 +150,7 @@
     "rawColors": {
       "BRAND_260": "#c6a0f6",
       "BRAND_360": "#f5bde6",
-      "BRAND_500": "#494d64",
+      "BRAND_500": "#8aadf4",
       "BRAND_560": "#f5bde6",
       "PRIMARY_100": "#494d64",
       "PRIMARY_130": "#cad3f5",
