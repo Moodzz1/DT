@@ -125,16 +125,19 @@
       "TEXT_MUTED": [
       "#5b6078"
       ],
-      "BUTTON_OUTLINE_DANGER_TEXT_ACTIVE": [ 
+      "BUTTON_OUTLINE_DANGER_TEXT_HOVER": [ 
       "#f5a97f"
       ],
-      "BUTTON_OUTLINE_DANGER_BACKGROUND": [ 
+      "BUTTON_OUTLINE_POSITIVE_BACKGROUND": [ 
       "#f5a97f"
       ],
-      "BUTTON_OUTLINE_BRAND_TEXT_HOVER": [ 
+      "BUTTON_OUTLINE_POSITIVE_TEXT": [ 
       "#f5a97f"
       ],
-      "BUTTON_OUTLINE_DANGER_TEXT": [ 
+      "BUTTON_OUTLINE_POSITIVE_TEXT_ACTIVE": [ 
+      "#f5a97f"
+      ],
+      "BUTTON_OUTLINE_POSITIVE_TEXT_HOVER": [ 
       "#f5a97f"
       ],
       "TEXT_NORMAL": [
