@@ -77,6 +77,9 @@
       "CHANNELS_DEFAULT": [
       "#a5adcb"
       ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+      "#f5a97f"
+      ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#a5adcb"
       ],
@@ -119,6 +122,12 @@
       "TEXT_DANGER": [
       "#ed8796"
       ],
+      "TEXT_BRAND": [
+      "#f5a97f"
+      ],
+      "TEXT_LOW_CONTRAST": [
+      "#f5a97f"
+      ],
       "TEXT_LINK": [
       "#b7bdf8"
       ],
@@ -126,6 +135,9 @@
       "#5b6078"
       ],
       "TEXT_NORMAL": [
+      "#cad3f5"
+      ],
+      "TEXT_PRIMARY": [
       "#cad3f5"
       ],
       "TEXT_SECONDARY": [
@@ -153,6 +165,7 @@
       "PRIMARY_660": "#181926",
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#181926",
+      "INPUT_PLACEHOLDER_TEXT_DARK": "#a5adcb",
       "GREEN_100": "#a6da95",
       "GREEN_130": "#a6da95",
       "GREEN_160": "#a6da95",
