@@ -125,6 +125,15 @@
       "TEXT_MUTED": [
       "#5b6078"
       ],
+      "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [ 
+      "#f5a97f"
+      ],
+      "REDESIGN_BUTTON_PRIMARY_ON_BLURPLE_TEXT": [ 
+      "#f5a97f"
+      ],
+      "REDESIGN_INPUT_CONTROL_SELECTED": [ 
+      "#f5a97f"
+      ],
       "TEXT_NORMAL": [
       "#cad3f5"
       ],
