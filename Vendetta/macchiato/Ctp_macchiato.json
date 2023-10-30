@@ -65,6 +65,15 @@
       "BORDER_SUBTLE": [
       "#f5a97f"
       ],
+      "BUTTON_OUTLINE_BRAND_BACKGROUND": [ 
+      "#f5a97f"
+      ],
+      "BUTTON_OUTLINE_BRAND_TEXT": [ 
+      "#f5a97f"
+      ],
+      "BUTTON_OUTLINE_BRAND_TEXT_ACTIVE": [ 
+      "#f5a97f"
+      ],
       "CARD_SECONDARY_BG": [
       "#363a4f"
       ],
@@ -125,13 +134,7 @@
       "TEXT_MUTED": [
       "#5b6078"
       ],
-      "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_BUTTON_PRIMARY_ON_BLURPLE_TEXT": [ 
-      "#f5a97f"
-      ],
-      "REDESIGN_INPUT_CONTROL_SELECTED": [ 
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#f5a97f"
       ],
       "TEXT_NORMAL": [
