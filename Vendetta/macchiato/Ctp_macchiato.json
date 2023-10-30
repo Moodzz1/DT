@@ -125,14 +125,11 @@
       "TEXT_MUTED": [
       "#5b6078"
       ],
-      "STATUS_DANGER_TEXT": [ 
-      "#181926"
-      ],
       "STATUS_POSITIVE_TEXT": [ 
       "#f5a97f"
       ],
       "WHITE": [ 
-      "#f5a97f"
+      "#181926"
       ],
       "TEXT_NORMAL": [
       "#cad3f5"
@@ -144,7 +141,7 @@
     "rawColors": {
       "BRAND_260": "#c6a0f6",
       "BRAND_360": "#f5bde6",
-      "BRAND_500": "#8aadf450",
+      "BRAND_500": "#8aadf480",
       "BRAND_560": "#f5bde6",
       "PRIMARY_100": "#494d64",
       "PRIMARY_230": "#c6a0f6",
