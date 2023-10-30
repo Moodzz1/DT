@@ -11,9 +11,6 @@
       "ACTIVITY_CARD_BACKGROUND": [
       "#363a4f"
       ],
-      "ANDROID_NAVIGATION_BAR_BACKGROUND": [
-      "#181926"
-      ],
       "ANDROID_RIPPLE": [
       "#8aadf450"
       ],
@@ -59,9 +56,6 @@
       "BG_BASE_PRIMARY": [
       "#1e2030"
       ],
-      "BG_BASE_TERTIARY": [
-      "#f5a97f"
-      ],
       "BG_BASE_SECONDARY": [
       "#1e2030"
       ],
@@ -86,9 +80,6 @@
       "CHANNELS_DEFAULT": [
       "#a5adcb"
       ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-      "#f5a97f"
-      ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#a5adcb"
       ],
@@ -97,12 +88,6 @@
       ],
       "HEADER_SECONDARY": [
       "#cad3f5"
-      ],
-      "ICON_PRIMARY": [
-      "#f5a97f"
-      ],
-      "ICON_SECONDARY": [
-      "#f5a97f"
       ],
       "INTERACTIVE_ACTIVE": [
       "#cad3f5"
@@ -131,6 +116,9 @@
       "REDESIGN_CHANNEL_NAME_TEXT": [
       "#cad3f5"
       ],
+      "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#f5a97f"
+      ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#5b6078"
       ],
@@ -151,17 +139,15 @@
       ],
       "TEXT_SECONDARY": [
       "#f0c6c6"
-      ],
-      "WHITE": [ 
-      "#181926"
       ]
     },
     "rawColors": {
       "BRAND_260": "#c6a0f6",
       "BRAND_360": "#f5bde6",
-      "BRAND_500": "#303446",
+      "BRAND_500": "#494d64",
       "BRAND_560": "#f5bde6",
       "PRIMARY_100": "#494d64",
+      "PRIMARY_130": "#cad3f5",
       "PRIMARY_230": "#c6a0f6",
       "PRIMARY_300": "#f5bde6",
       "PRIMARY_360": "#a5adcb",    
@@ -174,7 +160,6 @@
       "PRIMARY_660": "#181926",
       "PRIMARY_700": "#181926",
       "PRIMARY_800": "#181926",
-      "PRIMARY_830": "#eed49f",
       "INPUT_PLACEHOLDER_TEXT_DARK": "#a5adcb",
       "GREEN_100": "#a6da95",
       "GREEN_130": "#a6da95",
