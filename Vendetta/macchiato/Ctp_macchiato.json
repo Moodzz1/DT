@@ -111,7 +111,7 @@
       "#181926"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#181926"
+      "#24273a"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#f5a97f"
@@ -303,10 +303,10 @@
           "ic_mic_neutral": "#c6a0f6",
           "ic_mic_muted_neutral": "#ed8796",
           "ic_new_pins": "#c6a0f6",
-          "ic_new_pins_light": "#c6a0f6",
-          "ic_new_pins_light__overlay": "#ed8796",
-          "ic_notification_settings_light": "#c6a0f6",
-          "ic_notification_settings_light__overlay": "#ed8796",
+          "ic_new_pins": "#c6a0f6",
+          "ic_new_pins__overlay": "#ed8796",
+          "ic_notification_settings": "#c6a0f6",
+          "ic_notification_settings__overlay": "#ed8796",
           "ic_pencil_24px": "#a6da95",
           "ic_person_add": "#a6da95",
           "ic_person_add_18px": "#a6da95",
