@@ -245,6 +245,9 @@
       "WHITE_500": "#2A2635",
       "WHITE_630": "#625F71"
    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1169773256270684170/wzgWq.png?ex=65569f3d&is=65442a3d&hm=c7fdbd985a4eb877e97dff7be44c08f4d22ff3ae459e1d54a92afde961abd5e4&"
+    },
    "plus":{
        "version":"0",
        "customOverlays": true,
