@@ -15,7 +15,7 @@
       "#8aadf450"
       ],
       "BACKGROUND_ACCENT": [
-      "#3C3949"
+      "#9C98AE"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#4F4C5E"
@@ -341,7 +341,6 @@
           "ic_star_filled": "#eed49f",
           "ic_sticker_24px": "#ed8796",
           "ic_sync_24px": "#a6da95",
-          "ic_text_channel_16px": "#c6a0f6",
           "ic_text_channel_nsfw_16px": "#ed8796",
           "icon-call": "#ed8796",
           "icon-invite": "#a6da95",
