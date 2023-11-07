@@ -57,13 +57,13 @@
       "#191724"
       ],
       "BORDER_FAINT": [
-      "#f6c177"
+      "#31748f"
       ],
       "BORDER_STRONG": [
-      "#f6c177"
+      "#31748f"
       ],      
       "BORDER_SUBTLE": [
-      "#f6c177"
+      "#31748f"
       ],
       "CARD_SECONDARY_BG": [
       "#6e6a86"
@@ -105,7 +105,7 @@
       "#26233a"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#f6c177"
+      "#31748f"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#e0def4"
@@ -139,19 +139,19 @@
       "BRAND_500": "#31748f",
       "BRAND_560": "#ebbcba",
       "PLUM_1": "#e0def4",
-      "PLUM_10": "#908caa",
-      "PLUM_11": "#908caa",
-      "PLUM_13": "#908caa",
-      "PLUM_15": "#31748f",
+      "PLUM_10": "#f6c177",
+      "PLUM_11": "#f6c177",
+      "PLUM_13": "#f6c177",
+      "PLUM_15": "#f6c177",
       "PLUM_16": "#191724",
       "PLUM_17": "#191724",
-      "PLUM_18": "#908caa",
-      "PLUM_19": "#908caa",
+      "PLUM_18": "#f6c177",
+      "PLUM_19": "#f6c177",
       "PLUM_20": "#26233a",
       "PLUM_21": "#31748f50",
       "PLUM_22": "#908caa",
       "PLUM_24": "#191724",
-      "PLUM_25": "#f6c177",
+      "PLUM_25": "#9ccfd8",
       "PLUM_3": "#e0def4",
       "PLUM_4": "#31748f50",
       "PLUM_6": "#c4a7e7",
@@ -169,32 +169,32 @@
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
       "PRIMARY_800": "#191724",
-      "GREEN_100": "#3e8fb0",
-      "GREEN_130": "#31748f",
-      "GREEN_160": "#31748f",
-      "GREEN_200": "#31748f",
-      "GREEN_230": "#31748f",
-      "GREEN_260": "#31748f",
-      "GREEN_300": "#31748f",
-      "GREEN_330": "#31748f",
-      "GREEN_345": "#31748f",
-      "GREEN_360": "#31748f",
-      "GREEN_400": "#31748f",
-      "GREEN_430": "#31748f",
-      "GREEN_460": "#31748f",
-      "GREEN_500": "#31748f",
-      "GREEN_530": "#31748f",
-      "GREEN_560": "#31748f",
-      "GREEN_600": "#31748f",
-      "GREEN_630": "#31748f",
-      "GREEN_660": "#31748f",
-      "GREEN_700": "#31748f",
-      "GREEN_730": "#31748f",
-      "GREEN_760": "#31748f",
-      "GREEN_800": "#31748f",
-      "GREEN_830": "#31748f",
-      "GREEN_860": "#31748f",
-      "GREEN_900": "#31748f",
+      "GREEN_100": "#9ccfd8",
+      "GREEN_130": "#9ccfd8",
+      "GREEN_160": "#9ccfd8",
+      "GREEN_200": "#9ccfd8",
+      "GREEN_230": "#9ccfd8",
+      "GREEN_260": "#9ccfd8",
+      "GREEN_300": "#9ccfd8",
+      "GREEN_330": "#9ccfd8",
+      "GREEN_345": "#9ccfd8",
+      "GREEN_360": "#9ccfd8",
+      "GREEN_400": "#9ccfd8",
+      "GREEN_430": "#9ccfd8",
+      "GREEN_460": "#9ccfd8",
+      "GREEN_500": "#9ccfd8",
+      "GREEN_530": "#9ccfd8",
+      "GREEN_560": "#9ccfd8",
+      "GREEN_600": "#9ccfd8",
+      "GREEN_630": "#9ccfd8",
+      "GREEN_660": "#9ccfd8",
+      "GREEN_700": "#9ccfd8",
+      "GREEN_730": "#9ccfd8",
+      "GREEN_760": "#9ccfd8",
+      "GREEN_800": "#9ccfd8",
+      "GREEN_830": "#9ccfd8",
+      "GREEN_860": "#9ccfd8",
+      "GREEN_900": "#9ccfd8",
       "GUILD_BOOSTING_PINK": "#eb6f92",   
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
