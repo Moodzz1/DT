@@ -18,7 +18,7 @@
       "#eb6f9250"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#f6c177"
+      "#191724"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
       "#191724"
@@ -42,7 +42,7 @@
       "#1f1d2e"
       ],
       "BACKGROUND_SECONDARY": [
-      "#26233a"
+      "#191724"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -142,16 +142,16 @@
       "PLUM_10": "#908caa",
       "PLUM_11": "#908caa",
       "PLUM_13": "#908caa",
-      "PLUM_15": "#26233a",
+      "PLUM_15": "#31748f",
       "PLUM_16": "#191724",
       "PLUM_17": "#191724",
       "PLUM_18": "#908caa",
       "PLUM_19": "#908caa",
-      "PLUM_20": "#9ccfd8",
+      "PLUM_20": "#26233a",
       "PLUM_21": "#31748f50",
       "PLUM_22": "#908caa",
       "PLUM_24": "#191724",
-      "PLUM_25": "#9ccfd8",
+      "PLUM_25": "#f6c177",
       "PLUM_3": "#e0def4",
       "PLUM_4": "#31748f50",
       "PLUM_6": "#c4a7e7",
@@ -239,7 +239,8 @@
       "YELLOW_830": "#f6c177",
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
-      "WHITE_500": "#191724"
+      "WHITE_500": "#191724",
+      "WHITE_630": "#21202e"
    },
     "background": {
         "alpha": 5,
