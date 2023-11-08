@@ -139,87 +139,6 @@
       ],
       "TEXT_SECONDARY": [
       "#ebbcba"
-      ],
-      "WHITE": [
-      "#eb6f92"
-      ],
-      "STATUS_POSITIVE_TEXT": [
-      "#31748f"
-      ],
-      "STATUS_DANGER_TEXT": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_PRIMARY_TEXT": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_PRIMARY_ON_BLURPLE_BACKGROUND": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_PRIMARY_ALT_ON_BLURPLE_TEXT": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_PRIMARY_ALT_ON_BLURPLE_BORDER": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_POSITIVE_TEXT": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_OVERLAY_BACKGROUND": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_OVERLAY_ALPHA_TEXT": [
-      "#31748f"
-      ],
-      "REDESIGN_BUTTON_DANGER_TEXT": [
-      "#31748f"
-      ],
-      "PROFILE_GRADIENT_PROFILE_BODY_BACKGROUND_HOVER": [
-      "#31748f"
-      ],
-      "NAVIGATOR_HEADER_TINT": [
-      "#31748f"
-      ],
-      "LOGO_PRIMARY": [
-      "#31748f"
-      ],
-      "INFO_WARNING_TEXT": [
-      "#31748f"
-      ],
-      "INFO_POSITIVE_TEXT": [
-      "#31748f"
-      ],
-      "INFO_HELP_TEXT": [
-      "#31748f"
-      ],
-      "INFO_DANGER_TEXT": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_PRIMARY_TEXT_ACTIVE": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_PRIMARY_TEXT": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_POSITIVE_TEXT_ACTIVE": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_POSITIVE_TEXT": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_POSITIVE_BACKGROUND": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_DANGER_TEXT_ACTIVE": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_DANGER_TEXT": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_BRAND_TEXT_ACTIVE": [
-      "#31748f"
-      ],
-      "BUTTON_OUTLINE_BRAND_TEXT": [
-      "#31748f"
       ]
     },
     "rawColors": {
@@ -329,6 +248,7 @@
       "YELLOW_830": "#f6c177",
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
+      "WHITE_500": "#1f1d2e",
       "WHITE_630": "#908caa"
    },
     "background": {
