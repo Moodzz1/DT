@@ -96,7 +96,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#f6c177"
+      "#c4a7e7"
       ],
       "MENTION_FOREGROUND": [
       "#eb6f92"
@@ -143,7 +143,7 @@
     },
     "rawColors": {
       "BLUE_345": "#f6c177",
-      "BRAND_260": "#c4a7e7",
+      "BRAND_260": "#393552",
       "BRAND_360": "#ebbcba",
       "BRAND_500": "#31748f",
       "BRAND_560": "#ebbcba",
