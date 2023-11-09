@@ -96,7 +96,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#c4a7e7"
+      "#f6c177"
       ],
       "MENTION_FOREGROUND": [
       "#eb6f92"
@@ -163,7 +163,7 @@
       "PLUM_25": "#9ccfd8",
       "PLUM_3": "#e0def4",
       "PLUM_4": "#31748f50",
-      "PLUM_6": "#f6c177",
+      "PLUM_6": "#c4a7e7",
       "PLUM_9": "#e0def4",
       "PRIMARY_100": "#524f67",
       "PRIMARY_230": "#c4a7e7",
