@@ -1,0 +1,381 @@
+{
+    "name": "Tokyo Night",
+    "description": "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+    "authors": [
+      {
+        "name": "Moodl",
+        "id": "716941151386599464"
+      }
+    ],
+    "semanticColors": {
+      "ANDROID_RIPPLE": [
+      "#7aa2f750"
+      ],
+      "BACKGROUND_ACCENT": [
+      "#7aa2f7"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#7aa2f750"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#1a1b26"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a1b26"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#565f89"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT_2": [
+      "#565f89"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#414868"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#7aa2f750"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#403d52"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#414868"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#1a1b26"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#565f89"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#565f89"
+      ],
+      "BG_BASE_PRIMARY": [
+      "#414868"
+      ],
+      "BG_BASE_SECONDARY": [
+      "#1a1b26"
+      ],
+      "BORDER_FAINT": [
+      "#9aa5ce"
+      ],
+      "BORDER_STRONG": [
+      "#9aa5ce"
+      ],      
+      "BORDER_SUBTLE": [
+      "#9aa5ce"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#9aa5ce"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#414868"
+      ],
+      "CHANNEL_ICON": [
+      "#9aa5ce"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#9aa5ce"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#9aa5ce"
+      ],
+      "HEADER_PRIMARY": [
+      "#c0caf5"
+      ],
+      "HEADER_SECONDARY": [
+      "#c0caf5"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#c0caf5"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#7aa2f750"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#9aa5ce"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#bb9af7"
+      ],
+      "MENTION_FOREGROUND": [
+      "#f7768e"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#565f89"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#565f89"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#565f89"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
+      "#9aa5ce"
+      ],
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#c0caf5"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#bb9af7"
+      ],
+      "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#565f89"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#414868"
+      ],
+      "TEXT_DANGER": [
+      "#f7768e"
+      ],
+      "TEXT_LINK": [
+      "#73daca"
+      ],
+      "TEXT_MUTED": [
+      "#9aa5ce"
+      ],
+      "TEXT_NORMAL": [
+      "#c0caf5"
+      ],
+      "TEXT_SECONDARY": [
+      "#a9b1d6"
+      ]
+    },
+    "rawColors": {
+      "BLUE_345": "#73daca",
+      "BRAND_260": "#2ac3de",
+      "BRAND_360": "#f7768e",
+      "BRAND_500": "#2ac3de",
+      "BRAND_560": "#a9b1d6",
+      "PLUM_1": "#c0caf5",
+      "PLUM_10": "#9aa5ce",
+      "PLUM_11": "#1a1b26",
+      "PLUM_13": "#7aa2f750",
+      "PLUM_15": "#565f89",
+      "PLUM_16": "#e0af68",
+      "PLUM_17": "#1a1b26",
+      "PLUM_18": "#565f89",
+      "PLUM_19": "#9aa5ce",
+      "PLUM_20": "#565f89",
+      "PLUM_21": "#7aa2f750",
+      "PLUM_22": "#565f89",
+      "PLUM_24": "#565f89",
+      "PLUM_25": "#9ece6a",
+      "PLUM_3": "#c0caf5",
+      "PLUM_4": "#7aa2f750",
+      "PLUM_6": "#bb9af7",
+      "PLUM_9": "#c0caf5",
+      "PRIMARY_100": "#524f67",
+      "PRIMARY_230": "#bb9af7",
+      "PRIMARY_300": "#e0af68",
+      "PRIMARY_360": "#9aa5ce",    
+      "PRIMARY_400": "#e0af68",
+      "PRIMARY_460": "#565f89",
+      "PRIMARY_500": "#bb9af7",
+      "PRIMARY_600": "#565f89",
+      "PRIMARY_630": "#565f89",
+      "PRIMARY_645": "#7aa2f750",
+      "PRIMARY_660": "#565f89",
+      "PRIMARY_700": "#565f89",
+      "PRIMARY_800": "#1a1b26",
+      "GREEN_100": "#9ece6a",
+      "GREEN_130": "#9ece6a",
+      "GREEN_160": "#9ece6a",
+      "GREEN_200": "#9ece6a",
+      "GREEN_230": "#9ece6a",
+      "GREEN_260": "#9ece6a",
+      "GREEN_300": "#9ece6a",
+      "GREEN_330": "#9ece6a",
+      "GREEN_345": "#9ece6a",
+      "GREEN_360": "#9ece6a",
+      "GREEN_400": "#9ece6a",
+      "GREEN_430": "#9ece6a",
+      "GREEN_460": "#9ece6a",
+      "GREEN_500": "#9ece6a",
+      "GREEN_530": "#9ece6a",
+      "GREEN_560": "#9ece6a",
+      "GREEN_600": "#9ece6a",
+      "GREEN_630": "#9ece6a",
+      "GREEN_660": "#9ece6a",
+      "GREEN_700": "#9ece6a",
+      "GREEN_730": "#9ece6a",
+      "GREEN_760": "#9ece6a",
+      "GREEN_800": "#9ece6a",
+      "GREEN_830": "#9ece6a",
+      "GREEN_860": "#9ece6a",
+      "GREEN_900": "#9ece6a",
+      "GUILD_BOOSTING_PINK": "#f7768e",   
+      "GUILD_BOOSTING_PURPLE": "#bb9af7",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#bb9af7",
+      "RED_260": "#f7768e",
+      "RED_300": "#f7768e",
+      "RED_330": "#f7768e",
+      "RED_345": "#f7768e",
+      "RED_360": "#f7768e",
+      "RED_400": "#f7768e",
+      "RED_430": "#f7768e",
+      "RED_460": "#f7768e",
+      "RED_500": "#f7768e",
+      "RED_530": "#f7768e",
+      "RED_560": "#f7768e",
+      "RED_600": "#f7768e",
+      "RED_630": "#f7768e",
+      "RED_660": "#f7768e",
+      "RED_700": "#f7768e",
+      "YELLOW_100": "#e0af68",
+      "YELLOW_130": "#e0af68",
+      "YELLOW_160": "#e0af68",
+      "YELLOW_200": "#e0af68",
+      "YELLOW_230": "#e0af68",
+      "YELLOW_260": "#e0af68",
+      "YELLOW_300": "#e0af68",
+      "YELLOW_330": "#e0af68",
+      "YELLOW_345": "#e0af68",
+      "YELLOW_360": "#e0af68",
+      "YELLOW_400": "#e0af68",
+      "YELLOW_430": "#e0af68",
+      "YELLOW_460": "#e0af68",
+      "YELLOW_500": "#e0af68",
+      "YELLOW_530": "#e0af68",
+      "YELLOW_560": "#e0af68",
+      "YELLOW_600": "#e0af68",
+      "YELLOW_630": "#e0af68",
+      "YELLOW_660": "#e0af68",
+      "YELLOW_700": "#e0af68",
+      "YELLOW_730": "#e0af68",
+      "YELLOW_760": "#e0af68",
+      "YELLOW_800": "#e0af68",
+      "YELLOW_830": "#e0af68",
+      "YELLOW_860": "#e0af68",
+      "YELLOW_900": "#e0af68",
+      "WHITE_500": "#414868",
+      "WHITE_630": "#9aa5ce"
+   },
+    "background": {
+        "alpha": 5,
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1167594878587383848/V06yN.png?ex=654eb277&is=653c3d77&hm=0d4274cdee74b9e6e34db9188aabf8904867707f29067777c04da67d97e9679a&"
+    },
+   "plus":{
+       "version":"0",
+       "customOverlays": true,
+       "icons":{
+          "add": "#9ece6a",
+          "android-close": "#f7768e",
+          "ArrowLargeLeftIcon": "#bb9af7",
+          "AtIcon": "#f7768e",
+          "Audio": "#f7768e",
+          "back-icon": "#bb9af7",
+          "ChannelNotificationIcon-primary": "#bb9af7",
+          "ChannelNotificationIcon-secondary": "#f7768e",
+          "close": "#f7768e",
+          "copy": "#9ece6a",
+          "hub-invite": "#9ece6a",
+          "ic_add_reaction_v2": "#9ece6a",
+          "ic_add_super_reaction": "#bb9af7",
+          "ic_add_super_reaction_purple": "#bb9af7",
+          "ic_arrow_back_24px": "#bb9af7",
+          "ic_add_friend": "#9ece6a",
+          "ic_ban_24px": "#f7768e",
+          "ic_call_ended": "#f7768e",
+          "ic_chat_bubble_12px": "#e0af68",
+          "ic_chat_bubble_16px": "#e0af68",
+          "ic_chat_bubble_32px": "#e0af68",
+          "ic_check": "#9ece6a",
+          "ic_check__overlay": "#1a1b26",
+          "ic_copy_id": "#9ece6a",
+          "ic_copy_message_link": "#9ece6a",
+          "ic_close": "#f7768e",
+          "ic_close_16px": "#f7768e",
+          "ic_close_18px": "#f7768e",
+          "ic_close_24px": "#f7768e",
+          "ic_crown_16px": "#e0af68",
+          "ic_dm": "#f7768e",
+          "ic_download_24px": "#9ece6a",
+          "ic_duplicate": "#9ece6a",
+          "ic_edit_20px": "#9ece6a",
+          "ic_edit_24px": "#9ece6a",
+          "ic_event_calendar": "#cfc9c2",
+          "ic_filter": "#f7768e",
+          "ic_gear": "#f7768e",
+          "ic_gif_24px": "#9ece6a",
+          "ic_group_edit_18px": "#9ece6a",
+          "ic_header_members_add_24px": "#9ece6a",
+          "ic_home_event": "#cfc9c2",
+          "ic_invite": "#9ece6a",
+          "ic_launch": "#bb9af7",
+          "ic_link": "#9ece6a",
+          "ic_link_24px": "#9ece6a",
+          "ic_logout_24px": "#f7768e",
+          "ic_mark_unread": "#f7768e",
+          "ic_mention_24px": "#f7768e",
+          "ic_mention_user": "#f7768e",
+          "ic_message_copy": "#9ece6a",
+          "ic_message_delete": "#b4637a",
+          "ic_message_edit": "#9ece6a",
+          "ic_message_pin": "#d7827e",
+          "ic_mic_neutral": "#bb9af7",
+          "ic_mic_muted_neutral": "#f7768e",
+          "ic_new_pins": "#bb9af7",
+          "ic_new_pins_light": "#bb9af7",
+          "ic_new_pins_light__overlay": "#f7768e",
+          "ic_notification_settings_light": "#bb9af7",
+          "ic_notification_settings_light__overlay": "#f7768e",
+          "ic_pencil_24px": "#9ece6a",
+          "ic_person_add": "#9ece6a",
+          "ic_person_add_18px": "#9ece6a",
+          "ic_radio_circle_checked": "#9ece6a",
+          "ic_radio_circle_checked__overlay": "#1a1b26",
+          "ic_radio_square_24px": "#9ece6a",
+          "ic_radio_square_checked_24px": "#9ece6a",
+          "ic_radio_square_checked_24px__overlay": "#1a1b26",
+          "ic_reactions_white_16px": "#9ece6a",
+          "ic_reply_24px": "#e0af68",
+          "ic_rich_presence_dark_12px": "#9aa5ce",
+          "ic_report_message": "#f7768e",
+          "ic_robot_24px": "#c0caf5",
+          "ic_selection_checked_24px": "#9ece6a",
+          "ic_selection_checked_24px__overlay": "#1a1b26",
+          "ic_selection_none_24px": "#9ece6a",
+          "ic_search": "#bb9af7",
+          "ic_settings": "#f7768e",
+          "ic_settings_white_24px": "#f7768e",
+          "ic_settings_grey_24px": "#f7768e",
+          "ic_show_password": "#f7768e",
+          "ic_soundboard": "#bb9af7",
+          "ic_soundboard_muted": "#f7768e",
+          "ic_spotify_white_16px": "#1ed760",
+          "ic_star_filled": "#e0af68",
+          "ic_sticker_24px": "#f7768e",
+          "ic_sync_24px": "#9ece6a",
+          "ic_text_channel_16px": "#bb9af7",
+          "ic_text_channel_nsfw_16px": "#f7768e",
+          "icon-call": "#f7768e",
+          "icon-invite": "#9ece6a",
+          "icon-qs-links": "#9ece6a",
+          "img_account_sync_spotify_white": "#1ed760",
+          "LinkIcon": "#9ece6a",
+          "member_list_badge_16px": "#d7827e",
+          "Messages": "#e0af68",
+          "nav_header_connect": "#d7827e",
+          "pencil": "#9ece6a",
+          "PencilIcon": "#9ece6a",
+          "PhoneCallIcon": "#f7768e",
+          "settings": "#f7768e",
+          "SettingsIcon": "#f7768e",
+          "stack-nav-back": "#bb9af7",
+          "stack-nav-close": "#f7768e",
+          "star": "#e0af68",
+          "StarOutlineIcon": "#f7768e",
+          "StatusMobileOnline": "#9ece6a",
+          "StatusIdle": "#e0af68",
+          "StatusDND": "#f7768e",
+          "StatusOffline": "#9893a5",
+          "StatusOnline": "#9ece6a",
+          "StatusStreaming": "#bb9af7",
+          "toast_copy_link": "#9ece6a",
+          "toast_copy_message": "#9ece6a",
+          "toast_image_saved": "#9ece6a"
+ }
+},
+    "spec": 2
+}
