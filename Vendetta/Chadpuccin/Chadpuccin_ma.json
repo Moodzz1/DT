@@ -90,7 +90,7 @@
       "#cad3f5"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#c6a0f6"
+      "#cad3f5"
       ],
       "INTERACTIVE_HOVER": [
       "#8aadf450"
@@ -99,7 +99,7 @@
       "#625F71"
       ],
       "INTERACTIVE_NORMAL": [
-      "#cad3f5"
+      "#939ab7"
       ],
       "MENTION_FOREGROUND": [
       "#ee99a0"
@@ -236,6 +236,7 @@
       "RED_630": "#ed8796",
       "RED_660": "#ed8796",
       "RED_700": "#ed8796",
+      "ROLE_DEFAULT": "#99aab5",
       "YELLOW_100": "#eed49f",
       "YELLOW_130": "#eed49f",
       "YELLOW_160": "#eed49f",
@@ -278,10 +279,12 @@
           "AtIcon": "#ed8796",
           "Audio": "#ed8796",
           "back-icon": "#c6a0f6",
+          "CircleExclamationPointIcon": "#ed8796",
           "ChannelNotificationIcon-primary": "#c6a0f6",
           "ChannelNotificationIcon-secondary": "#ed8796",
           "close": "#ed8796",
           "copy": "#a6da95",
+          "Friends": "#8aadf4",
           "hub-invite": "#a6da95",
           "ic_add_reaction_v2": "#a6da95",
           "ic_add_super_reaction": "#c6a0f6",
@@ -311,6 +314,8 @@
           "ic_edit_24px": "#a6da95",
           "ic_event_calendar": "#f0c6c6",
           "ic_filter": "#ed8796",
+          "ic_friends_list_24px": "#8aadf4",
+          "ic_friend_wave_24px": "#8aadf4",
           "ic_gear": "#ed8796",
           "ic_gif_24px": "#a6da95",
           "ic_group_edit_18px": "#a6da95",
@@ -330,6 +335,7 @@
           "ic_message_pin": "#ee99a0",
           "ic_mic_neutral": "#c6a0f6",
           "ic_mic_muted_neutral": "#ed8796",
+          "ic_monitor_24px": "#8bd5ca",
           "ic_new_pins": "#c6a0f6",
           "ic_new_pins": "#c6a0f6",
           "ic_new_pins__overlay": "#ed8796",
@@ -349,12 +355,14 @@
           "ic_reply_24px": "#f5a97f",
           "ic_rich_presence_dark_12px": "#6e738d",
           "ic_report_message": "#ed8796",
-          "ic_robot_24px": "#cad3f5",
+          "ic_robot_24px": "#c6a0f6",
           "ic_selection_checked_24px": "#a6da95",
           "ic_selection_checked_24px__overlay": "#22202C",
           "ic_selection_none_24px": "#a6da95",
           "ic_search": "#c6a0f6",
+          "ic_search_items_24px": "#c6a0f6",
           "ic_settings": "#ed8796",
+          "ic_settings_boost_24px": "#f5bde6",
           "ic_settings_white_24px": "#ed8796",
           "ic_settings_grey_24px": "#ed8796",
           "ic_show_password": "#ed8796",
@@ -365,6 +373,7 @@
           "ic_sticker_24px": "#ed8796",
           "ic_sync_24px": "#a6da95",
           "ic_text_channel_nsfw_16px": "#ed8796",
+          "ic_theme_24px": "#c6a0f6",
           "icon-call": "#ed8796",
           "icon-invite": "#a6da95",
           "icon-qs-links": "#a6da95",
@@ -388,9 +397,11 @@
           "StatusOffline": "#4F4C5E",
           "StatusOnline": "#a6da95",
           "StatusStreaming": "#c6a0f6",
+          "TriangleExclamationPointIcon": "#ed8796",
           "toast_copy_link": "#a6da95",
           "toast_copy_message": "#a6da95",
-          "toast_image_saved": "#a6da95"
+          "toast_image_saved": "#a6da95",
+          "WrenchIcon": "#91d7e3"
  }
 },
     "spec": 2
