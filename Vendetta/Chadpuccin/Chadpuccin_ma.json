@@ -99,7 +99,7 @@
       "#625F71"
       ],
       "INTERACTIVE_NORMAL": [
-      "#Subtext1"
+      "#b8c0e0"
       ],
       "MENTION_FOREGROUND": [
       "#ee99a0"
@@ -356,17 +356,17 @@
           "ic_privacy_24px": "#ed8796",
           "ic_profile_24px": "#8aadf4",
           "ic_radio_circle_checked": "#a6da95",
-          "ic_radio_circle_checked__overlay": "#24273a",
+          "ic_radio_circle_checked__overlay": "#2A2635",
           "ic_radio_square_24px": "#a6da95",
           "ic_radio_square_checked_24px": "#a6da95",
-          "ic_radio_square_checked_24px__overlay": "#24273a",
+          "ic_radio_square_checked_24px__overlay": "#2A2635",
           "ic_reactions_white_16px": "#a6da95",
           "ic_reply_24px": "#f5a97f",
           "ic_rich_presence_dark_12px": "#6e738d",
           "ic_report_message": "#ed8796",
           "ic_robot_24px": "#c6a0f6",
           "ic_selection_checked_24px": "#a6da95",
-          "ic_selection_checked_24px__overlay": "#24273a",
+          "ic_selection_checked_24px__overlay": "#2A2635",
           "ic_selection_none_24px": "#a6da95",
           "ic_search": "#c6a0f6",
           "ic_search_items_24px": "#c6a0f6",
