@@ -1,6 +1,6 @@
 {
     "name": "Chadpuccin",
-    "description": "A warmer catppuccin colorscheme!",
+    "description": "A warmer catppuccin Macchiato colorscheme!",
     "authors": [
       {
         "name": "Moodl",
@@ -90,7 +90,7 @@
       "#cad3f5"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#cad3f5"
+      "#c6a0f6"
       ],
       "INTERACTIVE_HOVER": [
       "#8aadf450"
@@ -99,7 +99,7 @@
       "#625F71"
       ],
       "INTERACTIVE_NORMAL": [
-      "#c6a0f6"
+      "#cad3f5"
       ],
       "MENTION_FOREGROUND": [
       "#ee99a0"
