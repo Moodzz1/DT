@@ -199,6 +199,9 @@
       "YELLOW_900": "#f6c177",
       "WHITE_500": "#e0def4"
    },
+   "background": {
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1180607586874163252/F5Zj6.png?ex=657e097f&is=656b947f&hm=beca15c98838fa5e0bdce919e67bcc5e12d9fe0edc3fec946cf7ef0f576badd3&"
+    },
    "plus":{
        "version":"0",
        "customOverlays": true,
