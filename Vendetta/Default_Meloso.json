@@ -5,7 +5,7 @@
       {
         "name": "Moodl",
         "id": "716941151386599464"
-      }
+      },
  "fonts":{
   "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Fonts/Meloso_Medium.ttf",
   "ggsans-Bold": "https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Fonts/Meloso_Medium.ttf",
@@ -27,4 +27,4 @@
   "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Quinxxxx/Discord-themes/main/Fonts/Meloso_Medium.ttf"
     },
     "spec": 2
-    {
+        }
