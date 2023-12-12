@@ -66,7 +66,7 @@
       "#31748f"
       ],
       "CARD_SECONDARY_BG": [
-      "#6e6a86"
+      "#26233a"
       ],
       "CARD_PRIMARY_BG": [
       "#1f1d2e"
@@ -141,7 +141,7 @@
       "#e0def4"
       ],
       "TEXT_SECONDARY": [
-      "#ebbcba"
+      "#908caa"
       ]
     },
     "rawColors": {
@@ -159,7 +159,7 @@
       "PLUM_17": "#191724",
       "PLUM_18": "#26233a",
       "PLUM_19": "#908caa",
-      "PLUM_20": "#26233a",
+      "PLUM_20": "#191724",
       "PLUM_21": "#31748f50",
       "PLUM_22": "#26233a",
       "PLUM_24": "#26233a",
