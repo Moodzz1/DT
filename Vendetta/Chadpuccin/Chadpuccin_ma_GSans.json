@@ -1,6 +1,7 @@
 {
     "name": "Chadpuccin (Google sans)",
     "description": "A warmer catppuccin Macchiato colorscheme!",
+    "version": "3",
     "authors": [
       {
         "name": "Moodl",
@@ -111,7 +112,7 @@
       "#1B1923"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2A2635"
+      "#22202C"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
       "#625F71"
@@ -156,17 +157,17 @@
       "BRAND_560": "#6e738d",
       "PLUM_1": "#cad3f5",
       "PLUM_10": "#b8c0e0",
-      "PLUM_11": "#3C3949",
+      "PLUM_11": "#625F71",
       "PLUM_13": "#b8c0e0",
       "PLUM_15": "#8aadf4",
-      "PLUM_16": "#1B1923",
+      "PLUM_16": "#3C3949",
       "PLUM_17": "#1B1923",
       "PLUM_18": "#3C3949",
-      "PLUM_19": "#3C3949",
+      "PLUM_19": "#757285",
       "PLUM_20": "#22202C",
       "PLUM_21": "#757285",
       "PLUM_22": "#3C3949",
-      "PLUM_24": "#3C3949",
+      "PLUM_24": "#1B1923",
       "PLUM_25": "#a6da95",
       "PLUM_3": "#cad3f5",
       "PLUM_4": "#757285",
@@ -187,7 +188,7 @@
       "PRIMARY_630": "#3C3949",
       "PRIMARY_645": "#757285",
       "PRIMARY_660": "#1B1923",
-      "PRIMARY_700": "#3C3949",
+      "PRIMARY_700": "#625F71",
       "PRIMARY_760": "#eed49f",
       "PRIMARY_800": "#1B1923",
       "PRIMARY_860": "#cad3f5",
