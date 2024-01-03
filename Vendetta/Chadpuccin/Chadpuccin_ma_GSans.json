@@ -129,6 +129,12 @@
       "SPOILER_HIDDEN_BACKGROUND": [
       "#625F71"
       ],
+      "STATUS_DANGER": [
+      "#ed8796"
+      ],
+      "STATUS_DANGER_BACKGROUND": [
+      "#ee99a0"
+      ],
       "TEXT_DANGER": [
       "#ed8796"
       ],
