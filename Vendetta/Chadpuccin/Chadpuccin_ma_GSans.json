@@ -135,6 +135,9 @@
       "STATUS_DANGER_BACKGROUND": [
       "#ed8796"
       ],
+      "STATUS_DANGER_TEXT": [
+      "#2A2635"
+      ],
       "TEXT_DANGER": [
       "#ed8796"
       ],
