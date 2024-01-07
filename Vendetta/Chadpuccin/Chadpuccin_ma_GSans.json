@@ -57,6 +57,9 @@
       "BG_BASE_PRIMARY": [
       "#2A2635"
       ],
+      "BG_BACKDROP": [
+      "#4F4C5Eb2"
+      ],
       "BG_BASE_SECONDARY": [
       "#22202C"
       ],
@@ -101,6 +104,9 @@
       ],
       "INTERACTIVE_NORMAL": [
       "#b8c0e0"
+      ],
+      "MENTION_BACKGROUND": [
+      "#ee99a0"
       ],
       "MENTION_FOREGROUND": [
       "#ee99a0"
@@ -159,6 +165,7 @@
     },
     "rawColors": {
       "BLUE_345": "#f4dbd6",
+      "BLACK_500": "#757285",
       "BRAND_230": "#ee99a0",
       "BRAND_260": "#f4dbd6",
       "BRAND_360": "#f5bde6",
