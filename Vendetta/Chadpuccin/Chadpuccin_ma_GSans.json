@@ -106,10 +106,10 @@
       "#b8c0e0"
       ],
       "MENTION_BACKGROUND": [
-      "#ee99a0"
+      "#ed8796"
       ],
       "MENTION_FOREGROUND": [
-      "#ee99a0"
+      "#2A2635"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#3C3949"
@@ -171,6 +171,7 @@
       "BRAND_360": "#f5bde6",
       "BRAND_500": "#8aadf4",
       "BRAND_560": "#6e738d",
+      "ORANGE_345": "#c6a0f6",
       "PLUM_1": "#cad3f5",
       "PLUM_10": "#b8c0e0",
       "PLUM_11": "#625F71",
