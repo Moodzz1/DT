@@ -18,6 +18,9 @@
       "BACKGROUND_ACCENT": [
       "#9d9ab1"
       ],
+      "BACKGROUND_MENTIONED": [
+      "#e5c89059"
+      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#7b788c"
       ],
