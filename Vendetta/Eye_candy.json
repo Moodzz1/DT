@@ -1,0 +1,311 @@
+{
+    "name": "Eye Candy",
+    "description": "Aliucord Eye Candy ported to vendetta. Original made by HaniBee.",
+    "version": "1",
+    "authors": [
+      {
+        "name": "Moodl",
+        "id": "716941151386599464"
+      }
+    ],
+    "semanticColors": {
+      "ACTIVITY_CARD_BACKGROUND": [
+      "#474453"
+      ],
+      "ANDROID_RIPPLE": [
+      "#7b788c"
+      ],
+      "BACKGROUND_ACCENT": [
+      "#AF986B"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#9F917344"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#7b788c"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#3F3E4A"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#61606D"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#5A5966"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT_2": [
+      "#474453"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#61606D"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#7b788c"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#585666"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#4B4957"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#4B4957"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#61606D"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#61606D"
+      ],
+      "BG_BASE_PRIMARY": [
+      "#3F3E4A"
+      ],
+      "BG_BACKDROP": [
+      "#585666b2"
+      ],
+      "BG_BASE_SECONDARY": [
+      "#3F3E4A"
+      ],
+      "BG_BASE_TERTIARY": [
+      "#484654"
+      ],
+      "BORDER_FAINT": [
+      "#696779"
+      ],
+      "BORDER_STRONG": [
+      "#696779"
+      ],      
+      "BORDER_SUBTLE": [
+      "#696779"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#474453"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#4B4957"
+      ],
+      "CHANNEL_ICON": [
+      "#E8E8EA"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#a5adce"
+      ],
+      "HEADER_PRIMARY": [
+      "#FFFFFF"
+      ],
+      "HEADER_SECONDARY": [
+      "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#7b788c"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#696779"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#FFFFFF"
+      ],
+      "MENTION_BACKGROUND": [
+      "#AF986B"
+      ],
+      "MENTION_FOREGROUND": [
+      "#FEF7FB"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#61606D"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#5A5966"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
+      "#696779"
+      ],
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#FFFFFF"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FFFFFF"
+      ],
+      "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#61606D"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#696779"
+      ],
+      "STATUS_DANGER": [
+      "#e78284"
+      ],
+      "STATUS_DANGER_BACKGROUND": [
+      "#e78284"
+      ],
+      "STATUS_DANGER_TEXT": [
+      "#4B4957"
+      ],
+      "TEXT_DANGER": [
+      "#e78284"
+      ],
+      "TEXT_LINK": [
+      "#f2d5cf"
+      ],
+      "TEXT_MUTED": [
+      "#FEF7FB"
+      ],
+      "TEXT_NORMAL": [
+      "#FFFFFF"
+      ],
+      "TEXT_PRIMARY": [
+      "#FFFFFF"
+      ],
+      "TEXT_SECONDARY": [
+      "#FEF0F8"
+      ]
+    },
+    "rawColors": {
+      "BLUE_345": "#f2d5cf",
+      "BLACK_500": "#7b788c",
+      "BRAND_230": "#ea999c",
+      "BRAND_260": "#f2d5cf",
+      "BRAND_360": "#f4b8e4",
+      "BRAND_500": "#8caaee",
+      "BRAND_560": "#6e738d",
+      "ORANGE_345": "#ca9ee6",
+      "PLUM_1": "#FFFFFF",
+      "PLUM_10": "#FEF0F8",
+      "PLUM_11": "#3F3E4A",
+      "PLUM_13": "#FEF0F8",
+      "PLUM_15": "#EAEAEE",
+      "PLUM_16": "#C88EAD",
+      "PLUM_17": "#5A4D5E",
+      "PLUM_18": "#484654",
+      "PLUM_19": "#7b788c",
+      "PLUM_20": "#3F3E4A",
+      "PLUM_21": "#7b788c",
+      "PLUM_22": "#5A4D5E",
+      "PLUM_24": "#5A4D5E",
+      "PLUM_25": "#a6d189",
+      "PLUM_3": "#FFFFFF",
+      "PLUM_4": "#7b788c",
+      "PLUM_6": "#FFFFFF",
+      "PLUM_9": "#FFFFFF",
+      "PRIMARY_100": "#585666",
+      "PRIMARY_130": "#FFFFFF",
+      "PRIMARY_230": "#ca9ee6",
+      "PRIMARY_300": "#f4b8e4",
+      "PRIMARY_345": "#e5c890",
+      "PRIMARY_360": "#a5adce",    
+      "PRIMARY_400": "#f4b8e4",
+      "PRIMARY_430": "#a6d189",
+      "PRIMARY_460": "#4B4957",
+      "PRIMARY_500": "#ca9ee6",
+      "PRIMARY_530": "#a6d189",
+      "PRIMARY_600": "#3F3E4A",
+      "PRIMARY_630": "#474453",
+      "PRIMARY_645": "#EAA3C5",
+      "PRIMARY_660": "#61606D",
+      "PRIMARY_700": "#696779",
+      "PRIMARY_760": "#e5c890",
+      "PRIMARY_800": "#61606D",
+      "PRIMARY_860": "#FFFFFF",
+      "INPUT_PLACEHOLDER_TEXT_DARK": "#a5adce",
+      "GREEN_100": "#a6d189",
+      "GREEN_130": "#a6d189",
+      "GREEN_160": "#a6d189",
+      "GREEN_200": "#a6d189",
+      "GREEN_230": "#a6d189",
+      "GREEN_260": "#a6d189",
+      "GREEN_300": "#a6d189",
+      "GREEN_330": "#a6d189",
+      "GREEN_345": "#a6d189",
+      "GREEN_360": "#a6d189",
+      "GREEN_400": "#a6d189",
+      "GREEN_430": "#a6d189",
+      "GREEN_460": "#a6d189",
+      "GREEN_500": "#a6d189",
+      "GREEN_530": "#a6d189",
+      "GREEN_560": "#a6d189",
+      "GREEN_600": "#a6d189",
+      "GREEN_630": "#a6d189",
+      "GREEN_660": "#a6d189",
+      "GREEN_700": "#a6d189",
+      "GREEN_730": "#a6d189",
+      "GREEN_760": "#a6d189",
+      "GREEN_800": "#a6d189",
+      "GREEN_830": "#a6d189",
+      "GREEN_860": "#a6d189",
+      "GREEN_900": "#a6d189",
+      "GUILD_BOOSTING_PINK": "#f4b8e4",   
+      "GUILD_BOOSTING_PURPLE": "#ca9ee6",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ca9ee6",
+      "RED_260": "#e78284",
+      "RED_300": "#e78284",
+      "RED_330": "#e78284",
+      "RED_345": "#e78284",
+      "RED_360": "#e78284",
+      "RED_400": "#e78284",
+      "RED_430": "#e78284",
+      "RED_460": "#e78284",
+      "RED_500": "#e78284",
+      "RED_530": "#e78284",
+      "RED_560": "#e78284",
+      "RED_600": "#e78284",
+      "RED_630": "#e78284",
+      "RED_660": "#e78284",
+      "RED_700": "#e78284",
+      "ROLE_DEFAULT": "#99aab5",
+      "YELLOW_100": "#e5c890",
+      "YELLOW_130": "#e5c890",
+      "YELLOW_160": "#e5c890",
+      "YELLOW_200": "#e5c890",
+      "YELLOW_230": "#e5c890",
+      "YELLOW_260": "#e5c890",
+      "YELLOW_300": "#e5c890",
+      "YELLOW_330": "#e5c890",
+      "YELLOW_345": "#e5c890",
+      "YELLOW_360": "#e5c890",
+      "YELLOW_400": "#e5c890",
+      "YELLOW_430": "#e5c890",
+      "YELLOW_460": "#e5c890",
+      "YELLOW_500": "#e5c890",
+      "YELLOW_530": "#e5c890",
+      "YELLOW_560": "#e5c890",
+      "YELLOW_600": "#e5c890",
+      "YELLOW_630": "#e5c890",
+      "YELLOW_660": "#e5c890",
+      "YELLOW_700": "#e5c890",
+      "YELLOW_730": "#e5c890",
+      "YELLOW_760": "#e5c890",
+      "YELLOW_800": "#e5c890",
+      "YELLOW_830": "#e5c890",
+      "YELLOW_860": "#e5c890",
+      "YELLOW_900": "#e5c890",
+      "WHITE_500": "#FFFFFF",
+      "WHITE_630": "#696779"
+ },
+ "fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "ggsans-Bold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "ggsans-BoldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-BoldItalic.ttf",
+  "ggsans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-BoldItalic.ttf",
+  "ggsans-Medium": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "ggsans-MediumItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
+  "ggsans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "ggsans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
+  "ggsans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-MediumItalic.ttf",
+  "NotoSans-Bold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "NotoSans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
+  "NotoSans-Medium": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "NotoSans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
+  "NotoSans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
+  "NotoSans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
+  "SourceCodePro-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
+},
+    "spec": 2
+}
