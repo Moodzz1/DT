@@ -49,7 +49,7 @@
       "#4B4957"
       ],
       "BACKGROUND_SECONDARY": [
-      "#4B4957"
+      "#575565"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#61606D"
@@ -179,7 +179,7 @@
       "PLUM_15": "#EAEAEE",
       "PLUM_16": "#C88EAD",
       "PLUM_17": "#5A4D5E",
-      "PLUM_18": "#484654",
+      "PLUM_18": "#575565",
       "PLUM_19": "#10132033",
       "PLUM_20": "#3F3E4A",
       "PLUM_21": "#10132033",
@@ -280,7 +280,7 @@
       "YELLOW_830": "#D0B278",
       "YELLOW_860": "#D0B278",
       "YELLOW_900": "#D0B278",
-      "WHITE_500": "#E8E8EA",
+      "WHITE_500": "#FFFFFF",
       "WHITE_630": "#696779"
  },
  "fonts":{
@@ -305,6 +305,28 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
+    },
+   "plus":{
+       "version":"0",
+       "customOverlays": true,
+       "icons":{
+          "ClydeIcon": "#5865F2",
+          "Discord": "#5865F2",
+          "ic_radio_circle_checked": "#AF986B",
+          "ic_radio_circle_checked__overlay": "#FFFFFF",
+          "ic_radio_square_24px": "#AF986B",
+          "ic_radio_square_checked_24px": "#AF986B",
+          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+          "ic_selection_checked_24px": "#AF986B",
+          "ic_selection_checked_24px__overlay": "#FFFFFF",
+          "img_account_sync_spotify_white": "#1ed760",
+          "StatusMobileOnline": "#a6d189",
+          "StatusIdle": "#e5c890",
+          "StatusDND": "#e78284",
+          "StatusOffline": "#585666",
+          "StatusOnline": "#a6d189",
+          "StatusStreaming": "#ca9ee6"
+ }
 },
     "spec": 2
 }
