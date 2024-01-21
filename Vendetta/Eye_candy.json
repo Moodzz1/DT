@@ -1,6 +1,6 @@
 {
     "name": "Eye Candy",
-    "description": "Aliucord Eye Candy ported to vendetta. Original made by HaniBee.",
+    "description": "Eye Candy. Original made by HaniBee.",
     "version": "1",
     "authors": [
       {
@@ -136,16 +136,16 @@
       "#696779"
       ],
       "STATUS_DANGER": [
-      "#C47A7A"
+      "#C48A7A"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#C47A7A"
+      "#C48A7A"
       ],
       "STATUS_DANGER_TEXT": [
       "#4B4957"
       ],
       "TEXT_DANGER": [
-      "#C47A7A"
+      "#C48A7A"
       ],
       "TEXT_LINK": [
       "#FFE1C1"
@@ -238,21 +238,21 @@
       "GUILD_BOOSTING_PINK": "#CE7DA0",   
       "GUILD_BOOSTING_PURPLE": "#8F669C",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8F669C",
-      "RED_260": "#C47A7A",
-      "RED_300": "#C47A7A",
-      "RED_330": "#C47A7A",
-      "RED_345": "#C47A7A",
-      "RED_360": "#C47A7A",
-      "RED_400": "#AF6B6B",
-      "RED_430": "#C47A7A",
-      "RED_460": "#C47A7A",
-      "RED_500": "#C47A7A",
-      "RED_530": "#C47A7A",
-      "RED_560": "#C47A7A",
-      "RED_600": "#C47A7A",
-      "RED_630": "#C47A7A",
-      "RED_660": "#C47A7A",
-      "RED_700": "#C47A7A",
+      "RED_260": "#C48A7A",
+      "RED_300": "#C48A7A",
+      "RED_330": "#C48A7A",
+      "RED_345": "#C48A7A",
+      "RED_360": "#C48A7A",
+      "RED_400": "#C48A7A",
+      "RED_430": "#C48A7A",
+      "RED_460": "#C48A7A",
+      "RED_500": "#C48A7A",
+      "RED_530": "#C48A7A",
+      "RED_560": "#C48A7A",
+      "RED_600": "#C48A7A",
+      "RED_630": "#C48A7A",
+      "RED_660": "#C48A7A",
+      "RED_700": "#C48A7A",
       "ROLE_DEFAULT": "#99aab5",
       "YELLOW_100": "#D0B278",
       "YELLOW_130": "#D0B278",
