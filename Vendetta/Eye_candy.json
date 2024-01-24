@@ -61,7 +61,7 @@
       "#3F3E4A"
       ],
       "BG_BACKDROP": [
-      "#585666b2"
+      "#3F3E4Ab2"
       ],
       "BG_BASE_SECONDARY": [
       "#3F3E4A"
@@ -284,24 +284,24 @@
       "WHITE_630": "#696779"
  },
  "fonts":{
-  "ABCGintoNord-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
-  "ggsans-Bold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
-  "ggsans-BoldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-BoldItalic.ttf",
-  "ggsans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
-  "ggsans-ExtraBoldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-BoldItalic.ttf",
-  "ggsans-Medium": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
-  "ggsans-MediumItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
-  "ggsans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
-  "ggsans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
-  "ggsans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
-  "ggsans-SemiboldItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-MediumItalic.ttf",
-  "NotoSans-Bold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
-  "NotoSans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Bold.ttf",
-  "NotoSans-Medium": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
-  "NotoSans-Normal": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Regular.ttf",
-  "NotoSans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Italic.ttf",
-  "NotoSans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf",
-  "SourceCodePro-Semibold": "https://github.com/hprobotic/Google-Sans-Font/raw/master/GoogleSans-Medium.ttf"
+  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
+  "ggsans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
+  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485336088646/OPlusSans31En-BlackItalic.ttf?ex=65c3535f&is=65b0de5f&hm=65a0d48e06492e44ebb95a159a06236e74a8c33817f21c2281b321dd70517de5&",
+  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
+  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485336088646/OPlusSans31En-BlackItalic.ttf?ex=65c3535f&is=65b0de5f&hm=65a0d48e06492e44ebb95a159a06236e74a8c33817f21c2281b321dd70517de5&",
+  "ggsans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
+  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
+  "ggsans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
+  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
+  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&",
+  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486476922911/OPlusSans31En-MediumItalic.ttf?ex=65c3535f&is=65b0de5f&hm=28d497347fb80c5b2eed2d94184fbf750154ca301993f2fcd8f49d1b339476fe&",
+  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
+  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
+  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
+  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
+  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
+  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&",
+  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&"
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
