@@ -25,7 +25,7 @@
       "#10132033"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#3F3E4A"
+      "#4B4957"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
       "#61606D"
@@ -49,7 +49,7 @@
       "#4B4957"
       ],
       "BACKGROUND_SECONDARY": [
-      "#575565"
+      "#3F3E4A"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#61606D"
@@ -284,24 +284,24 @@
       "WHITE_630": "#696779"
  },
  "fonts":{
-  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
-  "ggsans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
-  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485336088646/OPlusSans31En-BlackItalic.ttf?ex=65c3535f&is=65b0de5f&hm=65a0d48e06492e44ebb95a159a06236e74a8c33817f21c2281b321dd70517de5&",
-  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
-  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485336088646/OPlusSans31En-BlackItalic.ttf?ex=65c3535f&is=65b0de5f&hm=65a0d48e06492e44ebb95a159a06236e74a8c33817f21c2281b321dd70517de5&",
-  "ggsans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
-  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
-  "ggsans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
-  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
-  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&",
-  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486476922911/OPlusSans31En-MediumItalic.ttf?ex=65c3535f&is=65b0de5f&hm=28d497347fb80c5b2eed2d94184fbf750154ca301993f2fcd8f49d1b339476fe&",
-  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
-  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485663227944/OPlusSans31En-Bold.ttf?ex=65c3535f&is=65b0de5f&hm=6efeac77d993a9502708a115dad759433691a847dfa94354ac85b0f5cf7d2ff7&",
-  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
-  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1199653484992147487/OPlusSans31En-Regular.ttf?ex=65c3535f&is=65b0de5f&hm=f3bf15a9893a0cfc6b3e9c4190fa5afeadc4b7d3c55cd4e7f88796f2f599afb9&",
-  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1199653485965225984/OPlusSans31En-Italic.ttf?ex=65c3535f&is=65b0de5f&hm=6fef0f70840a638c4f009ec1c0b97eecc86125baa7047f638a723738b24c7457&",
-  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&",
-  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1199653486221086750/OPlusSans31En-Medium.ttf?ex=65c3535f&is=65b0de5f&hm=22f1c4bcd37dfa03f8d65668726d5d4b0494e1c7ab5f94e9a72b6826da38269b&"
+  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045998379048/Evolve_Sans_Thin_EVO.ttf?ex=65caab4d&is=65b8364d&hm=08b546532bbeb8c160e72220c8b9706ac76eba6bb79f6eb56dd2734d32203f8e&",
+  "ggsans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "ggsans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "ggsans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
+  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
+  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
+  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
+  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
+  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
+  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c"
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
