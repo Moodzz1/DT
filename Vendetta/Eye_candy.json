@@ -52,10 +52,10 @@
       "#3F3E4A"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#61606D"
+      "#5A4D5E"
       ],
       "BACKGROUND_TERTIARY": [
-      "#61606D"
+      "#5A4D5E"
       ],
       "BG_BASE_PRIMARY": [
       "#3F3E4A"
@@ -68,6 +68,9 @@
       ],
       "BG_BASE_TERTIARY": [
       "#484654"
+      ],
+      "HOME_BACKGROUND": [
+      "#3F3E4A"
       ],
       "BORDER_FAINT": [
       "#696779"
@@ -89,6 +92,9 @@
       ],
       "CHANNELS_DEFAULT": [
       "#E8E8EA"
+      ],
+      "EMBED_BACKGROUND": [
+      "#3F3E4A"
       ],
       "HEADER_PRIMARY": [
       "#FFFFFF"
@@ -165,7 +171,7 @@
     },
     "rawColors": {
       "BLUE_345": "#FFE1C1",
-      "BLACK_500": "#10132033",
+      "BLACK_500": "#000000b2",
       "BRAND_230": "#D0B278",
       "BRAND_260": "#AF986B",
       "BRAND_360": "#E8E8EA",
