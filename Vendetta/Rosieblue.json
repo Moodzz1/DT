@@ -1,6 +1,6 @@
 {
     "name": "RosieBlue",
-    "description": "RosiePink but everything turned blue.",
+    "description": "meow meow but in blue",
     "version": "1",
     "authors": [
       {
@@ -9,6 +9,9 @@
       }
     ],
     "semanticColors": {
+      "ACTIVITY_CARD_BACKGROUND": [
+      "#17161B"
+      ],
       "ANDROID_RIPPLE": [
       "#50575E11"
       ],
@@ -28,7 +31,7 @@
       "#22222E"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#3C3E61"
+      "#363961"
       ],
       "BACKGROUND_MODIFIER_ACCENT_2": [
       "#7573801e"
@@ -49,7 +52,7 @@
       "#262633"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#3C3B45"
+      "#343442"
       ],
       "BACKGROUND_TERTIARY": [
       "#343442"
@@ -70,7 +73,7 @@
       "#262633"
       ],
       "BORDER_FAINT": [
-      "#3F3D45"
+      "#434A6B"
       ],
       "BORDER_STRONG": [
       "#3F3D45"
@@ -117,9 +120,12 @@
       "MENTION_FOREGROUND": [
       "#DFDEFF"
       ],
-      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#17161B"
       ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#17161B"
+      ], 
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#7A89BE83"
       ],
@@ -139,10 +145,10 @@
       "#4A4954"
       ],
       "STATUS_DANGER": [
-      "#4444F4"
+      "#4475F4"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#4444F4"
+      "#4475F4"
       ],
       "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -197,7 +203,7 @@
       "PLUM_16": "#343442",
       "PLUM_17": "#1D1D26",
       "PLUM_18": "#262633",
-      "PLUM_19": "#27262E",
+      "PLUM_19": "#282833",
       "PLUM_20": "#22222E",
       "PLUM_21": "#1E1F26",
       "PLUM_22": "#1B1B21",
@@ -218,7 +224,7 @@
       "PRIMARY_600": "#37363D",
       "PRIMARY_630": "#303036",
       "PRIMARY_645": "#2E2D33",
-      "PRIMARY_660": "#2A292E",
+      "PRIMARY_660": "#222430",
       "PRIMARY_700": "#252529",
       "PRIMARY_760": "#1B1B1F",
       "PRIMARY_800": "#19191C",
@@ -296,28 +302,27 @@
   "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&"
     },
     "background": {
+        "blur": 0.1,
         "url": "https://cdn.discordapp.com/attachments/811229696955777046/1209654406593781790/Rosieblue.png?ex=65e7b574&is=65d54074&hm=7478346dac37b9958a7b10b3df85247a623899b91b3393f0c0deab1de1d50b83&"
     },
    "plus":{
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "ClydeIcon": "#5865F2",
-          "Discord": "#5865F2",
-          "ic_radio_circle_checked": "#AF986B",
+          "ic_radio_circle_checked": "#4A75E0",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#AF986B",
-          "ic_radio_square_checked_24px": "#AF986B",
+          "ic_radio_square_24px": "#4A75E0",
+          "ic_radio_square_checked_24px": "#4A75E0",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#AF986B",
+          "ic_selection_checked_24px": "#4A75E0",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
           "img_account_sync_spotify_white": "#1ed760",
           "StatusMobileOnline": "#a6d189",
-          "StatusIdle": "#e5c890",
-          "StatusDND": "#e78284",
-          "StatusOffline": "#585666",
-          "StatusOnline": "#a6d189",
-          "StatusStreaming": "#ca9ee6"
+          "StatusIdle": "#FAA61A",
+          "StatusDND": "#F04747",
+          "StatusOffline": "#747F8D",
+          "StatusOnline": "#3BA55C",
+          "StatusStreaming": "#593695"
  }
 },
     "spec": 2
