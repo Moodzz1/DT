@@ -49,7 +49,7 @@
       "#22222E"
       ],
       "BACKGROUND_SECONDARY": [
-      "#262633"
+      "#292936"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#343442"
@@ -70,7 +70,7 @@
       "#1D1D26"
       ],
       "HOME_BACKGROUND": [
-      "#262633"
+      "#292936"
       ],
       "BORDER_FAINT": [
       "#434A6B"
@@ -85,7 +85,7 @@
       "#27262E"
       ],
       "CARD_PRIMARY_BG": [
-      "#262633"
+      "#292936"
       ],
       "CHANNEL_ICON": [
       "#BAC1DB"
@@ -127,10 +127,10 @@
       "#17161B"
       ], 
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#7A89BE83"
+      "#363757"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#7A89BE"
+      "#3D3E66"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#9C9AA6"
@@ -202,7 +202,7 @@
       "PLUM_15": "#3C3B45",
       "PLUM_16": "#343442",
       "PLUM_17": "#1D1D26",
-      "PLUM_18": "#262633",
+      "PLUM_18": "#292936",
       "PLUM_19": "#282833",
       "PLUM_20": "#22222E",
       "PLUM_21": "#1E1F26",
