@@ -9,9 +9,6 @@
       }
     ],
     "semanticColors": {
-      "ACTIVITY_CARD_BACKGROUND": [
-      "#17161B"
-      ],
       "ANDROID_RIPPLE": [
       "#50575E11"
       ],
@@ -40,7 +37,7 @@
       "#5653617A"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#52515E4c"
+      "#8A8CBF4c"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#4A4D63"
@@ -88,7 +85,7 @@
       "#292936"
       ],
       "CHANNEL_ICON": [
-      "#BAC1DB"
+      "#B7BFED"
       ],
       "CHANNELS_DEFAULT": [
       "#9C9AA6"
@@ -97,7 +94,7 @@
       "#393B4D"
       ],
       "HEADER_PRIMARY": [
-      "#E6E6E6"
+      "#98AFF9"
       ],
       "HEADER_SECONDARY": [
       "#9C9AA6"
@@ -109,7 +106,7 @@
       "#E6E6E6"
       ],
       "INTERACTIVE_MUTED": [
-      "#52515E"
+      "#8A8CBF"
       ],
       "INTERACTIVE_NORMAL": [
       "#CECDD1"
@@ -187,18 +184,28 @@
       "BLUE_600": "#6E88B2",
       "BLUE_630": "#6880A8",
       "BLUE_660": "#637BA0",
-      "RED_700": "#60779B",
+      "BLUE_700": "#60779B",
       "BLACK_500": "#000000b2",
-      "BRAND_230": "#DFDEFF",
-      "BRAND_260": "#D2D1FF",
-      "BRAND_360": "#98AFF9",
-      "BRAND_500": "#5D88F5",
-      "BRAND_560": "#4E5AC7",
+      "BRAND_260": "#9EC1FF",
+      "BRAND_300": "#97B9F4",
+      "BRAND_330": "#93B4ED",
+      "BRAND_345": "#8FB0E8",
+      "BRAND_360": "#8EAEE5",
+      "BRAND_400": "#87A6DB",
+      "BRAND_430": "#809ECE",
+      "BRAND_460": "#7E9CCC",
+      "BRAND_500": "#7894C1",
+      "BRAND_530": "#738EBA",
+      "BRAND_560": "#708AB5",
+      "BRAND_600": "#6E88B2",
+      "BRAND_630": "#6880A8",
+      "BRAND_660": "#637BA0",
+      "BRAND_700": "#60779B",
       "ORANGE_345": "#3430F2",
       "PLUM_1": "#F7F7F7",
       "PLUM_10": "#848494",
       "PLUM_11": "#717080",
-      "PLUM_13": "#52515E",
+      "PLUM_13": "#8A8CBF",
       "PLUM_15": "#3C3B45",
       "PLUM_16": "#343442",
       "PLUM_17": "#1D1D26",
@@ -213,22 +220,21 @@
       "PLUM_4": "#DCDDE5",
       "PLUM_6": "#C6C8CE",
       "PLUM_9": "#9090A5",
-      "PRIMARY_100": "#FCFCFC",
-      "PRIMARY_300": "#D3D2D9",
-      "PRIMARY_345": "#ADAFBA",
-      "PRIMARY_400": "#858491",
-      "PRIMARY_430": "#74747D",
+      "PRIMARY_100": "#FFFFFF",
+      "PRIMARY_200": "#FFFfff",
+      "PRIMARY_300": "#FFFfff",
+      "PRIMARY_330": "#C6CBE7",
+      "PRIMARY_360": "#FFFfff",
+      "PRIMARY_400": "#B7BFED",
       "PRIMARY_460": "#5F5F69",
-      "PRIMARY_500": "#8C9AE6",
-      "PRIMARY_530": "#45444D",
+      "PRIMARY_500": "#8CA0E6",
+      "PRIMARY_530": "#6E9DD4",
       "PRIMARY_600": "#37363D",
       "PRIMARY_630": "#303036",
       "PRIMARY_645": "#2E2D33",
       "PRIMARY_660": "#222430",
       "PRIMARY_700": "#252529",
-      "PRIMARY_760": "#1B1B1F",
       "PRIMARY_800": "#19191C",
-      "PRIMARY_860": "#101012",
       "GREEN_260": "#9EC1FF",
       "GREEN_300": "#97B9F4",
       "GREEN_330": "#93B4ED",
@@ -282,28 +288,28 @@
       "WHITE_630": "#676977"
  },
  "fonts":{
-  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512975675452/Meloso-Thin.ttf?ex=65e7b67c&is=65d5417c&hm=0e64665928346763d69a32eed262072ec20b446b3777b60d574ddf3a5c80cdb0&",
-  "ggsans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511620911184/Meloso-Medium.ttf?ex=65e7b67c&is=65d5417c&hm=5377c2b2f207e456de5311af63e758cf3b0f894559953f2f3cb61a77e6738ebb&",
-  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511968915456/Meloso-MediumItalic.ttf?ex=65e7b67c&is=65d5417c&hm=a3d6c2f24332861625619c430ea76cddc930dc640811cd29bc70ef3d70a2453c&",
-  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511620911184/Meloso-Medium.ttf?ex=65e7b67c&is=65d5417c&hm=5377c2b2f207e456de5311af63e758cf3b0f894559953f2f3cb61a77e6738ebb&",
-  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511968915456/Meloso-MediumItalic.ttf?ex=65e7b67c&is=65d5417c&hm=a3d6c2f24332861625619c430ea76cddc930dc640811cd29bc70ef3d70a2453c&",
-  "ggsans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512598057071/Meloso-LightItalic.ttf?ex=65e7b67c&is=65d5417c&hm=da74f1ae56eb0d301acc42a3fa3cfc55b3f628d9508e1f00db7488b227765b05&",
-  "ggsans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512598057071/Meloso-LightItalic.ttf?ex=65e7b67c&is=65d5417c&hm=da74f1ae56eb0d301acc42a3fa3cfc55b3f628d9508e1f00db7488b227765b05&",
-  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512598057071/Meloso-LightItalic.ttf?ex=65e7b67c&is=65d5417c&hm=da74f1ae56eb0d301acc42a3fa3cfc55b3f628d9508e1f00db7488b227765b05&",
-  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511968915456/Meloso-MediumItalic.ttf?ex=65e7b67c&is=65d5417c&hm=a3d6c2f24332861625619c430ea76cddc930dc640811cd29bc70ef3d70a2453c&",
-  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655511968915456/Meloso-MediumItalic.ttf?ex=65e7b67c&is=65d5417c&hm=a3d6c2f24332861625619c430ea76cddc930dc640811cd29bc70ef3d70a2453c&",
-  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512598057071/Meloso-LightItalic.ttf?ex=65e7b67c&is=65d5417c&hm=da74f1ae56eb0d301acc42a3fa3cfc55b3f628d9508e1f00db7488b227765b05&",
-  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&",
-  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1209655512317304882/Meloso-Regular.ttf?ex=65e7b67c&is=65d5417c&hm=f43549ccab36b72d241e08bac8e35ebe3f0e669e9fc94b7c8383f2ddf5dd6184&"
+  "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+  "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+  "ggsans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "ggsans-MediumItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
+  "ggsans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "ggsans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "ggsans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "ggsans-SemiboldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
+  "NotoSans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "NotoSans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "NotoSans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "NotoSans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
     "background": {
         "blur": 0.1,
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1209654406593781790/Rosieblue.png?ex=65e7b574&is=65d54074&hm=7478346dac37b9958a7b10b3df85247a623899b91b3393f0c0deab1de1d50b83&"
+        "url": "https://github.com/Quinxxxx/Discord-themes/blob/main/RosieBlue.png?raw=1"
     },
    "plus":{
        "version":"0",
@@ -317,7 +323,7 @@
           "ic_selection_checked_24px": "#4A75E0",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
           "img_account_sync_spotify_white": "#1ed760",
-          "StatusMobileOnline": "#a6d189",
+          "StatusMobileOnline": "#3BA55C",
           "StatusIdle": "#FAA61A",
           "StatusDND": "#F04747",
           "StatusOffline": "#747F8D",
