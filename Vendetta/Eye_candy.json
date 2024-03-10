@@ -58,7 +58,7 @@
       "#5A4D5E"
       ],
       "BG_BASE_PRIMARY": [
-      "#3F3E4A"
+      "#4B4957"
       ],
       "BG_BACKDROP": [
       "#000000b2"
@@ -171,6 +171,7 @@
     },
     "rawColors": {
       "BLUE_345": "#FFE1C1",
+      "BLUE_330": "#FFE1C1",
       "BLACK_500": "#000000b2",
       "BRAND_230": "#D0B278",
       "BRAND_260": "#AF986B",
@@ -290,27 +291,24 @@
       "WHITE_630": "#696779"
  },
  "fonts":{
-  "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045998379048/Evolve_Sans_Thin_EVO.ttf?ex=65caab4d&is=65b8364d&hm=08b546532bbeb8c160e72220c8b9706ac76eba6bb79f6eb56dd2734d32203f8e&",
-  "ggsans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "ggsans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "ggsans-ExtraBoldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "ggsans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "ggsans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
-  "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
-  "ggsans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "NotoSans-Bold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "NotoSans-ExtraBold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044958470174/Evolve_Sans_Medium_EVO.ttf?ex=65caab4d&is=65b8364d&hm=23233481c451437a5382bfec0aa1bf3f90144bd2c33215fe423dd4fd2b2ec9d6&",
-  "NotoSans-Medium": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "NotoSans-Normal": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
-  "NotoSans-NormalItalic": "https://cdn.discordapp.com/attachments/811229696955777046/1201672044484509716/Evolve_Sans_Light_EVO.ttf?ex=65caab4d&is=65b8364d&hm=d2de6fe626d21aa1e02c89388e501126f45e8af443dfeeef229e29c5359e8ece&",
-  "NotoSans-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c",
-  "SourceCodePro-Semibold": "https://cdn.discordapp.com/attachments/811229696955777046/1201672045474357278/Evolve_Sans_Regular_EVO.ttf?ex=65caab4d&is=65b8364d&hm=9101e62bf6e8e4bab8e13012a41274363a75e77e3b46ba1b94beb8b4d14deb8c"
-    },
-    "background": {
-        "url": "https://cdn.discordapp.com/attachments/811229696955777046/1197200418200092682/jv5a8.jpg?ex=65ba66c6&is=65a7f1c6&hm=93ef3d610f6367c9c78ca3245abb24fc0559e8548fb942c13638e3297c087c19&"
+  "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+  "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+  "ggsans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "ggsans-MediumItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
+  "ggsans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "ggsans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "ggsans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "ggsans-SemiboldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-MediumItalic.ttf?raw=1",
+  "NotoSans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "NotoSans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "NotoSans-Medium": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "NotoSans-Normal": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Regular.ttf?raw=1",
+  "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+  "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
    "plus":{
        "version":"0",
