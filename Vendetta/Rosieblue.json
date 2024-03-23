@@ -1,6 +1,6 @@
 {
     "name": "RosieBlue",
-    "description": "meow meow but in blue",
+    "description": "Rosie v2 but wayy more blue :333",
     "version": "1",
     "authors": [
       {
@@ -79,7 +79,7 @@
       "#3F3D45"
       ],
       "CARD_SECONDARY_BG": [
-      "#27262E"
+      "#292936"
       ],
       "CARD_PRIMARY_BG": [
       "#292936"
@@ -309,7 +309,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://github.com/Quinxxxx/Discord-themes/blob/main/RosieBlue.png?raw=1"
+        "url": "https://github.com/Quinxxxx/DT/blob/e80a3d7f28c4c6931d865494dd3cee0b9e19b73c/RosieBlue.png?raw=1"
     },
    "plus":{
        "version":"0",
