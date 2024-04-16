@@ -9,123 +9,46 @@
       }
     ],
     "semanticColors": {
-      "CHAT_BACKGROUND": [
-      "#24232b"      
-      ],
-      "HEADER_PRIMARY": [
-      "#a1b7ff"
-      ],
-      "HEADER_SECONDARY": [
-      "#fffeff"
-      ],
-      "TEXT_NORMAL": [
-      "#fbfbfb"
-      ],
-      "TEXT_MUTED": [
-      "#929ce7"
-      ],
-      "INTERACTIVE_NORMAL": [
-      "#fffeff"
-      ],
-      "INTERACTIVE_HOVER": [
-      "#dedcde"
-      ],
-      "INTERACTIVE_ACTIVE": [
-      "#ffffff"
-      ],
-      "INTERACTIVE_MUTED": [
-      "#8a8ebf"
-      ],
-      "BACKGROUND_PRIMARY": [
-      "#24232b"
-      ],
-      "CARD_PRIMARY_BG": [
-      "#24232b"
-      ],
-      "BG_BASE_PRIMARY": [
-      "#24232b"
-      ],
-      "BACKGROUND_SECONDARY": [
-      "#282933"
-      ],
-      "CARD_SECONDARY_BG": [
-      "#2B2833"
-      ],
-      "BG_BASE_SECONDARY": [
-      "#1c1b22"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-      "#19191f"
-      ],
-      "BACKGROUND_TERTIARY": [
-      "#202028"
-      ],
-      "BG_BASE_TERTIARY": [
-      "#202028"
-      ],
-      "BACKGROUND_ACCENT": [
-      "#B5BDFF"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-      "#181820"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-      "#23232b"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-      "#25242d"
-      ],      
-      "BACKGROUND_MESSAGE_HOVER": [
-      "#ffffff05"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-      "#ffffff05"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-      "#ffffff14"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-      "#ffffff0a"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-      "#2E2F38"
-      ],
-      "BACKGROUND_MENTIONED": [
-      "#637FFF5E"
-      ],
-      "BACKGROUND_MENTIONED_HOVER": [
-      "#abbcff80"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-      "#111"
-      ],
-      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#272830"
-      ],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#414458"
-      ], 
-      "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#3B3D4F"
-      ],  
-      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#BBC4F8"
-      ], 
-      "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#ffffff"
-      ],  
-      "CHANNELS_DEFAULT": [
-      "#b6b6b6"
-      ],
-      "CHANNEL_ICON": [
-      "#BBC4F8"
-      ],  
-      "TEXT_PRIMARY": [
-      "#dbdee1"
-      ],  
-      "TEXT_LINK": [
-      "#91a4ff"
-      ]
+      "CHAT_BACKGROUND": [ "#24232b" ],
+      "HEADER_PRIMARY": [ "#a1b7ff" ],
+      "HEADER_SECONDARY": [ "#fffeff" ],
+      "TEXT_NORMAL": [ "#fbfbfb" ],
+      "TEXT_MUTED": [ "#929ce7" ],
+      "INTERACTIVE_NORMAL": [ "#fffeff" ],
+      "INTERACTIVE_HOVER": [ "#dedcde" ],
+      "INTERACTIVE_ACTIVE": [ "#ffffff" ],
+      "INTERACTIVE_MUTED": [ "#8a8ebf" ],
+      "BACKGROUND_PRIMARY": [ "#24232b" ], 
+      "CARD_PRIMARY_BG": [ "#24232b" ],
+      "BG_BASE_PRIMARY": [ "#24232b" ],
+      "BACKGROUND_SECONDARY": [ "#282933" ],
+      "CARD_SECONDARY_BG": [ "#2B2833" ],
+      "BG_BASE_SECONDARY": [ "#1c1b22" ],
+      "BACKGROUND_SECONDARY_ALT": [ "#19191f" ],
+      "BACKGROUND_TERTIARY": [ "#202028" ],
+      "BG_BASE_TERTIARY": [ "#202028" ],
+      "BACKGROUND_ACCENT": [ "#B5BDFF" ],
+      "BACKGROUND_MOBILE_PRIMARY": [ "#181820" ],
+      "BACKGROUND_MOBILE_SECONDARY": [ "#23232b" ],
+      "BACKGROUND_NESTED_FLOATING": [ "#25242d" ],      
+      "BACKGROUND_MESSAGE_HOVER": [ "#ffffff05" ],
+      "BACKGROUND_MODIFIER_HOVER": [ "#ffffff05" ],
+      "BACKGROUND_MODIFIER_ACTIVE": [ "#ffffff14" ],
+      "BACKGROUND_MODIFIER_SELECTED": [ "#ffffff0a" ],
+      "BACKGROUND_MODIFIER_ACCENT": [ "#2E2F38" ],
+      "BACKGROUND_MENTIONED": [ "#637FFF5E" ],
+      "BACKGROUND_MENTIONED_HOVER": [ "#ABB3FF80" ],
+      "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#272830" ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#383b51" ], 
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#42435c" ],  
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ], 
+      "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],  
+      "CHANNELS_DEFAULT": [ "#b6b6b6" ],
+      "CHANNEL_ICON": [ "#BBC4F8" ],  
+      "TEXT_PRIMARY": [ "#dbdee1" ],  
+      "TEXT_LINK": [ "#91a4ff" ],
+      "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
@@ -252,7 +175,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/Jna6loG.png"
+        "url": "https://i.imgur.com/c9j0cfF.png"
     },
    "plus":{
        "version":"0",
