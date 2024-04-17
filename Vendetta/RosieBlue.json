@@ -40,7 +40,7 @@
       "BACKGROUND_MENTIONED_HOVER": [ "#ABB3FF80" ],
       "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#272830" ],
-      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#383b51" ], 
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#373745" ], 
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#42435c" ],  
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ], 
       "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],  
@@ -187,14 +187,7 @@
           "ic_radio_square_checked_24px": "#4A75E0",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
           "ic_selection_checked_24px": "#4A75E0",
-          "ic_selection_checked_24px__overlay": "#FFFFFF",
-          "img_account_sync_spotify_white": "#1ed760",
-          "StatusMobileOnline": "#3BA55C",
-          "StatusIdle": "#FAA61A",
-          "StatusDND": "#F04747",
-          "StatusOffline": "#747F8D",
-          "StatusOnline": "#3BA55C",
-          "StatusStreaming": "#593695"
+          "ic_selection_checked_24px__overlay": "#FFFFFF"
  }
 },
     "spec": 2
