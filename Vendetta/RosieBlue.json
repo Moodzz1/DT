@@ -181,12 +181,12 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "ic_radio_circle_checked": "#4A75E0",
+          "ic_radio_circle_checked": "#B5BDFF",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#4A75E0",
-          "ic_radio_square_checked_24px": "#4A75E0",
+          "ic_radio_square_24px": "#B5BDFF",
+          "ic_radio_square_checked_24px": "#B5BDFF",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#4A75E0",
+          "ic_selection_checked_24px": "#B5BDFF",
           "ic_selection_checked_24px__overlay": "#FFFFFF"
  }
 },
