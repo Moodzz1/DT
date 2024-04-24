@@ -1,0 +1,60 @@
+{
+    "manifest": {
+        "author": "Moodl#0999",
+        "name": "CyberWorld",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Quinxxxx\/Disc-stuff\/main\/Cyberworld\/Cyberworld.json"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524451874074664\/verdana-bold.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524452079566868\/verdana.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/914303236326981653\/969524451534311474\/verdana-bold-italic.ttf",
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/999060620047556850\/1030540278634917908\/JosefinSans-Regular.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1010926211,
+        "accent": -4293983,
+        "statusbar": -14471624,
+        "mention_highlight": 880521661
+    },
+    "colors": {
+        "primary_dark_600": -13878970,
+        "primary_dark_630": -13483695,
+        "primary_dark_800": -13220008,
+        "primary_dark_360": -8604995,
+        "primary_dark_700": -14471624,
+        "primary_dark_300": -4351874,
+        "primary_dark_100": -4351874,
+        "uikit_settings_item_text_color_light": -6649665,
+        "primary_dark_660": -13483695,
+        "primary_dark_400": -4293251,
+        "primary_dark_200": -1840399,
+        "uikit_settings_item_text_color_dark": -2563607,
+        "primary_700": -12429718,
+        "brand_new": -4293983,
+        "brand_new_430": -4293983,
+        "brand_new_460": -4293983,
+        "brand_new_500": -4293983,
+        "brand_new_530": -4293983,
+        "brand_new_560": -4293983,
+        "brand_new_600": -4359262,
+        "brand_new_630": -4293983,
+        "brand_new_360": -4293983,
+        "brand_new_230": -4293983,
+        "brand_new_260": -4293983,
+        "brand_new_300": -4293983,
+        "link": -6649665,
+        "uikit_btn_bg_color_selector_green": -8677186,
+        "uikit_btn_bg_color_selector_brand": -8667502,
+        "ripple_material_light": -1715510934,
+        "white": -8667502,
+        "white_500": -3816569,
+        "uikit_btn_bg_color_selector_red": -4293251
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_dark": -3816569,
+        "ic_channel_topic_ellipsis_dark": -3816569
+    },
+    "raws": {}
+}
