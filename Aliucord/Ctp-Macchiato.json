@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Moodl",
         "version": "1.0",
-        "name": "Catppuccin macchiato"
+        "name": "Catppuccin macchiato",
+        "updater": "https:\/\/raw.githubusercontent.com\/Moodzz1\/DT\/main\/Aliucord\/Ctp-Macchiato.json"
     },
     "background": {
         "overlay_alpha": 0,
