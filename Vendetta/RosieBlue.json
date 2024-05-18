@@ -44,6 +44,8 @@
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#42435c" ],  
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ], 
       "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],  
+      "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1c1d24" ],
+      "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#1c1d24" ],
       "CHANNELS_DEFAULT": [ "#b6b6b6" ],
       "CHANNEL_ICON": [ "#BBC4F8" ],  
       "TEXT_PRIMARY": [ "#dbdee1" ],  
