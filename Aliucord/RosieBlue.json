@@ -1,0 +1,73 @@
+{
+    "manifest": {
+        "author": "Moodzz",
+        "name": "Rosie Blue",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Moodzz1\/Dt\/main\/aliucord\/rosieblue.json"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/c9j0cfF.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Bold.ttf?raw=1",
+        "whitney_bold": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Bold.ttf?raw=1",
+        "ginto_medium": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Medium.ttf?raw=1",
+        "roboto_medium_numbers": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Medium.ttf?raw=1",
+        "whitney_medium": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Medium.ttf?raw=1",
+        "sourcecodepro_semibold": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Medium.ttf?raw=1",
+        "whitney_semibold": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Medium.ttf?raw=1",
+        "ginto_regular": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Regular.ttf?raw=1",
+        "*": "https:\/\/github.com\/Moodzz1\/Trakya-font\/blob\/main\/Trakya-Regular.ttf?raw=1"
+    },
+    "simple_colors": {
+        "accent": -4866561,
+        "mention_highlight": 1583582719,
+        "active_channel": -13750472,
+        "input_background": -15592681,
+        "statusbar": -14671832
+    },
+    "colors": {
+        "primary_700": -14145229,
+        "primary_dark_200": -2367775,
+        "primary_dark_330": -7168793,
+        "primary_dark_600": -14408917,
+        "primary_dark_630": -14408917,
+        "primary_dark_700": -14671832,
+        "primary_dark_360": -8092524,
+        "primary_dark_800": -14606297,
+        "white_500": -1,
+        "uikit_settings_item_text_color_light": -13224119,
+        "link": -7232257,
+        "uikit_btn_bg_color_selector_red": -7887141,
+        "uikit_btn_bg_color_selector_green": -7426331,
+        "link_500": -7232257,
+        "uikit_settings_item_text_color_dark": -2367775,
+        "primary_dark_400": -7168793,
+        "brand_new_360": -6833676,
+        "primary_300": -6706507,
+        "primary_dark_660": -14934748,
+        "primary_600": -6881536,
+        "primary_630": -14472658,
+        "primary_660": -5783424,
+        "status_grey_200": -4866561,
+        "primary_dark_300": -3749682,
+        "brand_new_260": -6372865,
+        "brand_new_500": -7097107
+    },
+    "drawable_tints": {
+        "ic_channel_text": -6178817,
+        "ic_channel_text_locked": -6178817,
+        "ic_channel_text_nsfw": -6178817,
+        "ic_channel_voice": -6178817,
+        "ic_channel_voice_locked": -6178817,
+        "drawable_open_folder_dark": -13750472,
+        "ic_status_idle_16dp": -1002958,
+        "ic_status_dnd_16dp": -901309,
+        "ic_ban_red_24dp": -7887141,
+        "ic_channel_topic_ellipsis_dark": -6178817,
+        "ic_content_copy_white_a60_24dp": -6178817,
+        "ic_direct_message_header": -6178817
+    },
+    "raws": {}
+}
