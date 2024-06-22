@@ -50,7 +50,8 @@
       "CHANNEL_ICON": [ "#BBC4F8" ],  
       "TEXT_PRIMARY": [ "#dbdee1" ],  
       "TEXT_LINK": [ "#91a4ff" ],
-      "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ]
+      "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
+      "BG_MOD_FAINT": [ "#474562" ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
