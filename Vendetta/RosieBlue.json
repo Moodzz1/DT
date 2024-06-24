@@ -51,7 +51,8 @@
       "TEXT_PRIMARY": [ "#dbdee1" ],  
       "TEXT_LINK": [ "#91a4ff" ],
       "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
-      "BG_MOD_FAINT": [ "#464964" ]
+      "BG_MOD_FAINT": [ "#464964" ],
+      "INPUT_BACKGROUND": [ "#16151b" ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
@@ -66,8 +67,8 @@
         "PRIMARY_600": "#24232b",
         "PRIMARY_630": "#323442",
         "PRIMARY_645": "#25262e",
-        "PRIMARY_660": "#1c1d24",
-        "PRIMARY_700": "#1c1d24",
+        "PRIMARY_660": "#16151b",
+        "PRIMARY_700": "#16151b",
         "PRIMARY_800": "#212027",
         "PLUM_10": "#848494",
         "PLUM_15": "#B5BDFF",
