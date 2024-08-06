@@ -2,7 +2,7 @@
     "name": "Catppuccin Macchiato",
     "description": "Soothing pastel theme for the high-spirited!",
     "version": "2",
-    "spec": 2,
+    "spec": "2",
     "authors": [
       {
         "name": "Catppuccin"
@@ -360,6 +360,5 @@
           "UserPlusIcon": "#a6da95",
           "WrenchIcon": "#91d7e3"
  }
-},
-    "spec": 2
+}
 }
