@@ -35,7 +35,8 @@
       "BACKGROUND_MODIFIER_HOVER": [ "#ffffff05" ],
       "BACKGROUND_MODIFIER_ACTIVE": [ "#ffffff14" ],
       "BACKGROUND_MODIFIER_SELECTED": [ "#ffffff0a" ],
-      "BACKGROUND_MODIFIER_ACCENT": [ "#2E2F38" ],
+      "BACKGROUND_MODIFIER_ACCENT": [ "#212027" ],
+      "BG_MOD_STRONG": [ "#363749" ],
       "BACKGROUND_MENTIONED": [ "#97B9F417" ],
       "BACKGROUND_MENTIONED_HOVER": [ "#ABB3FF80" ],
       "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
@@ -180,7 +181,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/QAqruyG.png"
+        "url": "https://i.imgur.com/nJ1Pj3p.png"
     },
     "plus": {
        "version": "0",
