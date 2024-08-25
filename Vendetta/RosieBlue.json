@@ -196,7 +196,11 @@
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
           "ic_selection_checked_24px": "#B5BDFF",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
-          "img_guild_folder": "#B5BDFF"
+          "img_guild_folder": "#B5BDFF",
+          "StatusOnline": "#8EAEE5",
+          "StatusIdle": "#87A6DB",
+          "StatusDND": "#97B9F4",
+          "StatusOffline": "#bebee3"
             }
     },
     "fonts":{
