@@ -187,7 +187,7 @@
     },
     "plus": {
        "version": "0",
-       "iconpack": "solar",
+       "iconpack": "solarduotone",
        "mentionLineColor": "#97B9F4",
        "customOverlays": true,
        "icons":{
