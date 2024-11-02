@@ -26,6 +26,7 @@
         "BACKGROUND_SECONDARY_ALT": [ "#19191f" ],
         "BORDER_FAINT": [ "#494C69" ], 
         "CARD_PRIMARY_BG": [ "#24232b" ],
+        "CARD_PRIMARY_PRESSED_BG": [ "#535260" ],
         "CARD_SECONDARY_BG": [ "#2B2833" ],
         "CHANNEL_ICON": [ "#BBC4F8" ],
         "CHANNELS_DEFAULT": [ "#b6b6b6" ],
@@ -56,7 +57,8 @@
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#1c1d24" ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ],
         "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1c1d24" ]
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1c1d24" ],
+        "MENTION_FOREGROUND": [ "#97B9F4" ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
@@ -187,7 +189,7 @@
     },
     "plus": {
        "version": "0",
-       "iconpack": "solarduotune",
+       "iconpack": "solarduotone",
        "mentionLineColor": "#97B9F4",
        "customOverlays": true,
        "icons":{
