@@ -180,7 +180,8 @@
         "BLUE_630": "#6880A8",
         "BLUE_660": "#637BA0",
         "BLUE_700": "#60779B",
-        "WHITE_500": "#FFFFFF",
+        "WHITE_500": "#fff",
+        "BLACK_500": "#fff",
         "WHITE_630": "#676977"
     },
     "background": {
