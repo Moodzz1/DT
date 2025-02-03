@@ -166,6 +166,7 @@
    },
    "plus":{
        "version":"0",
+       "iconpack":"solar-duotune",
        "mentionLineColor": "#BDBAEB",
        "customOverlays": true,
        "icons":{
