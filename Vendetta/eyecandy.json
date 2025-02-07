@@ -27,12 +27,8 @@
      "BG_BASE_PRIMARY": [ "#4B4957" ],
      "BG_BASE_SECONDARY": [ "#3F3E4A" ],
      "BG_BASE_TERTIARY": [ "#484654" ],
-<<<<<<< HEAD
-     "BG_MOD_SUBTLE": [ "#CFC7D83E" ],
-=======
      "BG_MOD_SUBTLE": [ "#C48A7A3E" ],
      "BG_SURFACE_OVERLAY_TMP": [ "#474655" ],   
->>>>>>> 54afe9a (fixes, use more colours from hanibee's eye candy)
      "CARD_PRIMARY_BG": [ "#4B4957" ],
      "CARD_SECONDARY_BG": [ "#474453" ],
      "CHANNEL_ICON": [ "#BDBECC" ],
