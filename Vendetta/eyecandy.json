@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "authors": [
       {
-        "name": "Moodl",
+        "name": "Mudueon",
         "id": "807170846497570848"
       }
     ],
@@ -27,10 +27,14 @@
      "BG_BASE_PRIMARY": [ "#4B4957" ],
      "BG_BASE_SECONDARY": [ "#3F3E4A" ],
      "BG_BASE_TERTIARY": [ "#484654" ],
+<<<<<<< HEAD
      "BG_MOD_SUBTLE": [ "#CFC7D83E" ],
+=======
+     "BG_MOD_SUBTLE": [ "#C48A7A3E" ],
+     "BG_SURFACE_OVERLAY_TMP": [ "#474655" ],   
+>>>>>>> 54afe9a (fixes, use more colours from hanibee's eye candy)
      "CARD_PRIMARY_BG": [ "#4B4957" ],
      "CARD_SECONDARY_BG": [ "#474453" ],
-     "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
      "CHANNEL_ICON": [ "#BDBECC" ],
      "CHANNELS_DEFAULT": [ "#E8E8EA" ],
      "EMBED_BACKGROUND": [ "#3F3E4A" ],
@@ -58,9 +62,11 @@
      "BLUE_345": "#FFE1C1",
      "BRAND_230": "#D0B278",
      "BRAND_260": "#AF986B",
+     "BRAND_300": "#C3A16E",
      "BRAND_360": "#E8E8EA",
-     "BRAND_500": "#AF986B",
+     "BRAND_500": "#C3A16E",
      "BRAND_560": "#C88EAD",
+     "BRAND_730": "#9F8657",
      "BRAND_NEW_500_ALPHA_20": "#C88EAD",
      "CHAT_MENTIONS_BACKGROUND_DARK": "#DFBE804D",
      "CHAT_MENTIONS_FOREGROUND_DARK": "#DFBE80",
@@ -126,7 +132,8 @@
      "PRIMARY_630": "#474453",
      "PRIMARY_645": "#EAA3C5",
      "PRIMARY_660": "#61606D",
-     "PRIMARY_700": "#696779",
+     "PRIMARY_700": "#33323C",
+     "PRIMARY_730": "#33323C",  
      "PRIMARY_800": "#61606D",
      "RED_260": "#C48A7A",
      "RED_300": "#C48A7A",
@@ -178,12 +185,12 @@
        "mentionLineColor": "#BDBAEB",
        "customOverlays": true,
        "icons":{
-          "ic_radio_circle_checked": "#AF986B",
+          "ic_radio_circle_checked": "#C5A361",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#AF986B",
-          "ic_radio_square_checked_24px": "#AF986B",
+          "ic_radio_square_24px": "#C5A361",
+          "ic_radio_square_checked_24px": "#C5A361",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#AF986B",
+          "ic_selection_checked_24px": "#C5A361",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
           "StatusMobileOnline": "#8DB97A",
           "StatusIdle": "#D0B278",
