@@ -1,6 +1,6 @@
 {
     "name": "Eye Candy",
-    "description": "A Darker varient of Eye Candy. Original made by HaniBee",
+    "description": "A Darker varient of Hanibee's' Eye Candy",
     "version": "2.0.0",
     "authors": [
       {
@@ -28,7 +28,7 @@
      "BG_BASE_SECONDARY": [ "#33323C" ],
      "BG_BASE_TERTIARY": [ "#393843" ],
      "BG_MOD_SUBTLE": [ "#C48A7A3E" ],
-     "BG_SURFACE_OVERLAY_TMP": [ "#383743" ],      
+     "BG_SURFACE_OVERLAY_TMP": [ "#383743" ],
      "CARD_PRIMARY_BG": [ "#3B3A45" ],
      "CARD_SECONDARY_BG": [ "#474453" ],
      "CHANNEL_ICON": [ "#BDBECC" ],
@@ -50,6 +50,8 @@
      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#E8E8EA" ],
      "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],
      "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#5A4D5E" ],
+     "STATUS_DND": [ "#C48A7A" ],
+     "STATUS_DANGER": [ "#C48A7A" ], 
      "TEXT_LINK": [ "#FFE1C1" ],
      "TEXT_MUTED": [ "#CEB0CD" ],
      "TEXT_NORMAL": [ "#E8E8EA" ],
@@ -140,7 +142,7 @@
      "RED_330": "#C48A7A",
      "RED_345": "#C48A7A",
      "RED_360": "#C48A7A",
-     "RED_400": "#C48A7A",
+     "RED_400": "#C5A361",
      "RED_430": "#C48A7A",
      "RED_460": "#C48A7A",
      "RED_500": "#C48A7A",
